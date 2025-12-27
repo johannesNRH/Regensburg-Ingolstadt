@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="4" BoundingR="569" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Kacheln\32_684500_5400500.ls3"/>
+<p X="500" Y="500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="592" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Kacheln\32_682500_5400500.ls3"/>
+<p X="-1500" Y="500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="566" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Kacheln\32_685500_5400500.ls3"/>
+<p X="1500" Y="500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="604" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Kacheln\32_681500_5400500.ls3"/>
+<p X="-2500" Y="500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="580" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Kacheln\32_683500_5400500.ls3"/>
+<p X="-500" Y="500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="548" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Kacheln\32_686500_5400500.ls3"/>
+<p X="2500" Y="500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="523" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Kacheln\32_687500_5400500.ls3"/>
+<p X="3500" Y="500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Ankerpunkt AnkerKat="2" Beschreibung="Mast 70 8" Farbe="00FFFF00">
+<p X="-2888.9451" Y="163.7791" Z="365.2884"/>
+<phi Z="0.023294"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="ESig Ingolstadt" Farbe="00FFFF00">
+<p X="-2864.804" Y="169.384" Z="365.2751"/>
+<phi Z="3.164827"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="70 4" Farbe="00FFFF00">
+<p X="-2504.804" Y="172.158" Z="365.078"/>
+<phi Z="0.023272"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Sig" Farbe="00FFFF00">
+<p X="-2614.2571" Y="169.775" Z="365.138"/>
+<phi Z="0.023336"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Autobahn" Farbe="00FFFF00">
+<p X="-2061.679" Y="213.134" Z="372.5378"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Farbe="00FFFF00">
+<p X="-2073.3979" Y="182.431" Z="364.5451"/>
+<phi Z="0.023211"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Farbe="00FFFF00">
+<p X="-1986.015" Y="191.396" Z="364.4344"/>
+<phi Z="3.164821"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Farbe="00FFFF00">
+<p X="-1981.172" Y="191.474" Z="364.4283"/>
+<phi Z="3.164833"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Farbe="00FFFF00">
+<p X="-1989.3361" Y="191.787" Z="364.4386"/>
+<phi Z="3.16482"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Bü" Farbe="00FFFF00">
+<p X="-716.4448" Y="217.041" Z="363.733"/>
+<phi Z="3.164813"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Bü" Farbe="00FFFF00">
+<p X="-2332.8511" Y="179.306" Z="364.981"/>
+<phi Z="3.164814"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="VSig" Farbe="00FFFF00">
+<p X="-605.8198" Y="216.025" Z="363.7582"/>
+<phi Z="0.023137"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Brücke" Farbe="00FFFF00">
+<p X="6.0549" Y="233.838" Z="364.5591"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Brücke" Farbe="00FFFF00">
+<p X="-93.1641" Y="231.494" Z="364.4412"/>
+<phi Z="3.16478"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Brücke" Farbe="00FFFF00">
+<p X="656.9919" Y="281.181" Z="371.6887"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Brücke" Farbe="00FFFF00">
+<p X="685.9771" Y="215.947" Z="371.6635"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Gebäude" Farbe="00FFFF00">
+<p X="927.5391" Y="281.806" Z="362.8386"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="STW" Farbe="00FFFF00">
+<p X="1162.3051" Y="275.713" Z="363.8415"/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Farbe="00FFFF00">
+<p X="1761.4449" Y="277.197" Z="362.7896"/>
+<phi Z="3.164753"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Farbe="00FFFF00">
+<p X="2144.6479" Y="309.97" Z="362.1768"/>
+<phi Z="3.164812"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Bü" Farbe="00FFFF00">
+<p X="2624.6479" Y="295.244" Z="361.5949"/>
+<phi Z="3.190541"/>
+</Ankerpunkt>
+<Ankerpunkt AnkerKat="2" Beschreibung="Bü" Farbe="00FFFF00">
+<p X="3600.1951" Y="526.728" Z="361.1553"/>
+<phi Z="3.428884"/>
+</Ankerpunkt>
+</Landschaft>
+</Zusi>

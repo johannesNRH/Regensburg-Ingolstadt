@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="Detail_32_681625_5400125.lsb"/>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 200" MeterProTex="10" MeterProTex2="10" MeshV="132" MeshI="504">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 200" MeterProTex="10" MeterProTex2="10" MeshV="141" MeshI="540">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+</Landschaft>
+</Zusi>

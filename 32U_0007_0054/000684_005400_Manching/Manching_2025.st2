@@ -1,0 +1,898 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Zusi>
+  <Info DateiTyp="Gleisplan" Version="A.1" MinVersion="A.1">
+    <AutorEintrag AutorID="0" AutorName="johannesNRH" AutorEmail="" AutorAufwand="0" AutorBeschreibung="" />
+  </Info>
+  <Gleisplan>
+    <HGBilder>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\32681_5400_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\32682_5400_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\32683_5400_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\32684_5400_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\32685_5400_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\32686_5400_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\32687_5400_georef.trf" />
+      </Bild>
+    </HGBilder>
+    <Lageplan>
+      <UTM UTM_WE="684" UTM_NS="5400" UTM_Zone="32" UTM_Zone2="U" />
+      <Huellkurve>
+        <PunktXYZ X="5212.041" Y="-4210.6" />
+        <PunktXYZ X="2378.938" Y="5379.684" />
+        <PunktXYZ X="-3043.699" Y="5164.099" />
+        <PunktXYZ X="-2811.417" Y="-4833.203" />
+      </Huellkurve>
+      <DEM>
+        <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\680_5399_t.dem" />
+      </DEM>
+      <Gerade ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2332.837" Y="179.266" W="0.02323256" km="70.2283" />
+        <PunktWinkel X="-2126.268" Y="184.066" W="3.164825" km="70.0495" />
+      </Gerade>
+      <Weiche ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="190 1:9 Links" Signalname="101">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="27.13872" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="-1.570796" WinkelLauf="0.1106572">
+            <PunktWinkel X="5.964413E-05" Y="1.52588E-05" W="3.139165E-07" />
+            <PunktWinkel X="20.98204" Y="1.162112" W="-3.030935" />
+            <Punkt Y="190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="20.98199" Y="1.16209" W="0.1106574" />
+            <PunktWinkel X="27.03709" Y="1.83488" W="3.25225" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="-1971.603" Y="187.6591" W="0.02323033" />
+        <PunktWinkel X="27.13872" W="3.141593" />
+        <PunktWinkel X="27.03909" Y="1.83488" W="3.25225" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Links_Betonschw_K-Oberbau.st3" />
+      </Weiche>
+      <Weiche ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="49 190 1:6,6 rechts" Signalname="102">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="25.86" W="3.141593" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="28.463" Y="-2.1441" W="-0.1526656" />
+            <PunktWinkel X="29.8402" Y="-2.356" W="2.988927" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="1.570796" WinkelLauf="-0.1503715">
+            <PunktWinkel X="5.964413E-05" Y="-3.051759E-05" W="6.283185" />
+            <PunktWinkel X="28.46309" Y="-2.144096" W="2.991221" />
+            <Punkt Y="-190" />
+          </Kreisbogen>
+        </Elemente>
+        <PunktWinkel X="-1918.985" Y="193.573" W="-3.007705" />
+        <PunktWinkel X="25.86" W="3.141593" />
+        <PunktWinkel X="29.8402" Y="-2.356" W="2.988927" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\49_190_1-6_6_Rechts_Holzschw_K-Oberbau_Rost.st3" />
+      </Weiche>
+      <Gerade ProfilName="Manching" spTrass="6.944445" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1948.873" Y="191.925" W="3.122844" />
+        <PunktWinkel X="-1967.427" Y="192.2729" W="6.264437" />
+      </Gerade>
+      <Weiche ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" Beschreibung="54-500-1:12L" Signalname="14">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="41.59458" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.002" WinkelAnf="-1.570796" WinkelLauf="0.08314123">
+            <PunktWinkel X="0.0001569582" Y="3.05176E-05" W="3.139165E-07" />
+            <PunktWinkel X="41.52289" Y="1.727164" W="-3.058451" />
+            <Punkt Y="500" />
+          </Kreisbogen>
+        </Elemente>
+        <PunktWinkel X="852.71" Y="253.281" W="0.02323033" />
+        <PunktWinkel X="41.59548" W="3.141593" />
+        <PunktWinkel X="41.52274" Y="1.72712" W="3.224734" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\54_500_1-12_Links_Betonschw_K-Oberbau.st3" />
+      </Weiche>
+      <Weiche ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" Beschreibung="54-500-1:12R" Signalname="13">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="41.59458" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.002" WinkelAnf="1.570796" WinkelLauf="-0.08314123">
+            <PunktWinkel X="0.0001569582" Y="-6.103518E-05" W="6.283185" />
+            <PunktWinkel X="41.52289" Y="-1.727195" W="3.058451" />
+            <Punkt Y="-500" />
+          </Kreisbogen>
+        </Elemente>
+        <PunktWinkel X="894.2939" Y="254.2469" W="0.02323033" />
+        <PunktWinkel X="41.59548" W="3.141593" />
+        <PunktWinkel X="41.52274" Y="-1.72712" W="3.058451" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\54_500_1-12_Rechts_Betonschw_K-Oberbau.st3" />
+      </Weiche>
+      <Weiche ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" Beschreibung="54-300-1:9.4L" Signalname="4">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="33.23108" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.003333333" WinkelAnf="-1.570796" WinkelLauf="0.1059844">
+            <PunktWinkel X="9.417495E-05" Y="-3.051756E-05" W="3.139165E-07" />
+            <PunktWinkel X="31.73593" Y="1.683307" W="-3.035608" />
+            <Punkt Y="300" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="31.73582" Y="1.68333" W="0.1059818" />
+            <PunktWinkel X="33.13354" Y="1.83202" W="3.247574" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="1448.694" Y="267.1281" W="0.02323033" />
+        <PunktWinkel X="33.23108" W="3.141593" />
+        <PunktWinkel X="33.13354" Y="1.83202" W="-3.035608" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\300\54_300_1-9_4_Links_Betonschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1607.878" Y="281.402" W="0.02393274" />
+        <PunktWinkel X="1699.529" Y="283.5959" W="3.165525" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1598.561" Y="281.179" W="0.02393254" />
+        <PunktWinkel X="1607.878" Y="281.402" W="3.165525" />
+      </Gerade>
+      <Weiche ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" Beschreibung="190 1:7.5 Links" Signalname="22">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="25.862" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="-1.570796" WinkelLauf="0.1325515">
+            <PunktWinkel X="5.964413E-05" Y="1.52588E-05" W="3.139165E-07" />
+            <PunktWinkel X="25.11116" Y="1.666721" W="-3.009041" />
+            <Punkt Y="190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="25.11111" Y="1.6667" W="0.1325549" />
+            <PunktWinkel X="25.74507" Y="1.75123" W="3.274148" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="1763.146" Y="282.552" W="3.120441" />
+        <PunktWinkel X="25.8613" W="3.141593" />
+        <PunktWinkel X="25.74507" Y="1.75123" W="3.274144" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-7_5_Links_Betonschw_K-Oberbau.st3" />
+      </Weiche>
+      <Kreisbogen ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.003364259" WinkelAnf="1.59473" WinkelLauf="-0.04508495">
+        <PunktWinkel X="1699.529" Y="283.5961" W="6.307119" />
+        <PunktWinkel X="1712.929" Y="283.6148" W="3.120441" />
+        <Punkt X="1706.642" Y="-13.56104" />
+      </Kreisbogen>
+      <Gerade ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1712.929" Y="283.615" W="-0.02117695" />
+        <PunktWinkel X="1737.291" Y="283.099" W="3.120416" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1729.741" Y="280.493" W="0.1113311" />
+        <PunktWinkel X="1737.37" Y="281.3459" W="3.252924" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1912.024" Y="284.2" W="-3.121798" />
+        <PunktWinkel X="1803.269" Y="282.047" W="0.01979438" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1763.146" Y="282.552" W="-0.02113997" />
+        <PunktWinkel X="1786.51" Y="282.058" W="3.120453" />
+      </Gerade>
+      <Kreisbogen ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.002443109" WinkelAnf="-1.591948" WinkelLauf="0.04094455">
+        <PunktWinkel X="1786.51" Y="282.058" W="-0.0211517" />
+        <PunktWinkel X="1803.268" Y="282.0467" W="-3.1218" />
+        <Punkt X="1795.167" Y="691.281" />
+      </Kreisbogen>
+      <Gerade ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1918.985" Y="193.573" W="0.133895" />
+        <PunktWinkel X="-1865.874" Y="200.7271" W="3.275488" />
+      </Gerade>
+      <Kreisbogen ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.003459392" WinkelAnf="4.846276" WinkelLauf="0.9007433">
+        <PunktWinkel X="-1865.874" Y="200.7269" W="6.417072" />
+        <PunktWinkel X="-1655.957" Y="339.5393" W="4.176223" />
+        <Punkt X="-1904.461" Y="487.208" />
+      </Kreisbogen>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2927.558" Y="165.448" W="0.02323025" km="70.82314" />
+        <PunktWinkel X="-2332.837" Y="179.266" W="3.164823" km="70.22826" />
+      </Gerade>
+      <Gerade st2Typ="1" ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2332.791" Y="177.267" W="0.02323013" km="70.22826" />
+        <PunktWinkel X="2540.219" Y="290.488" W="3.164823" km="65.35393" />
+      </Gerade>
+      <Gerade st2Typ="1" ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2332.791" Y="177.267" W="-3.118363" km="70.22826" />
+        <PunktWinkel X="-2929.156" Y="163.411" W="0.02322999" km="70.82478" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1394.614" Y="201.0649" W="0.02323059" km="67.45382" />
+        <PunktWinkel X="621.55" Y="247.91" W="3.164823" km="66.5134" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1944.472" Y="188.2889" W="0.02324205" />
+        <PunktWinkel X="-1394.615" Y="201.071" W="3.164835" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2126.268" Y="184.066" W="0.02322738" />
+        <PunktWinkel X="-1971.603" Y="187.6591" W="3.16482" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="852.71" Y="253.281" W="-3.118362" />
+        <PunktWinkel X="621.55" Y="247.91" W="0.0232307" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1907.675" Y="277.792" W="0.02323073" km="-0.6361" />
+        <PunktWinkel X="2540.172" Y="292.488" W="3.164823" km="-0.0034" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="935.8789" Y="255.213" W="0.02323054" />
+        <PunktWinkel X="1448.694" Y="267.1281" W="3.164823" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1423.019" Y="277.2629" W="-3.117071" />
+        <PunktWinkel X="999.9319" Y="266.886" W="0.02452174" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="894.1819" Y="255.972" W="0.1064019" />
+        <PunktWinkel X="900.8201" Y="256.681" W="3.247995" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1067.051" Y="243.829" W="-3.118444" />
+        <PunktWinkel X="1059.406" Y="243.652" W="0.02314845" />
+      </Gerade>
+      <Weiche ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="49-300-1:14L" Signalname="1">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="35.238" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.003333333" WinkelAnf="-1.570796" WinkelLauf="0.07130747">
+            <PunktWinkel X="9.417495E-05" Y="-3.051756E-05" W="3.139165E-07" />
+            <PunktWinkel X="21.37421" Y="0.7623665" W="-3.070285" />
+            <Punkt Y="300" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="21.37441" Y="0.76239" W="0.07131955" />
+            <PunktWinkel X="35.1846" Y="1.749" W="3.212912" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="1907.675" Y="277.792" W="-3.118362" km="65.46926" />
+        <PunktWinkel X="35.238" W="3.141593" />
+        <PunktWinkel X="35.1846" Y="1.749" W="3.2129" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\300\49_300_1-14_Links_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1481.916" Y="267.9" W="0.02323092" />
+        <PunktWinkel X="1872.446" Y="276.974" W="3.164824" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1872.54" Y="275.226" W="-3.047066" />
+        <PunktWinkel X="1860.442" Y="274.079" W="0.09452668" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1145.93" Y="239.059" W="0.02283291" />
+        <PunktWinkel X="1719.997" Y="252.1689" W="3.164426" />
+      </Gerade>
+      <Weiche ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="49 190 1:6,6 rechts" Signalname="9">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="25.86" W="3.141593" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="28.463" Y="-2.1441" W="-0.1526656" />
+            <PunktWinkel X="29.8402" Y="-2.356" W="2.988927" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="1.570796" WinkelLauf="-0.1503715">
+            <PunktWinkel X="5.964413E-05" Y="-3.051759E-05" W="6.283185" />
+            <PunktWinkel X="28.46309" Y="-2.144096" W="2.991221" />
+            <Punkt Y="-190" />
+          </Kreisbogen>
+        </Elemente>
+        <PunktWinkel X="1067.051" Y="243.829" W="0.02312509" />
+        <PunktWinkel X="25.86" W="3.141593" />
+        <PunktWinkel X="29.862" Y="-2.356" W="2.99127" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\49_190_1-6_6_Rechts_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.003585757" WinkelAnf="-1.547963" WinkelLauf="-0.1500307">
+        <PunktWinkel X="1145.93" Y="239.0596" W="3.164426" />
+        <PunktWinkel X="1104.186" Y="241.2399" W="-0.1271974" />
+        <Punkt X="1139.563" Y="517.868" />
+      </Kreisbogen>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1104.186" Y="241.24" W="3.014445" />
+        <PunktWinkel X="1096.959" Y="242.1639" W="6.156037" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1092.904" Y="244.427" W="0.02312266" />
+        <PunktWinkel X="1747.681" Y="259.5699" W="3.164715" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1872.163" Y="262.965" W="-3.059017" />
+        <PunktWinkel X="1785.495" Y="255.792" W="0.08257571" />
+      </Gerade>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0009954595" WinkelAnf="-1.547963" WinkelLauf="0.05974648">
+        <PunktWinkel X="1719.997" Y="252.1696" W="0.0228333" />
+        <PunktWinkel X="1779.924" Y="255.331" W="-3.059013" />
+        <Punkt X="1697.062" Y="1256.469" />
+      </Kreisbogen>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1779.924" Y="255.3311" W="0.0825446" />
+        <PunktWinkel X="1785.495" Y="255.792" W="3.224137" />
+      </Gerade>
+      <Weiche ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="190 1:9 Rechts" Signalname="15">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="27.13872" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="1.570796" WinkelLauf="-0.1106572">
+            <PunktWinkel X="5.964413E-05" Y="-3.051759E-05" W="6.283185" />
+            <PunktWinkel X="20.98204" Y="-1.162127" W="3.030935" />
+            <Punkt Y="-190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="20.98199" Y="-1.16209" W="-0.1106574" />
+            <PunktWinkel X="27.03709" Y="-1.83488" W="3.030935" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="927.8059" Y="259.562" W="-3.035215" />
+        <PunktWinkel X="27.13872" W="3.141593" />
+        <PunktWinkel X="27.03909" Y="-1.83488" W="3.030936" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Rechts_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0009289653" WinkelAnf="1.66533" WinkelLauf="0.0056541">
+        <PunktWinkel X="1860.442" Y="274.0791" W="3.236126" />
+        <PunktWinkel X="1854.385" Y="273.4875" W="0.1001878" />
+        <Punkt X="1962.053" Y="-797.5811" />
+      </Kreisbogen>
+      <Weiche ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="49-300-1:14R" Signalname="2">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="35.238" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.003333333" WinkelAnf="1.570796" WinkelLauf="-0.07130747">
+            <PunktWinkel X="9.417495E-05" Y="6.103514E-05" W="6.283185" />
+            <PunktWinkel X="21.37421" Y="-0.762336" W="3.070285" />
+            <Punkt Y="-300" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="21.37441" Y="-0.76239" W="-0.07131955" />
+            <PunktWinkel X="35.1846" Y="-1.749" W="3.070273" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="1854.384" Y="273.488" W="-3.041404" />
+        <PunktWinkel X="35.238" W="3.141593" />
+        <PunktWinkel X="35.1846" Y="-1.749" W="3.070285" />
+        <Biegung BiegeLaenge="84.80282" BiegeKruemmung="0.0009289653" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\300\49_300_1-14_Rechts_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.000200256" WinkelAnf="1.703719" WinkelLauf="0.002437592">
+        <PunktWinkel X="1819.387" Y="269.3907" W="3.274515" />
+        <PunktWinkel X="1807.324" Y="267.7628" W="0.1353603" />
+        <Punkt X="2481.198" Y="-4680.167" />
+      </Kreisbogen>
+      <Weiche ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="49 190 1:6,6 rechts" Signalname="3">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="25.86" W="3.141593" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="28.463" Y="-2.1441" W="-0.1526656" />
+            <PunktWinkel X="29.8402" Y="-2.356" W="2.988927" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="1.570796" WinkelLauf="-0.1503715">
+            <PunktWinkel X="5.964413E-05" Y="-3.051759E-05" W="6.283185" />
+            <PunktWinkel X="28.46309" Y="-2.144096" W="2.991221" />
+            <Punkt Y="-190" />
+          </Kreisbogen>
+        </Elemente>
+        <PunktWinkel X="1807.322" Y="267.762" W="-3.006232" />
+        <PunktWinkel X="25.86" W="3.141593" />
+        <PunktWinkel X="29.862" Y="-2.356" W="2.99127" />
+        <Biegung BiegeLaenge="10.90053" BiegeKruemmung="0.000200256" />
+        <Biegung BiegeWinkel="0.002182896" BiegeLaenge="36.40885" BiegeKruemmung="0.004144353" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\49_190_1-6_6_Rechts_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1781.778" Y="263.77" W="-2.942004" />
+        <PunktWinkel X="1778.98" Y="263.204" W="0.1995887" />
+      </Gerade>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.005875429" WinkelAnf="-1.547673" WinkelLauf="0.1764197">
+        <PunktWinkel X="1747.681" Y="259.5702" W="0.02312334" />
+        <PunktWinkel X="1777.483" Y="262.9019" W="-2.94205" />
+        <Punkt X="1743.746" Y="429.725" />
+      </Kreisbogen>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1777.483" Y="262.901" W="0.1997193" />
+        <PunktWinkel X="1778.98" Y="263.204" W="3.341312" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1749.433" Y="264.316" W="-3.118355" />
+        <PunktWinkel X="1044.599" Y="247.934" W="0.02323809" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="935.8459" Y="253.485" W="-0.05991869" />
+        <PunktWinkel X="940.73" Y="253.192" W="3.081674" />
+      </Gerade>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0006068413" WinkelAnf="1.510885" WinkelLauf="-0.004689096">
+        <PunktWinkel X="940.7305" Y="253.1918" W="6.223274" />
+        <PunktWinkel X="948.4426" Y="252.711" W="3.076992" />
+        <Punkt X="842.063" Y="-1391.729" />
+      </Kreisbogen>
+      <Weiche ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="49-300-1:14L" Signalname="11">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="35.238" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.003333333" WinkelAnf="-1.570796" WinkelLauf="0.07130747">
+            <PunktWinkel X="9.417495E-05" Y="-3.051756E-05" W="3.139165E-07" />
+            <PunktWinkel X="21.37421" Y="0.7623665" W="-3.070285" />
+            <Punkt Y="300" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="21.37441" Y="0.76239" W="0.07131955" />
+            <PunktWinkel X="35.1846" Y="1.749" W="3.212912" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="948.4431" Y="252.7111" W="-0.06460074" />
+        <PunktWinkel X="35.238" W="3.141593" />
+        <PunktWinkel X="35.1846" Y="1.749" W="3.2129" />
+        <Biegung BiegeLaenge="50.47373" BiegeKruemmung="-0.0006068413" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\300\49_300_1-14_Links_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="983.5801" Y="250.0601" W="-0.08586999" />
+        <PunktWinkel X="990.261" Y="249.485" W="3.055723" />
+      </Gerade>
+      <Weiche ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="54-300-1:9.4R" Signalname="10">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="33.23108" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.003333333" WinkelAnf="1.570796" WinkelLauf="-0.1059844">
+            <PunktWinkel X="9.417495E-05" Y="6.103514E-05" W="6.283185" />
+            <PunktWinkel X="31.73593" Y="-1.683276" W="3.035608" />
+            <Punkt Y="-300" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="31.73582" Y="-1.68333" W="-0.1059818" />
+            <PunktWinkel X="33.13354" Y="-1.83202" W="3.035611" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="990.303" Y="249.481" W="-0.08589429" />
+        <PunktWinkel X="33.23108" W="3.141593" />
+        <PunktWinkel X="33.13354" Y="-1.83202" W="3.035608" />
+        <Biegung BiegeLaenge="45.22052" BiegeKruemmung="0.002081342" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\300\54_300_1-9_4_Rechts_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1044.599" Y="247.934" W="-3.118388" />
+        <PunktWinkel X="1040.165" Y="247.8311" W="0.02320424" />
+      </Gerade>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.002395761" WinkelAnf="-1.547558" WinkelLauf="-0.03996665">
+        <PunktWinkel X="1040.165" Y="247.8307" W="3.164831" />
+        <PunktWinkel X="1023.484" Y="247.7764" W="-0.01672825" />
+        <Punkt X="1030.466" Y="665.1219" />
+      </Kreisbogen>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1023.356" Y="245.947" W="-0.1230959" />
+        <PunktWinkel X="1028.255" Y="245.3409" W="3.018497" />
+      </Gerade>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.004968842" WinkelAnf="-1.547671" WinkelLauf="-0.1460431">
+        <PunktWinkel X="1059.406" Y="243.6518" W="3.164718" />
+        <PunktWinkel X="1030.077" Y="245.1164" W="-0.1229177" />
+        <Punkt X="1054.752" Y="444.8521" />
+      </Kreisbogen>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1030.076" Y="245.116" W="3.018715" />
+        <PunktWinkel X="1028.255" Y="245.3409" W="6.160307" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1006.163" Y="251.839" W="0.0232208" />
+        <PunktWinkel X="1780.976" Y="269.834" W="3.164814" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1006.163" Y="251.839" W="-3.118423" />
+        <PunktWinkel X="1003.142" Y="251.769" W="0.02316943" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="983.677" Y="251.807" W="-0.01452909" />
+        <PunktWinkel X="990.147" Y="251.713" W="3.127064" />
+      </Gerade>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.002913794" WinkelAnf="-1.585441" WinkelLauf="0.03786609">
+        <PunktWinkel X="990.1472" Y="251.7126" W="-0.01464467" />
+        <PunktWinkel X="1003.142" Y="251.7684" W="-3.118371" />
+        <Punkt X="995.1731" Y="594.871" />
+      </Kreisbogen>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.005171097" WinkelAnf="-1.575075" WinkelLauf="-0.09582312">
+        <PunktWinkel X="900.7245" Y="258.5162" W="3.137314" />
+        <PunktWinkel X="882.2264" Y="259.4825" W="-0.1001018" />
+        <Punkt X="901.552" Y="451.897" />
+      </Kreisbogen>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.002324033" WinkelAnf="1.677174" WinkelLauf="-0.009744999">
+        <PunktWinkel X="927.8053" Y="259.5621" W="6.389563" />
+        <PunktWinkel X="931.9769" Y="259.987" W="3.238225" />
+        <Punkt X="973.4919" Y="-168.292" />
+      </Kreisbogen>
+      <Weiche ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="54-300-1:9L" Signalname="12">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="33.23108" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.003333333" WinkelAnf="-1.570796" WinkelLauf="0.1106572">
+            <PunktWinkel X="9.417495E-05" Y="-3.051756E-05" W="3.139165E-07" />
+            <PunktWinkel X="33.12955" Y="1.834859" W="-3.030935" />
+            <Punkt Y="300" />
+          </Kreisbogen>
+        </Elemente>
+        <PunktWinkel X="931.9771" Y="259.9871" W="0.0966326" />
+        <PunktWinkel X="33.23108" W="3.141593" />
+        <PunktWinkel X="33.12946" Y="1.83488" W="3.25225" />
+        <Biegung BiegeLaenge="33.53108" BiegeKruemmung="-0.002324033" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\300\54_300_1-9_Links_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1536.021" Y="274.986" W="-3.118323" />
+        <PunktWinkel X="1527.17" Y="274.78" W="0.02326933" />
+      </Gerade>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.0008042923" WinkelAnf="1.590199" WinkelLauf="-0.009905612">
+        <PunktWinkel X="965.1447" Y="261.9132" W="6.302588" />
+        <PunktWinkel X="977.4593" Y="262.0912" W="3.15109" />
+        <Punkt X="989.2671" Y="-981.1819" />
+      </Kreisbogen>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.000804289" WinkelAnf="-1.561299" WinkelLauf="0.01379601">
+        <PunktWinkel X="977.459" Y="262.0921" W="0.00949736" />
+        <PunktWinkel X="994.6096" Y="262.3733" W="-3.118299" />
+        <Punkt X="965.6509" Y="1505.37" />
+      </Kreisbogen>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.003922662" WinkelAnf="1.595319" WinkelLauf="0.1057734">
+        <PunktWinkel X="999.9321" Y="266.8852" W="3.166115" />
+        <PunktWinkel X="973.0607" Y="264.801" W="0.1302961" />
+        <Punkt X="1006.183" Y="12.03296" />
+      </Kreisbogen>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="973.061" Y="264.802" W="-3.011235" />
+        <PunktWinkel X="965.0061" Y="263.746" W="0.1303574" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1475.537" Y="273.577" W="-3.1183" />
+        <PunktWinkel X="994.6089" Y="262.373" W="0.02329245" />
+      </Gerade>
+      <Weiche ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="190 1:7.5 Rechts" Signalname="6">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="25.862" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="1.570796" WinkelLauf="-0.1325515">
+            <PunktWinkel X="5.964413E-05" Y="-3.051759E-05" W="6.283185" />
+            <PunktWinkel X="25.11116" Y="-1.666736" W="3.009041" />
+            <Punkt Y="-190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="25.11111" Y="-1.6667" W="-0.1325549" />
+            <PunktWinkel X="25.74507" Y="-1.75123" W="3.009038" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="1501.392" Y="274.179" W="-3.118299" />
+        <PunktWinkel X="25.8613" W="3.141593" />
+        <PunktWinkel X="25.74507" Y="-1.75123" W="3.009041" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-7_5_Rechts_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1423.019" Y="277.2629" W="0.02454545" />
+        <PunktWinkel X="1427.458" Y="277.3719" W="3.166138" />
+      </Gerade>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.002773588" WinkelAnf="1.595319" WinkelLauf="-0.1337813">
+        <PunktWinkel X="1427.458" Y="277.3724" W="6.307708" />
+        <PunktWinkel X="1475.613" Y="275.331" W="3.032334" />
+        <Punkt X="1436.299" Y="-83.06299" />
+      </Kreisbogen>
+      <Weiche ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="190 1:7.5 Links" Signalname="5">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="25.862" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="-1.570796" WinkelLauf="0.1325515">
+            <PunktWinkel X="5.964413E-05" Y="1.52588E-05" W="3.139165E-07" />
+            <PunktWinkel X="25.11116" Y="1.666721" W="-3.009041" />
+            <Punkt Y="190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="25.11111" Y="1.6667" W="0.1325549" />
+            <PunktWinkel X="25.74507" Y="1.75123" W="3.274148" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="1527.17" Y="274.78" W="-3.118299" />
+        <PunktWinkel X="25.8613" W="3.141593" />
+        <PunktWinkel X="25.74507" Y="1.75123" W="3.274144" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-7_5_Links_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1481.776" Y="269.729" W="0.1292701" />
+        <PunktWinkel X="1491.084" Y="270.939" W="3.270863" />
+      </Gerade>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.002537276" WinkelAnf="-1.441581" WinkelLauf="0.02662978">
+        <PunktWinkel X="1491.084" Y="270.9392" W="0.1292153" />
+        <PunktWinkel X="1501.473" Y="272.43" W="-2.985748" />
+        <Punkt X="1440.299" Y="661.777" />
+      </Kreisbogen>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1701.758" Y="278.847" W="-3.118299" />
+        <PunktWinkel X="1561.876" Y="275.588" W="0.02329388" />
+      </Gerade>
+      <Weiche ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="190 1:7.5 Links" Signalname="21">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="25.862" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="-1.570796" WinkelLauf="0.1325515">
+            <PunktWinkel X="5.964413E-05" Y="1.52588E-05" W="3.139165E-07" />
+            <PunktWinkel X="25.11116" Y="1.666721" W="-3.009041" />
+            <Punkt Y="190" />
+          </Kreisbogen>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="25.11111" Y="1.6667" W="0.1325549" />
+            <PunktWinkel X="25.74507" Y="1.75123" W="3.274148" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="1536.021" Y="274.986" W="-6.259892" />
+        <PunktWinkel X="25.8613" W="3.141593" />
+        <PunktWinkel X="25.74507" Y="1.75123" W="3.274144" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-7_5_Links_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.004518166" WinkelAnf="1.594739" WinkelLauf="0.131902">
+        <PunktWinkel X="1598.561" Y="281.1792" W="3.165535" />
+        <PunktWinkel X="1569.507" Y="278.5603" W="0.1558446" />
+        <Punkt X="1603.86" Y="59.91394" />
+      </Kreisbogen>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1569.506" Y="278.5601" W="-2.985702" />
+        <PunktWinkel X="1561.718" Y="277.3361" W="0.1558904" />
+      </Gerade>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.00390421" WinkelAnf="-1.45941" WinkelLauf="-0.08809352">
+        <PunktWinkel X="1729.741" Y="280.4924" W="3.252979" />
+        <PunktWinkel X="1707.236" Y="278.9746" W="0.02329293" />
+        <Punkt X="1701.27" Y="535.0389" />
+      </Kreisbogen>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1707.236" Y="278.975" W="-3.118227" />
+        <PunktWinkel X="1701.758" Y="278.847" W="0.02336613" />
+      </Gerade>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.001797496" WinkelAnf="-1.50923" WinkelLauf="-0.0383454">
+        <PunktWinkel X="1819.208" Y="271.1305" W="3.203159" />
+        <PunktWinkel X="1797.896" Y="270.2265" W="0.02322093" />
+        <Punkt X="1784.979" Y="826.406" />
+      </Kreisbogen>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1797.896" Y="270.2271" W="-3.118364" />
+        <PunktWinkel X="1780.976" Y="269.834" W="0.02322856" />
+      </Gerade>
+      <Kreisbogen ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" kr="0.003230451" WinkelAnf="-1.504992" WinkelLauf="-0.04256654">
+        <PunktWinkel X="1777.356" Y="265.2457" W="3.207397" />
+        <PunktWinkel X="1764.194" Y="264.6593" W="0.02323786" />
+        <Punkt X="1757.001" Y="574.13" />
+      </Kreisbogen>
+      <Gerade ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1764.194" Y="264.6591" W="-3.118355" />
+        <PunktWinkel X="1749.433" Y="264.316" W="0.02323809" />
+      </Gerade>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Mast 70 8">
+        <PunktWinkel X="-2888.945" Y="163.7791" />
+      </Punkt>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="ESig Ingolstadt">
+        <PunktWinkel X="-2864.804" Y="169.384" />
+      </Punkt>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="70 4">
+        <PunktWinkel X="-2504.804" Y="172.158" />
+      </Punkt>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Sig">
+        <PunktWinkel X="-2614.257" Y="169.775" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Autobahn">
+        <PunktWinkel X="-2061.679" Y="213.134" />
+      </Punkt>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2073.398" Y="182.431" />
+      </Punkt>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1986.015" Y="191.396" />
+      </Punkt>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1981.172" Y="191.474" />
+      </Punkt>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1989.336" Y="191.787" />
+      </Punkt>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Bü">
+        <PunktWinkel X="-716.4448" Y="217.041" />
+      </Punkt>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Bü">
+        <PunktWinkel X="-2332.851" Y="179.306" />
+      </Punkt>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="VSig">
+        <PunktWinkel X="-605.8198" Y="216.025" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Brücke">
+        <PunktWinkel X="6.054932" Y="233.838" />
+      </Punkt>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Brücke">
+        <PunktWinkel X="-93.16406" Y="231.494" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Brücke">
+        <PunktWinkel X="656.9919" Y="281.181" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Brücke">
+        <PunktWinkel X="685.9771" Y="215.947" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Gebäude">
+        <PunktWinkel X="927.5391" Y="281.806" />
+      </Punkt>
+      <Punkt st2Typ="2" ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="STW">
+        <PunktWinkel X="1162.305" Y="275.713" />
+      </Punkt>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1761.445" Y="277.197" />
+      </Punkt>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2144.648" Y="309.97" />
+      </Punkt>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Bü">
+        <PunktWinkel X="2624.648" Y="295.244" />
+      </Punkt>
+      <Punkt ProfilName="Manching" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Bü">
+        <PunktWinkel X="3600.195" Y="526.728" />
+      </Punkt>
+      <Gerade ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3795.49" Y="584.542" W="-2.854349" km="1.260574" />
+        <PunktWinkel X="3104.029" Y="380.275" W="0.2872438" km="0.5692641" />
+      </Gerade>
+      <Gerade st2Typ="1" ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3104.596" Y="378.3571" W="0.2872443" km="64.78072" />
+        <PunktWinkel X="3805.598" Y="585.443" W="3.428837" km="64.04977" />
+      </Gerade>
+      <Gerade ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2540.172" Y="292.488" W="0.0231245" />
+        <PunktWinkel X="2543.587" Y="292.567" W="3.164717" />
+      </Gerade>
+      <Klothoide ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" L="63.6" R="1915.288">
+        <PunktWinkel X="2543.587" Y="292.567" W="0.02323073" />
+        <PunktWinkel X="2607.16" Y="294.3962" W="3.181427" Ueberh="-0.03830877" />
+      </Klothoide>
+      <Kreisbogen ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.0005221147" WinkelAnf="-1.530962" WinkelLauf="0.2308071">
+        <PunktWinkel X="2607.16" Y="294.3966" W="0.03983434" Ueberh="0.03830877" />
+        <PunktWinkel X="3042.937" Y="362.5944" W="-2.870951" Ueberh="-0.03830877" />
+        <Punkt X="2530.886" Y="2208.165" />
+      </Kreisbogen>
+      <Klothoide ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" L="63.6" R="-1915.288">
+        <PunktWinkel X="3104.029" Y="380.275" W="-2.854348" />
+        <PunktWinkel X="3042.937" Y="362.5945" W="0.2706416" Ueberh="0.03830877" />
+      </Klothoide>
+      <Gerade st2Typ="1" ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2540.219" Y="290.489" W="0.02312946" km="65.35393" />
+        <PunktWinkel X="2543.633" Y="290.568" W="3.164722" km="65.35051" />
+      </Gerade>
+      <Klothoide st2Typ="1" ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" L="63.6" R="1915.288" Versatz="2">
+        <PunktWinkel X="2543.587" Y="292.567" W="0.02323073" km="65.35051" />
+        <PunktWinkel X="2607.24" Y="292.3978" W="3.181427" Ueberh="-0.03830877" km="65.28687" />
+      </Klothoide>
+      <Kreisbogen st2Typ="1" ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.00052157" WinkelAnf="-1.530962" WinkelLauf="0.2308071">
+        <PunktWinkel X="2607.24" Y="292.3977" W="0.03983434" Ueberh="0.03830877" km="65.28687" />
+        <PunktWinkel X="3043.472" Y="360.6667" W="-2.870951" Ueberh="-0.03830877" km="64.84435" />
+        <Punkt X="2530.886" Y="2208.165" />
+      </Kreisbogen>
+      <Klothoide st2Typ="1" ProfilName="Manching" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" L="63.6" R="-1915.288" Versatz="2">
+        <PunktWinkel X="3104.029" Y="380.275" W="-2.854348" km="64.78072" />
+        <PunktWinkel X="3043.471" Y="360.6673" W="0.2706416" Ueberh="0.03830877" km="64.84435" />
+      </Klothoide>
+    </Lageplan>
+    <HoehenProfil ProfilName="Manching" ProfilFarbe="FF0000FF" ProfilHorizont="340" ProfilAbstandHorizontKm="2" ProfilGleisElementeZeichnen="1">
+      <StuetzPkt X="0.585144" Y="365.3101" Radius="5000" />
+      <StuetzPkt X="591.1332" Y="364.9868" Kategorie="1" />
+      <StuetzPkt X="594.5138" Y="364.9839" Kategorie="2" />
+      <StuetzPkt X="594.849" Y="364.985" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="597.8943" Y="364.979" Kategorie="1" />
+      <StuetzPkt X="767.7552" Y="364.6566" Radius="5000" />
+      <StuetzPkt X="1039.907" Y="364.3126" Radius="5000" />
+      <StuetzPkt X="1124.49" Y="364.1548" Kategorie="1" />
+      <StuetzPkt X="1127.391" Y="364.1504" Kategorie="2" />
+      <StuetzPkt X="1128.903" Y="364.1464" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="1130.292" Y="364.147" Kategorie="2" />
+      <StuetzPkt X="1133.194" Y="364.146" Kategorie="1" />
+      <StuetzPkt X="1225.251" Y="364.1338" Kategorie="1" />
+      <StuetzPkt X="1226.626" Y="364.134" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="1227.009" Y="364.1333" Kategorie="2" />
+      <StuetzPkt X="1228.766" Y="364.1318" Kategorie="1" />
+      <StuetzPkt X="1605.745" Y="363.8195" Radius="5000" />
+      <StuetzPkt X="1912.341" Y="363.5728" Kategorie="1" />
+      <StuetzPkt X="1914.809" Y="363.5709" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="1915.15" Y="363.5713" Kategorie="2" />
+      <StuetzPkt X="1917.958" Y="363.5718" Kategorie="1" />
+      <StuetzPkt X="2129.169" Y="363.6396" Kategorie="1" />
+      <StuetzPkt X="2131.25" Y="363.6406" Kategorie="2" />
+      <StuetzPkt X="2131.404" Y="363.64" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="2133.331" Y="363.6426" Kategorie="1" />
+      <StuetzPkt X="2209.582" Y="363.73" Kategorie="1" />
+      <StuetzPkt X="2211.899" Y="363.7324" Kategorie="2" />
+      <StuetzPkt X="2212.151" Y="363.733" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="2214.215" Y="363.7334" Kategorie="1" />
+      <StuetzPkt X="2426.401" Y="363.7813" Kategorie="1" />
+      <StuetzPkt X="2429.074" Y="363.7827" Kategorie="2" />
+      <StuetzPkt X="2430.373" Y="363.7821" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="2431.748" Y="363.7856" Kategorie="2" />
+      <StuetzPkt X="2434.422" Y="363.7896" Kategorie="1" />
+      <StuetzPkt X="2769.906" Y="364.4028" Kategorie="1" />
+      <StuetzPkt X="2773.213" Y="364.4077" Kategorie="2" />
+      <StuetzPkt X="2773.281" Y="364.4094" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="2776.521" Y="364.4106" Kategorie="1" />
+      <StuetzPkt X="3042.114" Y="364.5454" Kategorie="1" />
+      <StuetzPkt X="3044.854" Y="364.5459" Kategorie="2" />
+      <StuetzPkt X="3046.019" Y="364.5475" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="3047.594" Y="364.5449" Kategorie="2" />
+      <StuetzPkt X="3050.333" Y="364.5425" Kategorie="1" />
+      <StuetzPkt X="3461.895" Y="364.0744" Radius="5000" />
+      <StuetzPkt X="3781.303" Y="363.7426" Radius="5000" />
+      <StuetzPkt X="4835.311" Y="362.6396" Kategorie="1" />
+      <StuetzPkt X="4837.256" Y="362.6377" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="4837.525" Y="362.6362" Kategorie="2" />
+      <StuetzPkt X="4839.74" Y="362.6328" Kategorie="1" />
+      <StuetzPkt X="5088.542" Y="362.1523" Kategorie="1" />
+      <StuetzPkt X="5091.317" Y="362.1479" Kategorie="2" />
+      <StuetzPkt X="5092.485" Y="362.1445" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="5094.094" Y="362.145" Kategorie="2" />
+      <StuetzPkt X="5096.87" Y="362.1436" Kategorie="1" />
+      <StuetzPkt X="5398.301" Y="362.063" Kategorie="1" />
+      <StuetzPkt X="5401.147" Y="362.0615" Kategorie="2" />
+      <StuetzPkt X="5403.992" Y="362.0586" Kategorie="2" />
+      <StuetzPkt X="5405.624" Y="362.061" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="5406.838" Y="362.0537" Kategorie="2" />
+      <StuetzPkt X="5409.684" Y="362.0474" Kategorie="2" />
+      <StuetzPkt X="5412.529" Y="362.0396" Kategorie="1" />
+      <StuetzPkt X="5567.251" Y="361.5581" Kategorie="1" />
+      <StuetzPkt X="5570.146" Y="361.5503" Kategorie="2" />
+      <StuetzPkt X="5571.336" Y="361.5453" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="5573.041" Y="361.5439" Kategorie="2" />
+      <StuetzPkt X="5575.935" Y="361.5391" Kategorie="1" />
+      <StuetzPkt X="5785.636" Y="361.2505" Kategorie="1" />
+      <StuetzPkt X="5788.424" Y="361.2476" Kategorie="2" />
+      <StuetzPkt X="5791.211" Y="361.2461" Kategorie="2" />
+      <StuetzPkt X="5791.221" Y="361.2429" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="5793.999" Y="361.2461" Kategorie="2" />
+      <StuetzPkt X="5796.787" Y="361.2476" Kategorie="1" />
+      <StuetzPkt X="6181.392" Y="361.5762" Kategorie="1" />
+      <StuetzPkt X="6184.707" Y="361.5781" Kategorie="2" />
+      <StuetzPkt X="6186.324" Y="361.5807" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="6188.021" Y="361.5776" Kategorie="2" />
+      <StuetzPkt X="6191.336" Y="361.5747" Kategorie="1" />
+      <StuetzPkt X="6701.352" Y="360.9966" Kategorie="1" />
+      <StuetzPkt X="6704.187" Y="360.9941" Kategorie="2" />
+      <StuetzPkt X="6704.366" Y="360.9933" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="6707.021" Y="360.9932" Kategorie="1" />
+      <StuetzPkt X="6757.1" Y="360.9933" Radius="5000" />
+      <StuetzPkt X="6796.776" Y="360.9933" Radius="5000" />
+    </HoehenProfil>
+  </Gleisplan>
+</Zusi>
