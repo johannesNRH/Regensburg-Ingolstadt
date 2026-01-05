@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1" Beschreibung="	  l=45,2205200195313  kr=0,00208134204149246  ue=0	">
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1" Beschreibung="	  l=24,609130859375  kr=0,000535206228960305  ue=0	  l=10,3802404403687  kr=0  ue=0	">
 <AutorEintrag AutorID="8" AutorName="Joerg Sanftleben" AutorEmail="joergsanftleben@aol.com"/>
 </Info>
 <Landschaft>
 <Verknuepfte BoundingR="5" SichtbarBis="250" Vorlade="1" LODbit="4">
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\lod\Weichensignal_elektr_Re.lod1.ls3"/>
-<p X="-0.0095" Y="0.005"/>
-<phi Z="0.004579"/>
+<p X="-0.0018" Y="0.0007"/>
+<phi Z="0.000856"/>
 <sk/>
 </Verknuepfte>
 <Ankerpunkt Beschreibung="Laternenbock" Farbe="00FFFF00">

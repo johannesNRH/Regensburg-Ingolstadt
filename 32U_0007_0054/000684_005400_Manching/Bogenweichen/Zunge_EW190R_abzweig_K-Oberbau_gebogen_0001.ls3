@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1" Beschreibung="	  l=10,9005298614502  kr=0,000200256006792188  ue=0	  l=36,4088516235352  kr=0,00414435286074877  ue=0	">
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1" Beschreibung="	  l=24,609130859375  kr=0,000535206228960305  ue=0	  l=10,3802404403687  kr=0  ue=0	">
 <AutorEintrag AutorID="9" AutorName="Elmar Gröne"/>
 </Info>
 <Landschaft>
 <lsb Dateiname="Zunge_EW190R_abzweig_K-Oberbau_gebogen_0001.lsb"/>
-<SubSet Cd="00FFFFFF" MeterProTex="5" MeterProTex2="10" MeshV="116" MeshI="396">
+<SubSet Cd="00FFFFFF" MeterProTex="5" MeterProTex2="10" MeshV="96" MeshI="300">
 <RenderFlags TexVoreinstellung="2"/>
 <Textur TransparentFarbe="00FFFFFF">
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weiche_Holzschwellen_K-Oberbau.dds"/>

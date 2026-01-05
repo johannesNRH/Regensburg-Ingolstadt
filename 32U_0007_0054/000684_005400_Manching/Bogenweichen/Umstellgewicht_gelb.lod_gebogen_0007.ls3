@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1" Beschreibung="	  l=45,2205200195313  kr=0,00208134204149246  ue=0	">
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1" Beschreibung="	  l=14,5425977706909  kr=0  ue=0	  l=23,8110046386719  kr=-0,00457822252064943  ue=0	">
 <AutorEintrag AutorID="8" AutorName="Joerg Sanftleben" AutorEmail="joergsanftleben@aol.com"/>
 </Info>
 <Landschaft>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="15">
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\lod\Umstellgewicht_gelb.lod1.ls3"/>
-<p X="-0.0097" Y="-0.0054"/>
-<phi Z="0.004704"/>
+<p/>
+<phi/>
 <sk/>
 </Verknuepfte>
 <Ankerpunkt Farbe="00FFFF00">

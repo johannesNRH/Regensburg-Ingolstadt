@@ -1,136 +1,830 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Zusi>
-<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
-<Landschaft>
-<Verknuepfte Flags="4" BoundingR="569" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Kacheln\32_684500_5400500.ls3"/>
-<p X="500" Y="500"/>
-<phi/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="4" BoundingR="592" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Kacheln\32_682500_5400500.ls3"/>
-<p X="-1500" Y="500"/>
-<phi/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="4" BoundingR="566" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Kacheln\32_685500_5400500.ls3"/>
-<p X="1500" Y="500"/>
-<phi/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="4" BoundingR="604" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Kacheln\32_681500_5400500.ls3"/>
-<p X="-2500" Y="500"/>
-<phi/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="4" BoundingR="580" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Kacheln\32_683500_5400500.ls3"/>
-<p X="-500" Y="500"/>
-<phi/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="4" BoundingR="548" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Kacheln\32_686500_5400500.ls3"/>
-<p X="2500" Y="500"/>
-<phi/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="4" BoundingR="523" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Kacheln\32_687500_5400500.ls3"/>
-<p X="3500" Y="500"/>
-<phi/>
-<sk/>
-</Verknuepfte>
-<Ankerpunkt AnkerKat="2" Beschreibung="Mast 70 8" Farbe="00FFFF00">
-<p X="-2888.9451" Y="163.7791" Z="365.2884"/>
-<phi Z="0.023294"/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Beschreibung="ESig Ingolstadt" Farbe="00FFFF00">
-<p X="-2864.804" Y="169.384" Z="365.2751"/>
-<phi Z="3.164827"/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Beschreibung="70 4" Farbe="00FFFF00">
-<p X="-2504.804" Y="172.158" Z="365.078"/>
-<phi Z="0.023272"/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Beschreibung="Sig" Farbe="00FFFF00">
-<p X="-2614.2571" Y="169.775" Z="365.138"/>
-<phi Z="0.023336"/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Beschreibung="Autobahn" Farbe="00FFFF00">
-<p X="-2061.679" Y="213.134" Z="372.5378"/>
-<phi/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Farbe="00FFFF00">
-<p X="-2073.3979" Y="182.431" Z="364.5451"/>
-<phi Z="0.023211"/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Farbe="00FFFF00">
-<p X="-1986.015" Y="191.396" Z="364.4344"/>
-<phi Z="3.164821"/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Farbe="00FFFF00">
-<p X="-1981.172" Y="191.474" Z="364.4283"/>
-<phi Z="3.164833"/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Farbe="00FFFF00">
-<p X="-1989.3361" Y="191.787" Z="364.4386"/>
-<phi Z="3.16482"/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Beschreibung="Bü" Farbe="00FFFF00">
-<p X="-716.4448" Y="217.041" Z="363.733"/>
-<phi Z="3.164813"/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Beschreibung="Bü" Farbe="00FFFF00">
-<p X="-2332.8511" Y="179.306" Z="364.981"/>
-<phi Z="3.164814"/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Beschreibung="VSig" Farbe="00FFFF00">
-<p X="-605.8198" Y="216.025" Z="363.7582"/>
-<phi Z="0.023137"/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Beschreibung="Brücke" Farbe="00FFFF00">
-<p X="6.0549" Y="233.838" Z="364.5591"/>
-<phi/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Beschreibung="Brücke" Farbe="00FFFF00">
-<p X="-93.1641" Y="231.494" Z="364.4412"/>
-<phi Z="3.16478"/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Beschreibung="Brücke" Farbe="00FFFF00">
-<p X="656.9919" Y="281.181" Z="371.6887"/>
-<phi/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Beschreibung="Brücke" Farbe="00FFFF00">
-<p X="685.9771" Y="215.947" Z="371.6635"/>
-<phi/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Beschreibung="Gebäude" Farbe="00FFFF00">
-<p X="927.5391" Y="281.806" Z="362.8386"/>
-<phi/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Beschreibung="STW" Farbe="00FFFF00">
-<p X="1162.3051" Y="275.713" Z="363.8415"/>
-<phi/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Farbe="00FFFF00">
-<p X="1761.4449" Y="277.197" Z="362.7896"/>
-<phi Z="3.164753"/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Farbe="00FFFF00">
-<p X="2144.6479" Y="309.97" Z="362.1768"/>
-<phi Z="3.164812"/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Beschreibung="Bü" Farbe="00FFFF00">
-<p X="2624.6479" Y="295.244" Z="361.5949"/>
-<phi Z="3.190541"/>
-</Ankerpunkt>
-<Ankerpunkt AnkerKat="2" Beschreibung="Bü" Farbe="00FFFF00">
-<p X="3600.1951" Y="526.728" Z="361.1553"/>
-<phi Z="3.428884"/>
-</Ankerpunkt>
-</Landschaft>
+  <Info DateiTyp="Landschaft" Version="A.1" MinVersion="A.1">
+    <AutorEintrag AutorID="0" AutorName="" AutorEmail="" AutorAufwand="0" AutorBeschreibung="" />
+  </Info>
+  <Landschaft>
+    <Verknuepfte>
+      <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\54_500_1-12_Links_Betonschw_K-Oberbau.ls3" />
+      <p X="852.71" Y="253.281" Z="363.2562" />
+      <phi Y="0.0003051758" Z="0.02323033" />
+    </Verknuepfte>
+    <Verknuepfte>
+      <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\54_500_1-12_Rechts_Betonschw_K-Oberbau.ls3" />
+      <p X="894.2939" Y="254.2469" Z="363.2434" />
+      <phi Y="0.0003051758" Z="0.02323033" />
+    </Verknuepfte>
+    <Verknuepfte>
+      <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\300\54_300_1-9_4_Links_Betonschwellen.ls3" />
+      <p X="1448.694" Y="267.1281" Z="363.0725" />
+      <phi Y="0.0003082275" Z="0.02323033" />
+    </Verknuepfte>
+    <Verknuepfte>
+      <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-7_5_Links_Betonschw_K-Oberbau.ls3" />
+      <p X="1763.146" Y="282.552" Z="362.9755" />
+      <phi Y="-0.0003082275" Z="3.120441" />
+    </Verknuepfte>
+    <Verknuepfte>
+      <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\49_190_1-6_6_Rechts_Holzschw_K-Oberbau.ls3" />
+      <p X="1067.051" Y="243.829" Z="363.1902" />
+      <phi Y="0.0003082275" Z="0.02312509" />
+    </Verknuepfte>
+    <Verknuepfte>
+      <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-7_5_Rechts_Holzschw_K-Oberbau.ls3" />
+      <p X="1501.392" Y="274.179" Z="363.0562" />
+      <phi Y="-0.0003082275" Z="-3.118299" />
+    </Verknuepfte>
+    <Verknuepfte>
+      <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-7_5_Links_Holzschw_K-Oberbau.ls3" />
+      <p X="1527.17" Y="274.78" Z="363.0483" />
+      <phi Y="-0.0003082275" Z="-3.118299" />
+    </Verknuepfte>
+    <Verknuepfte>
+      <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-7_5_Links_Holzschw_K-Oberbau.ls3" />
+      <p X="1536.021" Y="274.986" Z="363.0456" />
+      <phi Y="0.0003082275" Z="-6.259892" />
+    </Verknuepfte>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast 70 8">
+      <p X="-2888.945" Y="163.7791" Z="365.2996" />
+      <phi Z="0.02329424" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="ESig Ingolstadt">
+      <p X="-2864.804" Y="169.384" Z="365.2859" />
+      <phi Z="3.164827" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="70 4">
+      <p X="-2504.804" Y="172.158" Z="365.0835" />
+      <phi Z="0.02327172" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Sig">
+      <p X="-2614.257" Y="169.775" Z="365.1451" />
+      <phi Z="0.02333583" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Autobahn">
+      <p X="-2061.679" Y="213.134" Z="-1" />
+      <phi />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-2073.398" Y="182.431" Z="364.7866" />
+      <phi Z="0.02321091" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-1986.784" Y="190.644" Z="364.7197" />
+      <phi Z="3.164813" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-1981.924" Y="190.6537" Z="364.716" />
+      <phi Z="3.164804" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-1989.934" Y="191.223" Z="364.7221" />
+      <phi Z="3.164813" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Bü">
+      <p X="-716.4448" Y="217.041" Z="363.7398" />
+      <phi Z="3.164813" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Bü">
+      <p X="-2332.851" Y="179.306" Z="364.9867" />
+      <phi Z="3.164814" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="VSig">
+      <p X="-605.8198" Y="216.025" Z="363.7058" />
+      <phi Z="0.02313688" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Brücke">
+      <p X="6.054932" Y="233.838" Z="-1" />
+      <phi />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Brücke">
+      <p X="-93.16406" Y="231.494" Z="363.5478" />
+      <phi Z="3.16478" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Brücke">
+      <p X="656.9919" Y="281.181" Z="-1" />
+      <phi />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Brücke">
+      <p X="685.9771" Y="215.947" Z="-1" />
+      <phi />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Gebäude">
+      <p X="927.5391" Y="281.806" Z="-1" />
+      <phi />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="STW">
+      <p X="1162.305" Y="275.713" Z="-1" />
+      <phi />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1761.445" Y="277.197" Z="362.9761" />
+      <phi Z="3.164753" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="2144.648" Y="309.97" Z="362.8578" />
+      <phi Z="3.164812" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Bü">
+      <p X="2624.648" Y="295.244" Z="362.71" />
+      <phi Z="3.190541" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Bü">
+      <p X="3600.195" Y="526.728" Z="361.8941" />
+      <phi Z="3.428884" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Alter Mast">
+      <p X="-1879.214" Y="196.6261" Z="364.6367" />
+      <phi Z="3.164823" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="69-8">
+      <p X="-1905.361" Y="185.1759" Z="364.657" />
+      <phi Z="0.02324969" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-2019.727" Y="182.4415" Z="364.7453" />
+      <phi Z="0.0232092" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="EL Sig">
+      <p X="-1994.981" Y="183.2277" Z="364.7262" />
+      <phi Z="0.02321892" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast">
+      <p X="-1978.574" Y="183.7062" Z="364.7135" />
+      <phi Z="0.02325301" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-2816.49" Y="164.9073" Z="365.2589" />
+      <phi Z="0.02330352" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-2738.731" Y="167.129" Z="365.2151" />
+      <phi Z="0.02316622" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-2660.664" Y="168.0177" Z="365.1712" />
+      <phi Z="0.02320334" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="F">
+      <p X="-2619.102" Y="168.9747" Z="365.1478" />
+      <phi Z="0.02322977" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-2582.94" Y="170.6153" Z="365.1275" />
+      <phi Z="0.02326768" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-2841.338" Y="172.9738" Z="365.2727" />
+      <phi Z="3.164839" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-2427.046" Y="173.9564" Z="365.0398" />
+      <phi Z="0.02331875" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-2355.063" Y="175.1527" Z="364.9993" />
+      <phi Z="0.02324762" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Häuschen">
+      <p X="-2345.972" Y="189.8585" Z="364.994" />
+      <phi Z="3.164827" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="70-2">
+      <p X="-2283.149" Y="176.631" Z="364.9485" />
+      <phi Z="0.02320264" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-2211.44" Y="178.34" Z="364.8931" />
+      <phi Z="0.02321302" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="70-0">
+      <p X="-2133.477" Y="180.2198" Z="364.833" />
+      <phi Z="0.02328588" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-1929.099" Y="195.3956" Z="364.6751" />
+      <phi Z="3.164818" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-1827.586" Y="187.671" Z="364.597" />
+      <phi Z="0.02315826" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="69-6">
+      <p X="-1749.69" Y="189.3458" Z="364.537" />
+      <phi Z="0.02327336" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-1671.795" Y="190.8839" Z="364.4769" />
+      <phi Z="0.02321799" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-1594.001" Y="193.0031" Z="364.4168" />
+      <phi Z="0.0232407" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="69-4">
+      <p X="-1516.003" Y="195.1564" Z="364.3567" />
+      <phi Z="0.02323108" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-1438.04" Y="196.797" Z="364.2965" />
+      <phi Z="0.02327981" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-1360.007" Y="198.6427" Z="364.2364" />
+      <phi Z="0.02320272" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="69-2">
+      <p X="-1281.975" Y="200.5909" Z="364.1761" />
+      <phi Z="0.02327927" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-1204.08" Y="202.3341" Z="364.1161" />
+      <phi Z="0.02331078" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="69-0">
+      <p X="-1126.184" Y="204.3507" Z="364.056" />
+      <phi Z="0.02324192" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-1048.186" Y="205.4103" Z="363.9958" />
+      <phi Z="0.02322413" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-970.1538" Y="207.3243" Z="363.9356" />
+      <phi Z="0.02323967" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="68-8">
+      <p X="-892.0874" Y="209.3751" Z="363.8754" />
+      <phi Z="0.02324902" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-814.2261" Y="210.7765" Z="363.8154" />
+      <phi Z="0.0232068" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="68-6">
+      <p X="-736.1597" Y="212.7931" Z="363.7551" />
+      <phi Z="0.0232096" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-660.1782" Y="215.3566" Z="363.7225" />
+      <phi Z="0.02324014" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Sig">
+      <p X="-1724.226" Y="197.0704" Z="364.5172" />
+      <phi Z="3.164813" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="F">
+      <p X="-1699.446" Y="196.4808" Z="364.4981" />
+      <phi Z="3.164829" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-582.4878" Y="216.1769" Z="363.6986" />
+      <phi Z="0.02321103" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="68-4">
+      <p X="-505.0708" Y="217.7491" Z="363.6747" />
+      <phi Z="0.02326915" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-430.3199" Y="220.0392" Z="363.6517" />
+      <phi Z="0.02334887" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-355.3638" Y="221.9191" Z="363.6286" />
+      <phi Z="0.02332083" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="68-2">
+      <p X="-277.3658" Y="223.6281" Z="363.6046" />
+      <phi Z="0.02321449" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-199.4702" Y="225.4567" Z="363.5805" />
+      <phi Z="0.02325343" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="68-0">
+      <p X="-121.4722" Y="227.3024" Z="363.5565" />
+      <phi Z="0.02325347" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="F">
+      <p X="-140.8862" Y="233.4547" Z="363.5624" />
+      <phi Z="3.164801" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="-43.81592" Y="228.5328" Z="363.5326" />
+      <phi Z="0.02331313" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="32.57568" Y="230.7032" Z="363.509" />
+      <phi Z="0.02327337" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="67-8">
+      <p X="109.4458" Y="232.4464" Z="363.4853" />
+      <phi Z="0.02326319" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="186.3159" Y="234.5656" Z="363.4616" />
+      <phi Z="0.0231983" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="67-6">
+      <p X="264.3481" Y="236.4113" Z="363.4376" />
+      <phi Z="0.02341063" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="342.5171" Y="237.4025" Z="363.4135" />
+      <phi Z="0.02329512" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="F">
+      <p X="380.7983" Y="238.5646" Z="363.4017" />
+      <phi Z="0.02327878" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="ESig">
+      <p X="393.103" Y="240.0685" Z="363.3979" />
+      <phi Z="0.02332223" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="420.4126" Y="238.838" Z="363.3895" />
+      <phi Z="0.02332503" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="67-4">
+      <p X="498.2056" Y="240.3761" Z="363.3655" />
+      <phi Z="0.02326998" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="573.23" Y="242.1193" Z="363.3424" />
+      <phi Z="0.02325907" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="638.4107" Y="243.9308" Z="363.3223" />
+      <phi Z="0.02331496" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="67-2">
+      <p X="712.4781" Y="245.674" Z="363.2995" />
+      <phi Z="0.02332826" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Su">
+      <p X="787.8101" Y="247.8273" Z="363.2762" />
+      <phi Z="0.02339048" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="864.6802" Y="250.4591" Z="363.2525" />
+      <phi Z="0.02333558" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Abspannung">
+      <p X="864.7144" Y="258.8673" Z="363.2525" />
+      <phi Z="3.164809" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="67-0">
+      <p X="914.6851" Y="250.4933" Z="363.2372" />
+      <phi Z="0.02328143" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Trafohaus">
+      <p X="914.7193" Y="263.3107" Z="363.237" />
+      <phi Z="3.16481" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="917.1119" Y="268.5743" Z="363.2363" />
+      <phi Z="3.164809" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="920.94" Y="263.6183" Z="363.2351" />
+      <phi Z="3.164822" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="938.4742" Y="257.7394" Z="363.2298" />
+      <phi Z="3.164762" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte doppelt">
+      <p X="953.4449" Y="269.0529" Z="363.2251" />
+      <phi Z="3.164805" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="962.5367" Y="259.4142" Z="363.2223" />
+      <phi Z="3.164812" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="962.9127" Y="248.4767" Z="363.2223" />
+      <phi Z="0.02324494" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="973.0982" Y="259.9952" Z="363.2191" />
+      <phi Z="3.164816" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte doppelt">
+      <p X="993.23" Y="269.1554" Z="363.2128" />
+      <phi Z="3.164811" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast su">
+      <p X="984.3775" Y="268.9845" Z="363.2155" />
+      <phi Z="3.164818" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="4Gleisausleger">
+      <p X="1014.832" Y="260.8839" Z="363.2062" />
+      <phi Z="3.164824" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast su">
+      <p X="1014.49" Y="243.7599" Z="363.2065" />
+      <phi Z="0.02323438" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1075.198" Y="240.1027" Z="363.1878" />
+      <phi Z="0.02323276" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Mast su">
+      <p X="1002.259" Y="245.4689" Z="363.2102" />
+      <phi Z="0.02324409" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1044.847" Y="241.4357" Z="363.1971" />
+      <phi Z="0.02323932" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1057.22" Y="261.7384" Z="363.1931" />
+      <phi Z="3.164831" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1073.079" Y="271.6847" Z="363.1882" />
+      <phi Z="3.164818" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="ASig">
+      <p X="1063.919" Y="255.7911" Z="363.1911" />
+      <phi Z="0.02404717" />
+    </Ankerpunkt>
+    <Verknuepfte>
+      <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\54_500_1-12_Rechts_Holzschw_K-Oberbau_gebogen_0001.ls3" />
+      <p X="944.4355" Y="252.9695" Z="363.228" />
+      <phi Y="0.0003082275" Z="-0.0598449" />
+    </Verknuepfte>
+    <Verknuepfte>
+      <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\54_300_1-9_Rechts_Holzschwellen_gebogen_0001.ls3" />
+      <p X="990.3275" Y="249.5328" Z="363.2138" />
+      <phi Y="0.0003051758" Z="-0.08699664" />
+    </Verknuepfte>
+    <Ankerpunkt AnkerKat="2" Beschreibung="ASig">
+      <p X="1100.492" Y="251.6896" Z="363.1799" />
+      <phi Z="0.02324751" />
+    </Ankerpunkt>
+    <Verknuepfte>
+      <Datei Dateiname="" />
+      <p X="1110.489" Y="240.5065" Z="363.1769" />
+      <phi Y="-0.0003051758" Z="3.037152" />
+    </Verknuepfte>
+    <Ankerpunkt AnkerKat="2" Beschreibung="66-8">
+      <p X="1074.652" Y="262.1486" Z="363.1878" />
+      <phi Z="3.164788" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1097.484" Y="262.4049" Z="363.1807" />
+      <phi Z="3.16479" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1113.138" Y="272.2487" Z="363.1758" />
+      <phi Z="3.164807" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="ASig">
+      <p X="1109.652" Y="246.8873" Z="363.1771" />
+      <phi Z="0.02325032" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Ausleger">
+      <p X="1128.451" Y="263.2936" Z="363.1712" />
+      <phi Z="3.164874" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1129.203" Y="241.9655" Z="363.1711" />
+      <phi Z="0.02323803" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1137.884" Y="262.9518" Z="363.1683" />
+      <phi Z="3.164776" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1153.128" Y="273.4108" Z="363.1635" />
+      <phi Z="3.164797" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchtmast">
+      <p X="1213.33" Y="275.3248" Z="363.145" />
+      <phi Z="3.164798" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1232.471" Y="275.8033" Z="363.1391" />
+      <phi Z="3.164802" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1273.008" Y="276.8287" Z="363.1266" />
+      <phi Z="3.164803" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1313.271" Y="277.5807" Z="363.1142" />
+      <phi Z="3.164826" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1352.851" Y="278.9478" Z="363.102" />
+      <phi Z="3.164825" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1393.525" Y="279.4947" Z="363.0894" />
+      <phi Z="3.164807" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1373.564" Y="269.1725" Z="363.0956" />
+      <phi Z="3.164831" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1358.389" Y="268.6256" Z="363.1003" />
+      <phi Z="3.164787" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1358.73" Y="247.4342" Z="363.1004" />
+      <phi Z="0.02324462" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1298.232" Y="267.19" Z="363.1189" />
+      <phi Z="3.164813" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1299.121" Y="246.1353" Z="363.1187" />
+      <phi Z="0.02323975" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1243.818" Y="244.9561" Z="363.1358" />
+      <phi Z="0.02325657" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1243.271" Y="266.1476" Z="363.1358" />
+      <phi Z="3.164821" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1188.55" Y="263.755" Z="363.1527" />
+      <phi Z="3.164802" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1188.516" Y="243.7257" Z="363.1528" />
+      <phi Z="0.02322775" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1175.151" Y="264.8829" Z="363.1568" />
+      <phi Z="3.164791" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1253.423" Y="266.3526" Z="363.1327" />
+      <phi Z="3.164797" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1291.225" Y="267.2755" Z="363.121" />
+      <phi Z="3.164787" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1333.301" Y="268.3009" Z="363.1081" />
+      <phi Z="3.164828" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1413.555" Y="269.4288" Z="363.0833" />
+      <phi Z="3.164856" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1433.174" Y="270.3175" Z="363.0773" />
+      <phi Z="3.164757" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1453.579" Y="270.4884" Z="363.071" />
+      <phi Z="3.16484" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1432.558" Y="280.4688" Z="363.0774" />
+      <phi Z="3.164817" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1463.252" Y="270.6593" Z="363.068" />
+      <phi Z="3.164775" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="x6-4">
+      <p X="1518.52" Y="271.6505" Z="363.051" />
+      <phi Z="3.164765" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1546.104" Y="272.7101" Z="363.0424" />
+      <phi Z="3.164823" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1492.134" Y="279.5289" Z="363.0591" />
+      <phi Z="3.164826" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1577.925" Y="273.7184" Z="363.0327" />
+      <phi Z="3.164798" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1578.403" Y="252.3902" Z="363.0327" />
+      <phi Z="0.02325108" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1592.827" Y="286.7066" Z="363.028" />
+      <phi Z="3.164816" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1653.052" Y="274.8121" Z="363.0095" />
+      <phi Z="3.164745" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1653.188" Y="253.8941" Z="363.0096" />
+      <phi Z="0.02323968" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="ASig">
+      <p X="1699.741" Y="260.8155" Z="362.9952" />
+      <phi Z="0.0232321" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="ASig">
+      <p X="1699.57" Y="265.6349" Z="362.9952" />
+      <phi Z="0.02333858" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Leuchte">
+      <p X="1742.637" Y="266.6261" Z="362.982" />
+      <phi Z="0.02322872" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="66-2">
+      <p X="1715.806" Y="276.9654" Z="362.9901" />
+      <phi Z="3.164858" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1756.138" Y="278.4693" Z="362.9777" />
+      <phi Z="3.164798" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1788.198" Y="278.5377" Z="362.9678" />
+      <phi Z="3.164811" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1843.433" Y="268.6939" Z="362.9509" />
+      <phi Z="0.02324732" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1842.681" Y="279.2213" Z="362.951" />
+      <phi Z="3.164853" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1892.993" Y="280.4518" Z="362.9355" />
+      <phi Z="3.164762" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1893.267" Y="272.7955" Z="362.9355" />
+      <phi Z="0.02326629" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1728.076" Y="256.3722" Z="362.9865" />
+      <phi Z="0.02321941" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Sig su">
+      <p X="1798.384" Y="263.4474" Z="362.9648" />
+      <phi Z="0.02329042" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1763.418" Y="257.4659" Z="362.9756" />
+      <phi Z="0.02324252" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="1965.557" Y="275.5811" Z="362.9132" />
+      <phi Z="0.02316537" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="Bü Einschaltkontakt">
+      <p X="1999.292" Y="277.1876" Z="362.9028" />
+      <phi Z="0.02334368" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="65-8">
+      <p X="2115.913" Y="279.3751" Z="362.8669" />
+      <phi Z="0.02336251" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="ESig">
+      <p X="2260.425" Y="289.4239" Z="362.8223" />
+      <phi Z="3.164728" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="F">
+      <p X="2293.784" Y="291.338" Z="362.812" />
+      <phi Z="3.16488" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="2406.851" Y="285.5103" Z="362.7772" />
+      <phi Z="0.02313642" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="65-6 Su ">
+      <p X="2328.237" Y="284.0748" Z="362.8014" />
+      <phi Z="0.02314335" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="2250.273" Y="282.0411" Z="362.8255" />
+      <phi Z="0.0234201" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="65-4">
+      <p X="2476.748" Y="287.0655" Z="362.7557" />
+      <phi Z="0.02332158" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="2546.68" Y="289.0138" Z="362.7341" />
+      <phi Z="-0.01637289" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="2613.433" Y="291.0304" Z="362.7135" />
+      <phi Z="0.04304326" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="65-2">
+      <p X="2691.499" Y="295.7813" Z="362.656" />
+      <phi Z="0.08369435" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="2769.087" Y="304.1554" Z="362.5927" />
+      <phi Z="0.1244543" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="2846.47" Y="315.4688" Z="362.5293" />
+      <phi Z="0.1652596" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="65-0">
+      <p X="2923.066" Y="329.961" Z="362.4661" />
+      <phi Z="0.2058623" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="2999.15" Y="347.6319" Z="362.4028" />
+      <phi Z="0.2466084" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="64-8 su">
+      <p X="3083.643" Y="370.3785" Z="362.3319" />
+      <phi Z="0.2962952" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="3146.738" Y="388.9723" Z="362.2785" />
+      <phi Z="0.2872126" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="3218.926" Y="410.3004" Z="362.2175" />
+      <phi Z="0.2872262" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="64-6">
+      <p X="3290.635" Y="431.2184" Z="362.1569" />
+      <phi Z="0.2872408" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="3362.275" Y="452.4781" Z="362.0963" />
+      <phi Z="0.2872558" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="64-4">
+      <p X="3434.258" Y="473.8062" Z="362.0354" />
+      <phi Z="0.287309" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="3506.377" Y="494.8609" Z="361.9744" />
+      <phi Z="0.2872456" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="VSig">
+      <p X="3239.16" Y="425.4762" Z="362.1982" />
+      <phi Z="3.428847" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="3578.223" Y="515.7105" Z="361.9137" />
+      <phi Z="0.2872441" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="64-2">
+      <p X="3652.803" Y="538.5427" Z="361.8368" />
+      <phi Z="0.2871783" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="VSig">
+      <p X="3711.25" Y="555.3762" Z="361.772" />
+      <phi Z="0.2872606" />
+    </Ankerpunkt>
+    <Ankerpunkt AnkerKat="2" Beschreibung="">
+      <p X="3727.075" Y="561.2551" Z="361.754" />
+      <phi Z="0.2872618" />
+    </Ankerpunkt>
+    <Verknuepfte>
+      <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\300\54_300_1-9_4_Links_Holzschwellen.ls3" />
+      <p X="-1979.131" Y="187.4844" Z="364.7139" />
+      <phi Y="0.0007720946" Z="0.02323121" />
+    </Verknuepfte>
+    <Verknuepfte>
+      <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\54_190_1-9_Rechts_Holzschw_K-Oberbau.ls3" />
+      <p X="-1915.271" Y="194.0849" Z="364.6645" />
+      <phi Y="-0.000765991" Z="-3.012377" />
+    </Verknuepfte>
+    <Verknuepfte>
+      <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\54_300_1-9_4_Links_Holzschwellen_gebogen_0001.ls3" />
+      <p X="931.7877" Y="259.7829" Z="363.2318" />
+      <phi Y="0.0003082275" Z="-6.194329" />
+    </Verknuepfte>
+    <Verknuepfte>
+      <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\54_190_1-7_5_Rechts_Holzschw_K-Oberbau_gebogen_0001.ls3" />
+      <p X="928.7905" Y="259.5054" Z="363.2327" />
+      <phi Y="-0.0003082275" Z="-3.048362" />
+    </Verknuepfte>
+    <Verknuepfte>
+      <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\54_500_1-12_Links_Holzschw_K-Oberbau.ls3" />
+      <p X="1908.417" Y="277.8092" Z="362.9308" />
+      <phi Y="-0.0003082275" Z="-3.118378" />
+    </Verknuepfte>
+    <Verknuepfte>
+      <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\54_500_1-12_Links_Holzschw_K-Oberbau_gebogen_0001.ls3" />
+      <p X="1857.105" Y="274.0681" Z="362.9467" />
+      <phi Y="-0.0003051758" Z="-3.035259" />
+    </Verknuepfte>
+    <Verknuepfte>
+      <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\54_300_1-9_4_Links_Holzschwellen_gebogen_0002.ls3" />
+      <p X="1811.795" Y="268.61" Z="362.9606" />
+      <phi Y="-0.0003082275" Z="-3.010258" />
+    </Verknuepfte>
+  </Landschaft>
 </Zusi>

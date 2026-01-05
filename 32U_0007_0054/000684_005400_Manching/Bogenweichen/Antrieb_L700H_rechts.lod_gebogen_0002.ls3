@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1" Beschreibung="	  l=33,531078338623  kr=-0,00232403306290507  ue=0	">
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1" Beschreibung="	  l=52,1317100524902  kr=0,00212268601171672  ue=0	">
 <AutorEintrag AutorID="29" AutorName="Jens Strumberg" AutorEmail="jens.strumberg@t-online.de"/>
 </Info>
 <Landschaft>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="120" Vorlade="1" LODbit="8">
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_L700H_rechts.lod0.ls3"/>
-<p X="0" Y="-0.0034"/>
-<phi Z="-0.003974"/>
+<p X="0" Y="0.0031"/>
+<phi Z="0.00363"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarAb="120" SichtbarBis="150" Vorlade="1" LODbit="6">
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_L700H_rechts.lod1.ls3"/>
-<p X="0" Y="-0.0034"/>
-<phi Z="-0.003974"/>
+<p X="0" Y="0.0031"/>
+<phi Z="0.00363"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarAb="150" SichtbarBis="450" Vorlade="1" LODbit="1">
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_L700H_rechts.lod2.ls3"/>
-<p X="0" Y="-0.0034"/>
-<phi Z="-0.003974"/>
+<p X="0" Y="0.0031"/>
+<phi Z="0.00363"/>
 <sk/>
 </Verknuepfte>
 <Ankerpunkt AnkerTyp="19" Beschreibung="Anbaupunkt Weichennummernschild" Farbe="00FFFF00">

@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1" Beschreibung="	  l=50,4737281799316  kr=-0,000606841291300952  ue=0	">
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1" Beschreibung="	  l=34,5712890625  kr=-0,00190755096264184  ue=0	">
 <AutorEintrag AutorID="8" AutorName="Joerg Sanftleben" AutorEmail="joergsanftleben@aol.com"/>
 <AutorEintrag AutorID="36" AutorName="Johannes Jung" AutorBeschreibung="Normalenkorrektur"/>
 </Info>
 <Landschaft>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="500" Vorlade="1" LODbit="14">
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\lod\Umstellgewicht_weissschwarz.lod1.ls3"/>
-<p X="0.2975" Y="-0.0012"/>
-<phi Z="3.14039"/>
+<p X="0.2922" Y="-0.0037"/>
+<phi Z="3.137815"/>
 <sk/>
 </Verknuepfte>
 <Ankerpunkt Farbe="00FFFF00">

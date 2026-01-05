@@ -1,55 +1,55 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1" Beschreibung="	  l=10,9005298614502  kr=0,000200256006792188  ue=0	  l=36,4088516235352  kr=0,00414435286074877  ue=0	">
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1" Beschreibung="	  l=24,609130859375  kr=0,000535206228960305  ue=0	  l=10,3802404403687  kr=0  ue=0	">
 <AutorEintrag AutorID="33" AutorName="Alwin Meschede" AutorEmail="ameschede@gmx.de"/>
 </Info>
 <Landschaft>
 <Verknuepfte BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="15">
 <Datei Dateiname="Signals\Deutschland\Optiken\Optik-weiss.ls3"/>
-<p X="-0.1204" Y="0.0779" Z="0.57"/>
-<phi Z="0.000164"/>
+<p X="-0.1211" Y="0.0778" Z="0.57"/>
+<phi Z="0.000439"/>
 <sk X="-0.42" Y="-0.42" Z="-0.42"/>
 </Verknuepfte>
 <Verknuepfte BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="15">
 <Datei Dateiname="Signals\Deutschland\Optiken\Optik-weiss.ls3"/>
-<p X="-0.1204" Y="-0.0781" Z="0.57"/>
-<phi Z="0.000164"/>
+<p X="-0.121" Y="-0.0782" Z="0.57"/>
+<phi Z="0.000439"/>
 <sk X="-0.42" Y="-0.42" Z="-0.42"/>
 </Verknuepfte>
 <Verknuepfte BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="15">
 <Datei Dateiname="Signals\Deutschland\Optiken\Optik-weiss.ls3"/>
-<p X="-0.1204" Y="-0.0781" Z="0.745"/>
-<phi Z="0.000164"/>
+<p X="-0.121" Y="-0.0782" Z="0.745"/>
+<phi Z="0.000439"/>
 <sk X="-0.42" Y="-0.42" Z="-0.42"/>
 </Verknuepfte>
 <Verknuepfte BoundingR="1" SichtbarBis="100" Vorlade="1" LODbit="4">
 <Datei Dateiname="PERMANENTWAY\DEUTSCHLAND\1435MM\REGELOBERBAU\WEICHEN\ANTRIEBE\SIGNALE\EOW-Signal.lod1.ls3"/>
-<p X="-0.0003" Y="0" Z="0"/>
-<phi Z="0.00014"/>
+<p X="-0.0009" Y="-0.0001" Z="0"/>
+<phi Z="0.000375"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="15">
 <Datei Dateiname="Signals\Deutschland\Optiken\Optik-weiss.ls3"/>
-<p X="0.1197" Y="0.078" Z="0.57"/>
-<phi Z="3.141709"/>
+<p X="0.1192" Y="0.0779" Z="0.57"/>
+<phi Z="3.141903"/>
 <sk X="-0.42" Y="-0.42" Z="-0.42"/>
 </Verknuepfte>
 <Verknuepfte BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="15">
 <Datei Dateiname="Signals\Deutschland\Optiken\Optik-weiss.ls3"/>
-<p X="0.1197" Y="-0.078" Z="0.57"/>
-<phi Z="3.141709"/>
+<p X="0.1193" Y="-0.0781" Z="0.57"/>
+<phi Z="3.141903"/>
 <sk X="-0.42" Y="-0.42" Z="-0.42"/>
 </Verknuepfte>
 <Verknuepfte BoundingR="1" SichtbarBis="1000" Vorlade="1" LODbit="15">
 <Datei Dateiname="Signals\Deutschland\Optiken\Optik-weiss.ls3"/>
-<p X="0.1197" Y="-0.078" Z="0.745"/>
-<phi Z="3.141709"/>
+<p X="0.1193" Y="-0.0781" Z="0.745"/>
+<phi Z="3.141903"/>
 <sk X="-0.42" Y="-0.42" Z="-0.42"/>
 </Verknuepfte>
 <Verknuepfte BoundingR="1" SichtbarAb="100" SichtbarBis="400" Vorlade="1" LODbit="3">
 <Datei Dateiname="PERMANENTWAY\DEUTSCHLAND\1435MM\REGELOBERBAU\WEICHEN\ANTRIEBE\SIGNALE\EOW-Signal.lod2.ls3"/>
-<p X="-0.0003" Y="0" Z="0"/>
-<phi Z="0.00014"/>
+<p X="-0.0009" Y="-0.0001" Z="0"/>
+<phi Z="0.000375"/>
 <sk/>
 </Verknuepfte>
 <Animation AniBeschreibung="Grundstellung">

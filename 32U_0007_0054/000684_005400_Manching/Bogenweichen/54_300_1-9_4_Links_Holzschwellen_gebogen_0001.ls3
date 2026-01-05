@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1" Beschreibung="	  l=34,5712890625  kr=-0,00190755096264184  ue=0	">
+<AutorEintrag AutorID="9" AutorName="Elmar Gröne"/>
+</Info>
+<Landschaft>
+<lsb Dateiname="54_300_1-9_4_Links_Holzschwellen_gebogen_0001.lsb"/>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="4.8" MeterProTex2="2.4" MeshV="38" MeshI="111">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weichenschwellen_Holz.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="4.8" MeterProTex2="4.8" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weiche_Holzschwellen_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>
