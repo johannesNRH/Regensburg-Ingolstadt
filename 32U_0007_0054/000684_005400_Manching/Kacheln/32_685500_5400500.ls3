@@ -44,6 +44,162 @@
 <phi/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\gleisabschluss.lod.ls3"/>
+<p X="412.0242" Y="-215.8" Z="362.9297"/>
+<phi Z="-3.121799"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\gleisabschluss.lod.ls3"/>
+<p X="352.0359" Y="-216.9875" Z="362.9482"/>
+<phi Z="-3.121798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\gleisabschluss.lod.ls3"/>
+<p X="332.0398" Y="-217.3834" Z="362.9543"/>
+<phi Z="-3.121798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\gleisabschluss.lod.ls3"/>
+<p X="312.0438" Y="-217.7793" Z="362.9605"/>
+<phi Z="-3.121798"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahlprofil1_grau.lod.ls3"/>
+<p X="412.0242" Y="-215.8" Z="362.9297"/>
+<phi Z="-3.121799"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahlprofil1_grau.lod.ls3"/>
+<p X="372.1631" Y="-237.035" Z="362.9421"/>
+<phi Z="-3.059017"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\gleisabschluss.lod.ls3"/>
+<p X="372.1631" Y="-237.035" Z="362.9421"/>
+<phi Z="-3.059017"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_einseitig.lod.ls3"/>
+<p X="-442.7799" Y="-238.2616" Z="363.1931"/>
+<phi Z="-3.118355"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_einseitig.lod.ls3"/>
+<p X="-402.5159" Y="-237.5951" Z="363.1807"/>
+<phi Z="-3.118396"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_einseitig.lod.ls3"/>
+<p X="-362.1158" Y="-237.0482" Z="363.1683"/>
+<phi Z="-3.118409"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_einseitig.lod.ls3"/>
+<p X="-324.8489" Y="-235.1171" Z="363.1568"/>
+<phi Z="-3.118394"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_einseitig.lod.ls3"/>
+<p X="-246.5769" Y="-233.6474" Z="363.1327"/>
+<phi Z="-3.118388"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_einseitig.lod.ls3"/>
+<p X="-208.7749" Y="-232.7245" Z="363.121"/>
+<phi Z="-3.118398"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_einseitig.lod.ls3"/>
+<p X="-166.6989" Y="-231.6991" Z="363.1081"/>
+<phi Z="-3.118357"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_einseitig.lod.ls3"/>
+<p X="-126.4359" Y="-230.8275" Z="363.0956"/>
+<phi Z="-3.118355"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_einseitig.lod.ls3"/>
+<p X="-46.4209" Y="-229.5116" Z="363.071"/>
+<phi Z="-3.118345"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_zweiseitig.lod.ls3"/>
+<p X="-426.9209" Y="-228.3153" Z="363.1882"/>
+<phi Z="-3.118367"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_zweiseitig.lod.ls3"/>
+<p X="-386.8619" Y="-227.7513" Z="363.1758"/>
+<phi Z="-3.118378"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_zweiseitig.lod.ls3"/>
+<p X="-346.8718" Y="-226.5892" Z="363.1635"/>
+<phi Z="-3.118388"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_zweiseitig.lod.ls3"/>
+<p X="-267.5289" Y="-224.1967" Z="363.1391"/>
+<phi Z="-3.118383"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_zweiseitig.lod.ls3"/>
+<p X="-226.9918" Y="-223.1713" Z="363.1266"/>
+<phi Z="-3.118382"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_zweiseitig.lod.ls3"/>
+<p X="-186.7289" Y="-222.4193" Z="363.1142"/>
+<phi Z="-3.11836"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_zweiseitig.lod.ls3"/>
+<p X="-147.1489" Y="-221.0522" Z="363.102"/>
+<phi Z="-3.118361"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_zweiseitig.lod.ls3"/>
+<p X="-106.4749" Y="-220.5053" Z="363.0894"/>
+<phi Z="-3.118378"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_zweiseitig.lod.ls3"/>
+<p X="-67.4419" Y="-219.5312" Z="363.0774"/>
+<phi Z="-3.118368"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2Mast.lod.ls3"/>
+<p X="-286.6699" Y="-224.6752" Z="363.145"/>
+<phi Z="-3.118387"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_685500_5400500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeshV="16" MeshI="24">
 <RenderFlags TexVoreinstellung="3"/>

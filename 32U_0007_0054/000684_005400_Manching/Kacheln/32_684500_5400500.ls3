@@ -38,6 +38,54 @@
 <phi/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\gleisabschluss.lod.ls3"/>
+<p X="379.4828" Y="-240.7114" Z="363.2479"/>
+<phi Z="-0.02615"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\Prellbock_Rawie_10EB_MS_Grau.lod.ls3"/>
+<p X="379.4828" Y="-240.7114" Z="363.2479"/>
+<phi Z="-0.02615"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_einseitig.lod.ls3"/>
+<p X="438.4742" Y="-242.2606" Z="363.2298"/>
+<phi Z="-3.118423"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_einseitig.lod.ls3"/>
+<p X="473.0982" Y="-240.0048" Z="363.2191"/>
+<phi Z="-3.11837"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_zweiseitig.lod.ls3"/>
+<p X="453.4449" Y="-230.9471" Z="363.2251"/>
+<phi Z="-3.118381"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteiglampen\Gittermastleuchte_11m_2_zweiseitig.lod.ls3"/>
+<p X="493.23" Y="-230.8446" Z="363.2128"/>
+<phi Z="-3.118375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Fernsprecher\Podest_1m25x2m-Gelaender-2s.lod.ls3"/>
+<p X="-119.271" Y="-258.4518" Z="363.4017"/>
+<phi Z="0.023279"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Fernsprecher\F-Kasten-einfachfuss.lod.ls3"/>
+<p X="-119.2017" Y="-261.4354" Z="363.4017"/>
+<phi Z="0.023279"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_684500_5400500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeshV="54" MeshI="114">
 <RenderFlags TexVoreinstellung="3"/>
