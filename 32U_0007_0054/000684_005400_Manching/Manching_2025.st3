@@ -10829,5 +10829,9 @@
 <NachNorm Nr="245"/>
 <NachGegen Nr="244"/>
 </StrElement>
+<StrElement Nr="624" spTrass="27.7778" Fkt="2">
+<g X="1129.0165" Y="241.8806" Z="363.336"/>
+<b X="1653.4822" Y="254.3448" Z="362.8116"/>
+</StrElement>
 </Strecke>
 </Zusi>
