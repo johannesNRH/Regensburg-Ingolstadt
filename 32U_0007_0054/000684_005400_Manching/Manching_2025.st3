@@ -53,18 +53,6 @@
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\Zunge_500L_abzweig_K-Oberbau.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.17"/>
 <phi Z="3.1415"/>
@@ -77,197 +65,17 @@
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb500_RolleRe_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb500_RolleLi_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb500_RolleLi_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb500_RolleRe_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.11"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_rechts.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.11"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_links.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_WA350_rechts.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_WA350_links.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß rechts(für Antrieb Weiche links)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.24"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Mittelverschluss500_gegenueber_Re.lod.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß links(für Antrieb Weiche links)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.24"/>
 <phi/>
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Mittelverschluss500_Li.lod.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß links(für Antrieb Weiche rechts)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.24"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Mittelverschluss500_gegenueber_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß rechts(für Antrieb Weiche rechts)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.24"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Mittelverschluss500_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Ohne Antrieb Mittelverschluß (bei mechanischem Antrieb auswählen)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="1.69" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="1.69" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="1.69" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="1.69" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="2298878051" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="4446361701" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="59" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="61" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="67.0406" pos="1"/>
@@ -416,18 +224,6 @@
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\Zunge_500R_abzweig_K-Oberbau.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.17"/>
 <phi/>
@@ -440,197 +236,17 @@
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb500_RolleLi_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb500_RolleRe_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb500_RolleRe_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb500_RolleLi_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.11"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_rechts.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.11"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_links.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_WA350_rechts.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_WA350_links.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß (für gegenüber Antrieb) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.24"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Mittelverschluss500_gegenueber_Li.lod.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß (für gleiche Seite wie Antrieb) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.24"/>
 <phi/>
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Mittelverschluss500_Re.lod.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß (für gegenüber Antrieb) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.24"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Mittelverschluss500_gegenueber_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß (für gleiche Seite wie Antrieb) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.24"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Mittelverschluss500_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Ohne Antrieb Mittelverschluß (bei mechanischem Antrieb auswählen)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="1.69" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="1.69" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="1.69" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="1.69" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="16777315" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="16777317" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="59" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="61" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.999" pos="1"/>
@@ -779,155 +395,17 @@
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\300\Zunge_EW300L_abzweig_K-Oberbau.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.68"/>
 <phi Z="3.1415"/>
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb300_RolleRe_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb300_RolleLi_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb300_RolleLi_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb300_RolleRe_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="2.26" Y="-2.07"/>
-<phi Z="3.14"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) links" WeichenbaugruppePos1="1">
-<p X="1.68" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.68" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) links" WeichenbaugruppePos0="1">
-<p X="1.68" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="19" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="13" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.4439" pos="1"/>
@@ -1074,131 +552,11 @@
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleRe.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleLi.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleLi.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleRe.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.65" Y="-2.07"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) links" WeichenbaugruppePos1="1">
-<p X="1.65" Y="2.07"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.05" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) links" WeichenbaugruppePos0="1">
-<p X="1.05" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
 <p X="1.6" Y="-2.07"/>
 <phi/>
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Weichensignal für EOW rechts" WeichenbaugruppePos0="1">
-<p X="0.7" Y="-2.35" Z="-0.35"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\EOW-Signal.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Weichensignal für EOW links" WeichenbaugruppePos0="1">
-<p X="0.7" Y="2.35" Z="-0.35"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\EOW-Signal.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
 </SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.17"/>
@@ -1206,29 +564,11 @@
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="34363932683" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="34368126989" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="91" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="109" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.1322"/>
@@ -1910,179 +1250,17 @@
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\Zunge_EW190R_abzweig_K-Oberbau.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen_links.lod.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.17"/>
 <phi/>
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen_rechts.lod.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleLi.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleRe.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleRe.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleLi.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.05" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) links" WeichenbaugruppePos1="1">
-<p X="1.05" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.05" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) links" WeichenbaugruppePos0="1">
-<p X="1.05" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="10" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.12"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_links.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="11" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.12"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_rechts.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Weichensignal für EOW rechts" WeichenbaugruppePos0="1">
-<p X="0.7" Y="-2.35" Z="-0.35"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\EOW-Signal.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Weichensignal für EOW links" WeichenbaugruppePos0="1">
-<p X="0.7" Y="2.35" Z="-0.35"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\EOW-Signal.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="19" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="13" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.8266" pos="1"/>
@@ -2641,179 +1819,17 @@
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\Zunge_EW190R_abzweig_K-Oberbau.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.17"/>
 <phi/>
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleLi.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleRe.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleRe.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleLi.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.05" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) links" WeichenbaugruppePos1="1">
-<p X="1.05" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.05" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) links" WeichenbaugruppePos0="1">
-<p X="1.05" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="10" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_WA350_links.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="11" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_WA350_rechts.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Weichensignal für EOW rechts" WeichenbaugruppePos0="1">
-<p X="0.7" Y="-2.35" Z="-0.35"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\EOW-Signal.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Weichensignal für EOW links" WeichenbaugruppePos0="1">
-<p X="0.7" Y="2.35" Z="-0.35"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\EOW-Signal.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="19" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="13" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.3941"/>
@@ -2951,168 +1967,6 @@
 <phi/>
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleRe.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleLi.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleLi.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleRe.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.65" Y="-2.07"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) links" WeichenbaugruppePos1="1">
-<p X="1.65" Y="2.07"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.05" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) links" WeichenbaugruppePos0="1">
-<p X="1.05" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="10" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_WA350_links.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="11" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_WA350_rechts.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Weichensignal für EOW rechts" WeichenbaugruppePos0="1">
-<p X="0.7" Y="-2.35" Z="-0.35"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\EOW-Signal.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Weichensignal für EOW links" WeichenbaugruppePos0="1">
-<p X="0.7" Y="2.35" Z="-0.35"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\EOW-Signal.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
@@ -3281,113 +2135,11 @@
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\Zunge_EW190L_abzweig_K-Oberbau.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.17"/>
 <phi Z="3.1415"/>
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleRe.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleLi.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleLi.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleRe.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.65" Y="-2.07"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) links" WeichenbaugruppePos1="1">
-<p X="1.65" Y="2.07"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.05" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) links" WeichenbaugruppePos0="1">
-<p X="1.05" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="10" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_WA350_links.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="11" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_WA350_rechts.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Li.lod.ls3"/>
 </SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
 <p X="1.6" Y="2.07"/>
@@ -3395,65 +2147,11 @@
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Li.lod.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Weichensignal für EOW rechts" WeichenbaugruppePos0="1">
-<p X="0.7" Y="-2.35" Z="-0.35"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\EOW-Signal.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Weichensignal für EOW links" WeichenbaugruppePos0="1">
-<p X="0.7" Y="2.35" Z="-0.35"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\EOW-Signal.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="67108883" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="134217749" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="45" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.357" pos="1"/>
@@ -6010,18 +4708,6 @@
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zunge_500R_abzweig_K-Oberbau_gebogen_0001.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_S700_blassgruen.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0001.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.17"/>
 <phi/>
@@ -6034,197 +4720,17 @@
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0002.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb500_RolleLi_Li.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb500_RolleRe_Li.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0004.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb500_RolleRe_Re.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0005.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb500_RolleLi_Re.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0006.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.11"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_L700H_rechts.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0007.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.11"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_L700H_links.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0008.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_WA350_rechts.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0009.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_WA350_links.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0010.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß (für gegenüber Antrieb) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.24"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Mittelverschluss500_gegenueber_Li.lod_gebogen_0001.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß (für gleiche Seite wie Antrieb) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.24"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Mittelverschluss500_Re.lod_gebogen_0001.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß (für gegenüber Antrieb) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.24"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Mittelverschluss500_gegenueber_Re.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß (für gleiche Seite wie Antrieb) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.24"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Mittelverschluss500_Li.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Ohne Antrieb Mittelverschluß (bei mechanischem Antrieb auswählen)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="1.69" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_reflekt_Re.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="1.69" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_reflekt_Re.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="1.69" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_elektr_Re.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="1.69" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_elektr_Re.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0004.ls3"/>
-</SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="16777315" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="16777317" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="59" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="61" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.949" pos="1"/>
@@ -6421,167 +4927,17 @@
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zunge_EW300R_abzweig_K-Oberbau_gebogen_0001.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_S700_blassgruen.lod_gebogen_0003.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.68"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_S700_blassgruen.lod_gebogen_0004.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb300_RolleLi_Li.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb300_RolleRe_Li.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb300_RolleRe_Re.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb300_RolleLi_Re.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="2.26" Y="-2.07"/>
-<phi Z="3.14"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_gelb.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Re.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) links" WeichenbaugruppePos1="1">
-<p X="1.68" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_gelb.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Li.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.68" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_weissschwarz_Re.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Re.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) links" WeichenbaugruppePos0="1">
-<p X="1.68" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_weissschwarz_Re.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Li.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="10" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.71"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_L700H_links.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="11" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.71"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_L700H_rechts.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_reflekt_Re.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_reflekt_Re.lod_gebogen_0004.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_elektr_Re.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_elektr_Re.lod_gebogen_0004.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0005.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0006.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0007.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0008.ls3"/>
-</SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="19" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="13" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.9025" pos="1"/>
@@ -7097,77 +5453,11 @@
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_S700_blassgruen.lod_gebogen_0005.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_S700_blassgruen.lod_gebogen_0006.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="-0.1"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_RolleRe.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="-0.1"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_RolleLi.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="-0.1"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_RolleLi.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="-0.1"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_RolleRe.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Handbetätigung (weiß-schwarzes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="-0.3" Y="-2.07" Z="-0.1"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_weissschwarz_Re.lod_gebogen_0003.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="Gleissperrensignal für Schutzrichtung" WeichenbaugruppePos0="1">
 <p X="0.25" Y="-2.07"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\DB_Gleissperrensignal.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Gleissperrensignal für beide Richtungen" WeichenbaugruppePos0="1">
-<p X="0.25" Y="2.07"/>
-<phi Z="-3.141592"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\DB_Gleissperrensignal.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppePos0="1">
-<p X="0.25" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\DB_Gleissperrensignal.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0009.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0010.ls3"/>
 </SignalFrame>
 <SignalFrame>
 <p Y="0.82" Z="-0.1406"/>
@@ -7178,10 +5468,10 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="131329">
+<MatrixEintrag Signalbild="11">
 <Ereignis Er="52"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="262657" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.7869"/>
@@ -8470,149 +6760,17 @@
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb300_RolleRe_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb300_RolleLi_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb300_RolleLi_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb300_RolleRe_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="2.26" Y="-2.07"/>
-<phi Z="3.14"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) links" WeichenbaugruppePos1="1">
-<p X="1.68" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.68" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) links" WeichenbaugruppePos0="1">
-<p X="1.68" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.68"/>
 <phi/>
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="2147483659" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="2147483661" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="27" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="29" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="69.8727" pos="1"/>
@@ -8772,180 +6930,6 @@
 <phi Z="3.1415"/>
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleLi.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleRe.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleRe.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb_RolleLi.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.05" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) links" WeichenbaugruppePos1="1">
-<p X="1.05" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_gelb.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.05" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) links" WeichenbaugruppePos0="1">
-<p X="1.05" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\Umstellgewicht_weissschwarz_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="10" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.11"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_links.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="11" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.11"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_rechts.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="12" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_WA350_links.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="13" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_WA350_rechts.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Weichensignal für EOW rechts" WeichenbaugruppePos0="1">
-<p X="0.7" Y="-2.35" Z="-0.35"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\EOW-Signal.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Weichensignal für EOW links" WeichenbaugruppePos0="1">
-<p X="0.7" Y="2.35" Z="-0.35"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\EOW-Signal.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
@@ -9832,155 +7816,17 @@
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zunge_EW300L_abzweig_K-Oberbau_gebogen_0001.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_S700_blassgruen.lod_gebogen_0007.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.68"/>
 <phi Z="3.1415"/>
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_S700_blassgruen.lod_gebogen_0008.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb300_RolleRe_Re.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb300_RolleLi_Re.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb300_RolleLi_Li.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb300_RolleRe_Li.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="2.26" Y="-2.07"/>
-<phi Z="3.14"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_gelb.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Re.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) links" WeichenbaugruppePos1="1">
-<p X="1.68" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_gelb.lod_gebogen_0004.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Li.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.68" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_weissschwarz_Li.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Re.lod_gebogen_0004.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) links" WeichenbaugruppePos0="1">
-<p X="1.68" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_weissschwarz_Li.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Li.lod_gebogen_0004.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_reflekt_Li.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_reflekt_Li.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_elektr_Li.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_elektr_Li.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0011.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0012.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0013.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0014.ls3"/>
-</SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="19" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="13" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.9608" pos="1"/>
@@ -10191,179 +8037,17 @@
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zunge_EW190R_abzweig_K-Oberbau_gebogen_0001.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_S700_blassgruen.lod_gebogen_0009.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.17"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_S700_blassgruen.lod_gebogen_0010.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_RolleLi.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_RolleRe.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_RolleRe.lod_gebogen_0004.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_RolleLi.lod_gebogen_0004.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.05" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_gelb.lod_gebogen_0005.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Re.lod_gebogen_0005.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) links" WeichenbaugruppePos1="1">
-<p X="1.05" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_gelb.lod_gebogen_0006.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Li.lod_gebogen_0005.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.05" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_weissschwarz_Re.lod_gebogen_0004.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Re.lod_gebogen_0006.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) links" WeichenbaugruppePos0="1">
-<p X="1.05" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_weissschwarz_Re.lod_gebogen_0005.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Li.lod_gebogen_0006.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="10" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_WA350_links.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="11" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_WA350_rechts.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_reflekt_Re.lod_gebogen_0005.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_reflekt_Re.lod_gebogen_0006.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="1.6" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_elektr_Re.lod_gebogen_0005.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="1.6" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_elektr_Re.lod_gebogen_0006.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Weichensignal für EOW rechts" WeichenbaugruppePos0="1">
-<p X="0.7" Y="-2.35" Z="-0.35"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\EOW-Signal.lod_gebogen_0001.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Weichensignal für EOW links" WeichenbaugruppePos0="1">
-<p X="0.7" Y="2.35" Z="-0.35"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\EOW-Signal.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0015.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0016.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0017.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0018.ls3"/>
-</SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="19" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="13" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.9668"/>
@@ -11491,209 +9175,17 @@
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb500_RolleRe_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb500_RolleLi_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb500_RolleLi_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Mechanisch\Antrieb500_RolleRe_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.11"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_rechts.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.11"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_links.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_WA350_rechts.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_WA350_links.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Zungenpruefer_ELP319.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß rechts(für Antrieb Weiche links)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.24"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Mittelverschluss500_gegenueber_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß links(für Antrieb Weiche links)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.24"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Mittelverschluss500_Li.lod.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß links(für Antrieb Weiche rechts)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.24"/>
 <phi/>
 <sk/>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Mittelverschluss500_gegenueber_Li.lod.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß rechts(für Antrieb Weiche rechts)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.24"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Mittelverschluss500_Re.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Ohne Antrieb Mittelverschluß (bei mechanischem Antrieb auswählen)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="1.69" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="1.69" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_reflekt_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="1.69" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="1.69" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Weichensignal_elektr_Li.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\Aufschuettung_Antrieb_Beton.lod.ls3"/>
-</SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="33554459" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="33554461" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="59" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="61" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="65.9871"/>
@@ -11876,18 +9368,6 @@
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zunge_500L_abzweig_K-Oberbau_gebogen_0001.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_S700_blassgruen.lod_gebogen_0011.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0011.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.17"/>
 <phi Z="3.1415"/>
@@ -11900,197 +9380,17 @@
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0012.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb500_RolleRe_Re.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0013.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb500_RolleLi_Re.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0014.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb500_RolleLi_Li.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0015.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb500_RolleRe_Li.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.45"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0016.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.11"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_L700H_rechts.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0017.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Elektrischer Antrieb L700H links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.11"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_L700H_links.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0018.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_WA350_rechts.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0019.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Elektrischer Antrieb WSSB links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.13"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_WA350_links.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="5.57"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zungenpruefer_ELP319.lod_gebogen_0020.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß rechts(für Antrieb Weiche links)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.24"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Mittelverschluss500_gegenueber_Re.lod_gebogen_0002.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß links(für Antrieb Weiche links)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.24"/>
 <phi/>
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Mittelverschluss500_Li.lod_gebogen_0002.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß links(für Antrieb Weiche rechts)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.24"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Mittelverschluss500_gegenueber_Li.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Antrieb Mittelverschluß rechts(für Antrieb Weiche rechts)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.24"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Mittelverschluss500_Re.lod_gebogen_0002.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Ohne Antrieb Mittelverschluß (bei mechanischem Antrieb auswählen)" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="1.69" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_reflekt_Li.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="1.69" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_reflekt_Li.lod_gebogen_0004.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="1.69" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_elektr_Li.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="1.69" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_elektr_Li.lod_gebogen_0004.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0019.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0020.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0021.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="4" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.17"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0022.ls3"/>
-</SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="16777315" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="16777317" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="59" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="61" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.0384"/>
@@ -12281,155 +9581,17 @@
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Zunge_EW300L_abzweig_K-Oberbau_gebogen_0002.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_S700_blassgruen.lod_gebogen_0013.ls3"/>
-</SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="1.68"/>
 <phi Z="3.1415"/>
 <sk/>
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_S700_blassgruen.lod_gebogen_0014.ls3"/>
 </SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb300_RolleRe_Re.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb300_RolleLi_Re.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle vorne) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb300_RolleLi_Li.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="5" WeichenbaugruppeBeschreibung="Mechanischer Antrieb (Umlenkrolle hinten) links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb300_RolleRe_Li.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="2.26" Y="-2.07"/>
-<phi Z="3.14"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_gelb.lod_gebogen_0007.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="6" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Re.lod_gebogen_0007.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppeBeschreibung="Handweiche (gelbes Umstellgewicht) links" WeichenbaugruppePos1="1">
-<p X="1.68" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_gelb.lod_gebogen_0008.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="7" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Li.lod_gebogen_0007.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) rechts" WeichenbaugruppePos0="1">
-<p X="1.68" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_weissschwarz_Li.lod_gebogen_0003.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="8" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Re.lod_gebogen_0008.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppeBeschreibung="Handweiche (weiß-schwarzes Umstellgewicht) links" WeichenbaugruppePos0="1">
-<p X="1.68" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Umstellgewicht_weissschwarz_Li.lod_gebogen_0004.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="9" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Laternenbock_Li.lod_gebogen_0008.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="ohne Weichensignal">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_reflekt_Li.lod_gebogen_0005.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_reflekt_Li.lod_gebogen_0006.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet rechts" WeichenbaugruppePos0="1">
-<p X="2.2" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_elektr_Li.lod_gebogen_0005.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="4" WeichenbaugruppeBeschreibung="Weichensignal elektr. beleuchtet links" WeichenbaugruppePos0="1">
-<p X="2.2" Y="2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Weichensignal_elektr_Li.lod_gebogen_0006.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeBeschreibung="Keine Aufschüttung">
-<p/>
-<phi/>
-<sk/>
-<Datei/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0023.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0024.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppeBeschreibung="Aufschüttung Betoneinfassung links und rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0025.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="3" WeichenbaugruppeNr="3" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p X="1.68"/>
-<phi Z="3.1415"/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Aufschuettung_Antrieb_Beton.lod_gebogen_0026.ls3"/>
-</SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="19" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="13" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.0845"/>
