@@ -20,22 +20,22 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="32" BoundingR="144" SichtbarBis="140" Vorlade="1">
-<Datei Dateiname="Detail_32_686875_5400375.ls3"/>
-<p X="375" Y="-125"/>
-<phi/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d190-l9m.lod.ls3"/>
 <p X="498.0979" Y="-149.768" Z="362.4031"/>
 <phi Z="0.246894"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3019" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_4m2\Ausleger_4m2-Kurve_k.lod.ls3"/>
 <p X="497.948" Y="-149.1736" Z="362.4031"/>
 <phi Z="0.246894"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="144" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_686875_5400375.ls3"/>
+<p X="375" Y="-125"/>
+<phi/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_686500_5400500.lsb"/>

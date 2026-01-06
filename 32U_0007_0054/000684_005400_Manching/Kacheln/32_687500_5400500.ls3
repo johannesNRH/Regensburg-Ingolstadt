@@ -2,18 +2,6 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<Verknuepfte Flags="32" BoundingR="135" SichtbarBis="140" Vorlade="1">
-<Datei Dateiname="Detail_32_687125_5400375.ls3"/>
-<p X="-375" Y="-125"/>
-<phi/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="32" BoundingR="137" SichtbarBis="140" Vorlade="1">
-<Datei Dateiname="Detail_32_687875_5400625.ls3"/>
-<p X="375" Y="125"/>
-<phi/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d190-l8m.lod.ls3"/>
 <p X="226.1029" Y="64.5002" Z="361.7507"/>
@@ -222,6 +210,36 @@
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
 <p X="-416.3032" Y="-129.6805" Z="371.3282"/>
 <phi Z="0.285702"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="135" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_687125_5400375.ls3"/>
+<p X="-375" Y="-125"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="176" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_687375_5400375.ls3"/>
+<p X="-125" Y="-125"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_687625_5400375.ls3"/>
+<p X="125" Y="-125"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_687625_5400625.ls3"/>
+<p X="125" Y="125"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="137" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_687875_5400625.ls3"/>
+<p X="375" Y="125"/>
+<phi/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_687500_5400500.lsb"/>

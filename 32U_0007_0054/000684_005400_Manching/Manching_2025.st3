@@ -32,7 +32,7 @@
 <g X="852.71" Y="253.281" Z="363.2562"/>
 <b X="853.9097" Y="253.3089" Z="363.2558"/>
 <InfoNormRichtung vMax="-1" km="67.0418" pos="1">
-<Signal Signalname="14" SignalFlags="3" SignalTyp="2" BoundingR="43">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="14" SignalFlags="3" SignalTyp="2" BoundingR="43">
 <p X="852.71" Y="253.281" Z="363.2562"/>
 <phi Y="0.000305" Z="0.02323"/>
 <SignalFrame>
@@ -266,8 +266,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2298878051" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="4446361701" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="67.0406" pos="1"/>
@@ -287,10 +287,10 @@
 <g X="853.9097" Y="253.3089" Z="363.2558"/>
 <b X="859.3532" Y="253.4796" Z="363.2542"/>
 <InfoNormRichtung vMax="-1" km="67.0406" pos="1">
-<Ereignis Er="1" Wert="18.0556"/>
+<Ereignis Er="1" Wert="11.1111"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="67.0352" pos="1">
-<Ereignis Er="1" Wert="18.0556"/>
+<Ereignis Er="1" Wert="11.1111"/>
 </InfoGegenRichtung>
 <NachNorm Nr="5"/>
 <NachGegen Nr="2"/>
@@ -395,7 +395,7 @@
 <g X="894.2939" Y="254.2469" Z="363.2434"/>
 <b X="895.4935" Y="254.2748" Z="363.243"/>
 <InfoNormRichtung vMax="-1" km="67.0003" pos="1">
-<Signal Signalname="13" SignalFlags="3" SignalTyp="2" BoundingR="43">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="13" SignalFlags="3" SignalTyp="2" BoundingR="43">
 <p X="894.2939" Y="254.2469" Z="363.2434"/>
 <phi Y="0.000305" Z="0.02323"/>
 <SignalFrame>
@@ -629,8 +629,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16777315" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16777317" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.999" pos="1"/>
@@ -650,10 +650,10 @@
 <g X="895.4935" Y="254.2748" Z="363.243"/>
 <b X="900.9391" Y="254.3571" Z="363.2413"/>
 <InfoNormRichtung vMax="-1" km="66.999" pos="1">
-<Ereignis Er="1" Wert="18.0556"/>
+<Ereignis Er="1" Wert="16.6667"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.9936" pos="1">
-<Ereignis Er="1" Wert="18.0556"/>
+<Ereignis Er="1" Wert="16.6667"/>
 </InfoGegenRichtung>
 <NachNorm Nr="19"/>
 <NachGegen Nr="16"/>
@@ -758,9 +758,9 @@
 <g X="1448.694" Y="267.1281" Z="363.0725"/>
 <b X="1450.494" Y="267.1699" Z="363.072"/>
 <InfoNormRichtung vMax="-1" km="66.4457" pos="1">
-<Signal Signalname="4" SignalFlags="3" SignalTyp="2" BoundingR="34">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="4" SignalFlags="3" SignalTyp="2" BoundingR="34">
 <p X="1448.694" Y="267.1281" Z="363.0725"/>
-<phi Y="0.000308" Z="0.02323"/>
+<phi Y="0.000307" Z="0.02323"/>
 <SignalFrame>
 <p/>
 <phi/>
@@ -926,8 +926,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="19" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.4439" pos="1"/>
@@ -1047,7 +1047,7 @@
 <g X="1763.146" Y="282.552" Z="362.9755"/>
 <b X="1761.946" Y="282.5774" Z="362.9759"/>
 <InfoNormRichtung vMax="-1" km="66.131" pos="1">
-<Signal Signalname="22" SignalFlags="3" SignalTyp="2" BoundingR="27">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="22" SignalFlags="3" SignalTyp="2" BoundingR="27">
 <p X="1763.146" Y="282.552" Z="362.9755"/>
 <phi Y="-0.000308" Z="3.120441"/>
 <SignalFrame>
@@ -1227,8 +1227,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="34363932683" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="34368126989" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.1322"/>
@@ -1348,7 +1348,9 @@
 <g X="1712.929" Y="283.615" Z="362.991"/>
 <b X="1737.291" Y="283.099" Z="362.9835"/>
 <InfoNormRichtung vMax="33.3333" km="66.1812"/>
-<InfoGegenRichtung vMax="33.3333" km="66.1568" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="66.1568" pos="1">
+<Ereignis Er="4"/>
+</InfoGegenRichtung>
 <NachNorm Nr="46"/>
 <NachGegen Nr="55"/>
 </StrElement>
@@ -1356,7 +1358,9 @@
 <g X="1729.741" Y="280.493" Z="362.9858"/>
 <b X="1737.37" Y="281.3459" Z="362.9835"/>
 <InfoNormRichtung vMax="33.3333" km="66.1644"/>
-<InfoGegenRichtung vMax="33.3333" km="66.1568" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="66.1568" pos="1">
+<Ereignis Er="4"/>
+</InfoGegenRichtung>
 <NachNorm Nr="52"/>
 <NachGegen Nr="167"/>
 </StrElement>
@@ -1558,7 +1562,9 @@
 <StrElement Nr="68" spTrass="27.7778" Anschluss="256" Oberbau="B55 SKL-Oberbau">
 <g X="935.8789" Y="255.213" Z="363.2306"/>
 <b X="1017.849" Y="257.1175" Z="363.2053"/>
-<InfoNormRichtung vMax="27.7778" km="66.9587"/>
+<InfoNormRichtung vMax="27.7778" km="66.9587">
+<Ereignis Er="4"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="66.8767" pos="1"/>
 <NachNorm Nr="260"/>
 <NachGegen Nr="25"/>
@@ -1590,8 +1596,12 @@
 <StrElement Nr="72" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="1179.767" Y="271.2968" Z="363.1553"/>
 <b X="1098.683" Y="269.308" Z="363.1803"/>
-<InfoNormRichtung vMax="27.7778" km="66.7145" pos="1"/>
-<InfoGegenRichtung vMax="27.7778" km="66.7956"/>
+<InfoNormRichtung vMax="27.7778" km="66.7145" pos="1">
+<Ereignis Er="6"/>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="27.7778" km="66.7956">
+<Ereignis Er="6"/>
+</InfoGegenRichtung>
 <NachNorm Nr="73"/>
 <NachGegen Nr="71"/>
 </StrElement>
@@ -1699,7 +1709,9 @@
 <StrElement Nr="74" spTrass="27.7778" Anschluss="256" Oberbau="B55 SKL-Oberbau">
 <g X="1481.916" Y="267.9" Z="363.0623"/>
 <b X="1557.017" Y="269.645" Z="363.0391"/>
-<InfoNormRichtung vMax="27.7778" km="66.4125"/>
+<InfoNormRichtung vMax="27.7778" km="66.4125">
+<Ereignis Er="4"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="66.3373" pos="1"/>
 <NachNorm Nr="75"/>
 <NachGegen Nr="39"/>
@@ -1824,8 +1836,12 @@
 <StrElement Nr="78" spTrass="27.7778" Oberbau="Holz K-Oberbau">
 <g X="1145.9301" Y="239.059" Z="363.166"/>
 <b X="1241.608" Y="241.244" Z="363.1365"/>
-<InfoNormRichtung vMax="27.7778" km="66.749"/>
-<InfoGegenRichtung vMax="27.7778" km="66.6533" pos="1"/>
+<InfoNormRichtung vMax="27.7778" km="66.749">
+<Ereignis Er="6"/>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="27.7778" km="66.6533" pos="1">
+<Ereignis Er="6"/>
+</InfoGegenRichtung>
 <NachNorm Nr="79"/>
 <NachGegen Nr="97"/>
 </StrElement>
@@ -1873,7 +1889,7 @@
 <g X="1067.051" Y="243.829" Z="363.1902"/>
 <b X="1068.251" Y="243.8567" Z="363.1899"/>
 <InfoNormRichtung vMax="-1" km="66.8278" pos="1">
-<Signal Signalname="9" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="9" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="1067.051" Y="243.829" Z="363.1902"/>
 <phi Y="0.000308" Z="0.023125"/>
 <SignalFrame>
@@ -2065,8 +2081,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="19" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.8266" pos="1"/>
@@ -2446,7 +2462,8 @@
 <g X="1200.285" Y="251.5526" Z="363.1491"/>
 <b X="1100.422" Y="249.2315" Z="363.1799"/>
 <InfoNormRichtung vMax="27.7778" km="66.6944" pos="1">
-<Signal NameBetriebsstelle="Ingolstadt Hbf" Stellwerk="Ingolstadt Hbf Ihf" Signalname="N4" SignalTyp="9" BoundingR="10">
+<Ereignis Er="6"/>
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="N4" SignalTyp="9" BoundingR="10">
 <p X="1100.3698" Y="251.4809" Z="363.1799"/>
 <phi Z="-3.118354"/>
 <SignalFrame>
@@ -2539,7 +2556,9 @@
 </Ersatzsignal>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="27.7778" km="66.7943"/>
+<InfoGegenRichtung vMax="27.7778" km="66.7943">
+<Ereignis Er="6"/>
+</InfoGegenRichtung>
 <NachNorm Nr="323"/>
 <NachGegen Nr="117"/>
 </StrElement>
@@ -2590,7 +2609,9 @@
 <StrElement Nr="121" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="1475.537" Y="273.577" Z="363.0642"/>
 <b X="1432.866" Y="272.583" Z="363.0774"/>
-<InfoNormRichtung vMax="27.7778" km="66.4187" pos="1"/>
+<InfoNormRichtung vMax="27.7778" km="66.4187" pos="1">
+<Ereignis Er="4"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="66.4614"/>
 <NachNorm Nr="336"/>
 <NachGegen Nr="125"/>
@@ -2599,7 +2620,7 @@
 <g X="1501.392" Y="274.179" Z="363.0562"/>
 <b X="1500.192" Y="274.151" Z="363.0566"/>
 <InfoNormRichtung vMax="-1" km="66.3929" pos="1">
-<Signal Signalname="6" SignalFlags="3" SignalTyp="2" BoundingR="27">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="6" SignalFlags="3" SignalTyp="2" BoundingR="27">
 <p X="1501.392" Y="274.179" Z="363.0562"/>
 <phi Y="-0.000308" Z="-3.118299"/>
 <SignalFrame>
@@ -2791,8 +2812,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="19" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.3941"/>
@@ -2904,7 +2925,7 @@
 <g X="1527.17" Y="274.78" Z="363.0483"/>
 <b X="1525.97" Y="274.752" Z="363.0486"/>
 <InfoNormRichtung vMax="-1" km="66.3671" pos="1">
-<Signal Signalname="5" SignalFlags="3" SignalTyp="2" BoundingR="27">
+<Signal NameBetriebsstelle="Ernsgaden Abzw" Stellwerk="Ingolstadt Hbf Ihf" Signalname="5" SignalFlags="3" SignalTyp="2" BoundingR="27">
 <p X="1527.17" Y="274.78" Z="363.0483"/>
 <phi Y="-0.000308" Z="-3.118299"/>
 <SignalFrame>
@@ -3096,8 +3117,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="13" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.3683"/>
@@ -3192,7 +3213,9 @@
 <StrElement Nr="144" spTrass="27.7778" Anschluss="256" Oberbau="B55 SKL-Oberbau">
 <g X="1481.776" Y="269.729" Z="363.0623"/>
 <b X="1491.084" Y="270.939" Z="363.0594"/>
-<InfoNormRichtung vMax="27.7778" km="66.4126"/>
+<InfoNormRichtung vMax="27.7778" km="66.4126">
+<Ereignis Er="4"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="66.4032" pos="1"/>
 <NachNorm Nr="145"/>
 <NachGegen Nr="40"/>
@@ -3209,7 +3232,9 @@
 <g X="1496.2841" Y="271.65" Z="363.0578"/>
 <b X="1501.473" Y="272.43" Z="363.0562"/>
 <InfoNormRichtung vMax="27.7778" km="66.398"/>
-<InfoGegenRichtung vMax="27.7778" km="66.3928" pos="1"/>
+<InfoGegenRichtung vMax="27.7778" km="66.3928" pos="1">
+<Ereignis Er="4"/>
+</InfoGegenRichtung>
 <NachNorm Nr="143"/>
 <NachGegen Nr="145"/>
 </StrElement>
@@ -3225,7 +3250,9 @@
 <g X="1631.817" Y="277.2175" Z="363.016"/>
 <b X="1561.876" Y="275.588" Z="363.0376"/>
 <InfoNormRichtung vMax="27.7778" km="66.2624" pos="1"/>
-<InfoGegenRichtung vMax="27.7778" km="66.3324"/>
+<InfoGegenRichtung vMax="27.7778" km="66.3324">
+<Ereignis Er="4"/>
+</InfoGegenRichtung>
 <NachNorm Nr="152"/>
 <NachGegen Nr="147"/>
 </StrElement>
@@ -3233,7 +3260,7 @@
 <g X="1536.021" Y="274.986" Z="363.0456"/>
 <b X="1537.2209" Y="275.0139" Z="363.0452"/>
 <InfoNormRichtung vMax="-1" km="66.3582" pos="1">
-<Signal Signalname="21" SignalFlags="3" SignalTyp="2" BoundingR="27">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="21" SignalFlags="3" SignalTyp="2" BoundingR="27">
 <p X="1536.021" Y="274.986" Z="363.0456"/>
 <phi Y="0.000308" Z="-6.259892"/>
 <SignalFrame>
@@ -3425,8 +3452,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="67108883" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="134217749" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.357" pos="1"/>
@@ -3578,7 +3605,9 @@
 <g X="1569.506" Y="278.5601" Z="363.0352"/>
 <b X="1561.718" Y="277.3361" Z="363.0376"/>
 <InfoNormRichtung vMax="27.7778" km="66.3247" pos="1"/>
-<InfoGegenRichtung vMax="27.7778" km="66.3325"/>
+<InfoGegenRichtung vMax="27.7778" km="66.3325">
+<Ereignis Er="4"/>
+</InfoGegenRichtung>
 <NachNorm Nr="158"/>
 <NachGegen Nr="165"/>
 </StrElement>
@@ -4186,7 +4215,9 @@
 <g X="570.4124" Y="246.7219" Z="363.3432"/>
 <b X="481.5135" Y="244.6564" Z="363.3706"/>
 <InfoNormRichtung vMax="33.3333" km="67.3242" pos="1"/>
-<InfoGegenRichtung vMax="33.3333" km="67.4131"/>
+<InfoGegenRichtung vMax="33.3333" km="67.4131">
+<Ereignis Er="3"/>
+</InfoGegenRichtung>
 <NachNorm Nr="227"/>
 <NachGegen Nr="225"/>
 </StrElement>
@@ -5453,7 +5484,11 @@
 <StrElement Nr="257" spTrass="33.3333" Oberbau="B55 SKL-Oberbau">
 <g X="852.71" Y="253.281" Z="363.2562"/>
 <b X="837.1088" Y="252.9185" Z="363.261"/>
-<InfoNormRichtung vMax="33.3333" km="67.0418" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="67.0418" pos="1">
+<Ereignis Er="1000002"/>
+<Ereignis Er="4"/>
+<Ereignis Er="40"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="33.3333" km="67.0574"/>
 <NachNorm Nr="223"/>
 <NachGegen Nr="2"/>
@@ -5578,8 +5613,12 @@
 <StrElement Nr="261" spTrass="27.7778" Anschluss="256" Oberbau="B55 SKL-Oberbau">
 <g X="1103.052" Y="259.0973" Z="363.179"/>
 <b X="1188.255" Y="261.077" Z="363.1528"/>
-<InfoNormRichtung vMax="27.7778" km="66.7914"/>
-<InfoGegenRichtung vMax="27.7778" km="66.7062" pos="1"/>
+<InfoNormRichtung vMax="27.7778" km="66.7914">
+<Ereignis Er="6"/>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="27.7778" km="66.7062" pos="1">
+<Ereignis Er="6"/>
+</InfoGegenRichtung>
 <NachNorm Nr="262"/>
 <NachGegen Nr="260"/>
 </StrElement>
@@ -5610,8 +5649,11 @@
 <StrElement Nr="265" spTrass="27.7778" Anschluss="256" Oberbau="B55 SKL-Oberbau">
 <g X="1063.999" Y="253.182" Z="363.1911"/>
 <b X="1160.052" Y="255.4129" Z="363.1615"/>
-<InfoNormRichtung vMax="27.7778" km="66.8306"/>
+<InfoNormRichtung vMax="27.7778" km="66.8306">
+<Ereignis Er="6"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="66.7345" pos="1">
+<Ereignis Er="6"/>
 <Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="N3" SignalTyp="9" BoundingR="10">
 <p X="1063.9468" Y="255.4314" Z="363.1911"/>
 <phi Z="-3.118371"/>
@@ -5937,7 +5979,9 @@
 <g X="992.7235" Y="251.6486" Z="363.2131"/>
 <b X="986.0031" Y="251.6444" Z="363.2151"/>
 <InfoNormRichtung vMax="33.3333" km="66.9019" pos="1"/>
-<InfoGegenRichtung vMax="33.3333" km="66.9086"/>
+<InfoGegenRichtung vMax="33.3333" km="66.9086">
+<Ereignis Er="4"/>
+</InfoGegenRichtung>
 <NachNorm Nr="286"/>
 <NachGegen Nr="275"/>
 </StrElement>
@@ -5945,9 +5989,9 @@
 <g X="944.4355" Y="252.9695" Z="363.228"/>
 <b X="945.6334" Y="252.8987" Z="363.2276"/>
 <InfoNormRichtung vMax="-1" km="66.9501" pos="1">
-<Signal Signalname="11" SignalFlags="3" SignalTyp="2" BoundingR="43">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="11" SignalFlags="3" SignalTyp="2" BoundingR="43">
 <p X="944.4355" Y="252.9695" Z="363.228"/>
-<phi Y="0.000308" Z="-0.059845"/>
+<phi Y="0.000307" Z="-0.059846"/>
 <SignalFrame>
 <p/>
 <phi/>
@@ -6179,8 +6223,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16777315" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16777317" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.949" pos="1"/>
@@ -6200,10 +6244,10 @@
 <g X="945.6334" Y="252.8987" Z="363.2276"/>
 <b X="951.069" Y="252.5575" Z="363.2259"/>
 <InfoNormRichtung vMax="-1" km="66.949" pos="1">
-<Ereignis Er="1" Wert="18.0556"/>
+<Ereignis Er="1" Wert="11.1111"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.9435" pos="1">
-<Ereignis Er="1" Wert="18.0556"/>
+<Ereignis Er="1" Wert="11.1111"/>
 </InfoGegenRichtung>
 <NachNorm Nr="280"/>
 <NachGegen Nr="277"/>
@@ -6356,7 +6400,7 @@
 <g X="990.3275" Y="249.5328" Z="363.2138"/>
 <b X="992.121" Y="249.3798" Z="363.2133"/>
 <InfoNormRichtung vMax="-1" km="66.9044" pos="1">
-<Signal Signalname="10" SignalFlags="3" SignalTyp="2" BoundingR="34">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="10" SignalFlags="3" SignalTyp="2" BoundingR="34">
 <p X="990.3275" Y="249.5328" Z="363.2138"/>
 <phi Y="0.000305" Z="-0.086997"/>
 <SignalFrame>
@@ -6536,8 +6580,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="19" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.9025" pos="1"/>
@@ -6581,10 +6625,10 @@
 <g X="992.121" Y="249.3798" Z="363.2133"/>
 <b X="996.3191" Y="248.9883" Z="363.212"/>
 <InfoNormRichtung vMax="-1" km="66.9026" pos="1">
-<Ereignis Er="1" Wert="13.8889"/>
+<Ereignis Er="1" Wert="11.1111"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.8984" pos="1">
-<Ereignis Er="1" Wert="13.8889"/>
+<Ereignis Er="1" Wert="11.1111"/>
 </InfoGegenRichtung>
 <NachNorm Nr="303"/>
 <NachGegen Nr="297"/>
@@ -6692,7 +6736,9 @@
 <StrElement Nr="314" kr="0.00464" spTrass="33.3333" Oberbau="B55 SKL-Oberbau">
 <g X="1028.1899" Y="245.3656" Z="363.2022"/>
 <b X="1032.215" Y="244.8888" Z="363.201"/>
-<InfoNormRichtung vMax="33.3333" km="66.8666"/>
+<InfoNormRichtung vMax="33.3333" km="66.8666">
+<Ereignis Er="4"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="33.3333" km="66.8625" pos="1"/>
 <NachNorm Nr="315"/>
 <NachGegen Nr="312"/>
@@ -6772,8 +6818,11 @@
 <StrElement Nr="324" spTrass="27.7778" Anschluss="256" Oberbau="B55 SKL-Oberbau">
 <g X="1109.55" Y="244.8119" Z="363.1772"/>
 <b X="1207.911" Y="247.0867" Z="363.1468"/>
-<InfoNormRichtung vMax="27.7778" km="66.7853"/>
+<InfoNormRichtung vMax="27.7778" km="66.7853">
+<Ereignis Er="6"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="66.6869" pos="1">
+<Ereignis Er="6"/>
 <Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="N5" SignalTyp="9" BoundingR="10">
 <p X="1109.498" Y="247.0613" Z="363.1772"/>
 <phi Z="-3.11847"/>
@@ -7039,7 +7088,7 @@
 <g X="1110.489" Y="240.5065" Z="363.1769"/>
 <b X="1108.004" Y="240.7783" Z="363.1776"/>
 <InfoNormRichtung vMax="-1" km="66.7844" pos="1">
-<Signal Signalname="III" SignalFlags="3" SignalTyp="3" BoundingR="10">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="III" SignalFlags="3" SignalTyp="3" BoundingR="10">
 <p X="1108.0031" Y="240.7671" Z="363.1776"/>
 <phi Y="-0.000305" Z="3.037152"/>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
@@ -7129,10 +7178,10 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="131072">
+<MatrixEintrag Signalbild="131329">
 <Ereignis Er="52"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="262144" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="262657" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.7869"/>
@@ -7174,8 +7223,12 @@
 <StrElement Nr="339" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau">
 <g X="1183.777" Y="266.7799" Z="363.1541"/>
 <b X="1100.7469" Y="264.8455" Z="363.1797"/>
-<InfoNormRichtung vMax="27.7778" km="66.7106" pos="1"/>
-<InfoGegenRichtung vMax="27.7778" km="66.7936"/>
+<InfoNormRichtung vMax="27.7778" km="66.7106" pos="1">
+<Ereignis Er="6"/>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="27.7778" km="66.7936">
+<Ereignis Er="6"/>
+</InfoGegenRichtung>
 <NachNorm Nr="340"/>
 <NachGegen Nr="338"/>
 </StrElement>
@@ -7340,7 +7393,9 @@
 <g X="1470.277" Y="275.8762" Z="363.0658"/>
 <b X="1475.613" Y="275.331" Z="363.0641"/>
 <InfoNormRichtung vMax="27.7778" km="66.4239"/>
-<InfoGegenRichtung vMax="27.7778" km="66.4186" pos="1"/>
+<InfoGegenRichtung vMax="27.7778" km="66.4186" pos="1">
+<Ereignis Er="4"/>
+</InfoGegenRichtung>
 <NachNorm Nr="131"/>
 <NachGegen Nr="347"/>
 </StrElement>
@@ -7467,7 +7522,7 @@
 <InfoGegenRichtung vMax="33.3333" km="65.5506" pos="1">
 <Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="A" SignalTyp="7" BoundingR="10">
 <p X="2260.4741" Y="289.1302" Z="362.2223"/>
-<phi Z="-3.118363"/>
+<phi Z="-3.118362"/>
 <SignalFrame>
 <p/>
 <phi/>
@@ -8352,7 +8407,9 @@
 <g X="-1945.9091" Y="188.2563" Z="364.6882"/>
 <b X="-1886.402" Y="189.639" Z="364.6423"/>
 <InfoNormRichtung vMax="33.3333" km="69.8412">
-<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" SignalTyp="1" BoundingR="1">
+<Ereignis Er="1000002"/>
+<Ereignis Er="4"/>
+<Signal NameBetriebsstelle="Ingolstadt-Sandrach Abzw" Stellwerk="Ingolstadt Hbf Ihf" SignalTyp="1" BoundingR="1">
 <p X="-1886.33" Y="186.5398" Z="364.7923"/>
 <phi Z="0.023232"/>
 <SignalFrame>
@@ -8386,7 +8443,7 @@
 <g X="-1979.131" Y="187.4844" Z="364.7139"/>
 <b X="-1977.3311" Y="187.5262" Z="364.7125"/>
 <InfoNormRichtung vMax="-1" km="69.8745" pos="1">
-<Signal Signalname="101" SignalFlags="3" SignalTyp="2" BoundingR="34">
+<Signal NameBetriebsstelle="Ernsgaden Abzw" Stellwerk="Ingolstadt Hbf Ihf" Signalname="101" SignalFlags="3" SignalTyp="2" BoundingR="34">
 <p X="-1979.131" Y="187.4844" Z="364.7139"/>
 <phi Y="0.000772" Z="0.023231"/>
 <SignalFrame>
@@ -8554,8 +8611,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2147483659" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="2147483661" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="69.8727" pos="1"/>
@@ -8689,7 +8746,7 @@
 <g X="-1915.271" Y="194.0849" Z="364.6645"/>
 <b X="-1916.4611" Y="193.9303" Z="364.6654"/>
 <InfoNormRichtung vMax="-1" km="69.8105" pos="1">
-<Signal Signalname="102" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Ernsgaden Abzw" Stellwerk="Ingolstadt Hbf Ihf" Signalname="102" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="-1915.271" Y="194.0849" Z="364.6645"/>
 <phi Y="-0.000766" Z="-3.012377"/>
 <SignalFrame>
@@ -8893,8 +8950,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="11" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="13" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="69.8117"/>
@@ -9718,7 +9775,9 @@
 <g X="894.1819" Y="255.972" Z="363.2434"/>
 <b X="903.0583" Y="256.92" Z="363.2407"/>
 <InfoNormRichtung vMax="27.7778" km="67.0003"/>
-<InfoGegenRichtung vMax="27.7778" km="66.9914" pos="1"/>
+<InfoGegenRichtung vMax="27.7778" km="66.9914" pos="1">
+<Ereignis Er="4"/>
+</InfoGegenRichtung>
 <NachNorm Nr="509"/>
 <NachGegen Nr="10"/>
 </StrElement>
@@ -9734,7 +9793,9 @@
 <g X="974.7003" Y="261.9092" Z="363.2186"/>
 <b X="966.0989" Y="261.7088" Z="363.2212"/>
 <InfoNormRichtung vMax="33.3333" km="66.9197" pos="1"/>
-<InfoGegenRichtung vMax="33.3333" km="66.9283"/>
+<InfoGegenRichtung vMax="33.3333" km="66.9283">
+<Ereignis Er="4"/>
+</InfoGegenRichtung>
 <NachNorm Nr="484"/>
 <NachGegen Nr="259"/>
 </StrElement>
@@ -9750,7 +9811,7 @@
 <g X="931.7877" Y="259.7829" Z="363.2318"/>
 <b X="933.5809" Y="259.9395" Z="363.2313"/>
 <InfoNormRichtung vMax="-1" km="66.9626" pos="1">
-<Signal Signalname="12" SignalFlags="3" SignalTyp="2" BoundingR="34">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="12" SignalFlags="3" SignalTyp="2" BoundingR="34">
 <p X="931.7877" Y="259.7829" Z="363.2318"/>
 <phi Y="0.000308" Z="-6.194329"/>
 <SignalFrame>
@@ -9918,8 +9979,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="19" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.9608" pos="1"/>
@@ -9955,10 +10016,10 @@
 <g X="933.5809" Y="259.9395" Z="363.2313"/>
 <b X="937.7778" Y="260.3424" Z="363.2299"/>
 <InfoNormRichtung vMax="-1" km="66.9609" pos="1">
-<Ereignis Er="1" Wert="13.8889"/>
+<Ereignis Er="1" Wert="11.1111"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.9566" pos="1">
-<Ereignis Er="1" Wert="13.8889"/>
+<Ereignis Er="1" Wert="11.1111"/>
 </InfoGegenRichtung>
 <NachNorm Nr="490"/>
 <NachGegen Nr="485"/>
@@ -10099,7 +10160,9 @@
 <g X="976.7972" Y="265.0965" Z="363.2179"/>
 <b X="964.8144" Y="263.51" Z="363.2216"/>
 <InfoNormRichtung vMax="33.3333" km="66.9175" pos="1"/>
-<InfoGegenRichtung vMax="33.3333" km="66.9296"/>
+<InfoGegenRichtung vMax="33.3333" km="66.9296">
+<Ereignis Er="4"/>
+</InfoGegenRichtung>
 <NachNorm Nr="498"/>
 <NachGegen Nr="504"/>
 </StrElement>
@@ -10107,9 +10170,9 @@
 <g X="928.7905" Y="259.5054" Z="363.2327"/>
 <b X="927.5958" Y="259.3933" Z="363.2331"/>
 <InfoNormRichtung vMax="-1" km="66.9656" pos="1">
-<Signal Signalname="15" SignalFlags="3" SignalTyp="2" BoundingR="27">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="15" SignalFlags="3" SignalTyp="2" BoundingR="27">
 <p X="928.7905" Y="259.5054" Z="363.2327"/>
-<phi Y="-0.000308" Z="-3.048362"/>
+<phi Y="-0.000307" Z="-3.048362"/>
 <SignalFrame>
 <p/>
 <phi/>
@@ -10299,8 +10362,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="19" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.9668"/>
@@ -10403,7 +10466,9 @@
 <g X="1029.257" Y="247.7554" Z="363.2019"/>
 <b X="1023.507" Y="247.815" Z="363.2036"/>
 <InfoNormRichtung vMax="33.3333" km="66.8655" pos="1"/>
-<InfoGegenRichtung vMax="33.3333" km="66.8712"/>
+<InfoGegenRichtung vMax="33.3333" km="66.8712">
+<Ereignis Er="4"/>
+</InfoGegenRichtung>
 <NachNorm Nr="311"/>
 <NachGegen Nr="296"/>
 </StrElement>
@@ -11382,7 +11447,9 @@
 <StrElement Nr="525" spTrass="33.3333" Anschluss="257" Oberbau="Holz K-Oberbau">
 <g X="1866.833" Y="276.8437" Z="362.9436"/>
 <b X="1855.631" Y="276.5836" Z="362.9471"/>
-<InfoNormRichtung vMax="33.3333" km="66.0275" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="66.0275" pos="1">
+<Ereignis Er="4"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="33.3333" km="66.0387"/>
 <NachNorm Nr="353"/>
 <NachGegen Nr="535"/>
@@ -11391,7 +11458,7 @@
 <g X="1908.417" Y="277.8092" Z="362.9308"/>
 <b X="1907.217" Y="277.7813" Z="362.9312"/>
 <InfoNormRichtung vMax="-1" km="65.9859" pos="1">
-<Signal Signalname="1" SignalFlags="3" SignalTyp="2" BoundingR="43">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="1" SignalFlags="3" SignalTyp="2" BoundingR="43">
 <p X="1908.417" Y="277.8092" Z="362.9308"/>
 <phi Y="-0.000308" Z="-3.118378"/>
 <SignalFrame>
@@ -11625,8 +11692,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="33554459" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="33554461" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="65.9871"/>
@@ -11646,10 +11713,10 @@
 <g X="1907.217" Y="277.7813" Z="362.9312"/>
 <b X="1901.774" Y="277.6107" Z="362.9329"/>
 <InfoNormRichtung vMax="-1" km="65.9871" pos="1">
-<Ereignis Er="1" Wert="18.0556"/>
+<Ereignis Er="1" Wert="16.6667"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="65.9925">
-<Ereignis Er="1" Wert="18.0556"/>
+<Ereignis Er="1" Wert="16.6667"/>
 </InfoGegenRichtung>
 <NachNorm Nr="529"/>
 <NachGegen Nr="526"/>
@@ -11754,7 +11821,9 @@
 <g X="1797.896" Y="270.2271" Z="362.9649"/>
 <b X="1804.625" Y="270.4152" Z="362.9628"/>
 <InfoNormRichtung vMax="33.3333" km="66.0965"/>
-<InfoGegenRichtung vMax="33.3333" km="66.0898" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="66.0898" pos="1">
+<Ereignis Er="4"/>
+</InfoGegenRichtung>
 <NachNorm Nr="541"/>
 <NachGegen Nr="173"/>
 </StrElement>
@@ -11786,7 +11855,7 @@
 <g X="1857.105" Y="274.0681" Z="362.9467"/>
 <b X="1855.912" Y="273.9418" Z="362.947"/>
 <InfoNormRichtung vMax="-1" km="66.0372" pos="1">
-<Signal Signalname="2" SignalFlags="3" SignalTyp="2" BoundingR="43">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="2" SignalFlags="3" SignalTyp="2" BoundingR="43">
 <p X="1857.105" Y="274.0681" Z="362.9467"/>
 <phi Y="-0.000305" Z="-3.035259"/>
 <SignalFrame>
@@ -12020,8 +12089,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16777315" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="16777317" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.0384"/>
@@ -12041,10 +12110,10 @@
 <g X="1855.912" Y="273.9418" Z="362.947"/>
 <b X="1850.498" Y="273.3495" Z="362.9487"/>
 <InfoNormRichtung vMax="-1" km="66.0384" pos="1">
-<Ereignis Er="1" Wert="18.0556"/>
+<Ereignis Er="1" Wert="11.1111"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.0439">
-<Ereignis Er="1" Wert="18.0556"/>
+<Ereignis Er="1" Wert="11.1111"/>
 </InfoGegenRichtung>
 <NachNorm Nr="547"/>
 <NachGegen Nr="544"/>
@@ -12180,7 +12249,9 @@
 <StrElement Nr="562" kr="-0.004578" spTrass="33.3333" Anschluss="257" Oberbau="Holz K-Oberbau">
 <g X="1776.308" Y="264.9546" Z="362.9716"/>
 <b X="1773.848" Y="264.8835" Z="362.9724"/>
-<InfoNormRichtung vMax="33.3333" km="66.1182" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="66.1182" pos="1">
+<Ereignis Er="4"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="33.3333" km="66.1207"/>
 <NachNorm Nr="559"/>
 <NachGegen Nr="561"/>
@@ -12189,9 +12260,9 @@
 <g X="1811.795" Y="268.61" Z="362.9606"/>
 <b X="1810.01" Y="268.3743" Z="362.9612"/>
 <InfoNormRichtung vMax="-1" km="66.0827" pos="1">
-<Signal Signalname="3" SignalFlags="3" SignalTyp="2" BoundingR="34">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="3" SignalFlags="3" SignalTyp="2" BoundingR="34">
 <p X="1811.795" Y="268.61" Z="362.9606"/>
-<phi Y="-0.000308" Z="-3.010258"/>
+<phi Y="-0.000307" Z="-3.010258"/>
 <SignalFrame>
 <p/>
 <phi/>
@@ -12357,8 +12428,8 @@
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="5" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="19" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.0845"/>
@@ -12370,6 +12441,7 @@
 <g X="1810.01" Y="268.3743" Z="362.9612"/>
 <b X="1797.46" Y="266.7163" Z="362.9651"/>
 <InfoNormRichtung vMax="-1" km="66.0844" pos="1">
+<Ereignis Er="1" Wert="11.1111"/>
 <Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="W3" SignalFlags="4" SignalTyp="5" BoundingR="1">
 <p X="1797.2307" Y="268.4512" Z="362.9651"/>
 <phi Z="-3.010243"/>
@@ -12398,7 +12470,9 @@
 <MatrixEintrag Signalbild="11"/>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="-1" km="66.0971"/>
+<InfoGegenRichtung vMax="-1" km="66.0971">
+<Ereignis Er="1" Wert="11.1111"/>
+</InfoGegenRichtung>
 <NachNorm Nr="572"/>
 <NachGegen Nr="563"/>
 </StrElement>
@@ -12422,10 +12496,10 @@
 <g X="1810.01" Y="268.3743" Z="362.9612"/>
 <b X="1805.839" Y="267.7624" Z="362.9625"/>
 <InfoNormRichtung vMax="-1" km="66.0844" pos="1">
-<Ereignis Er="1" Wert="13.8889"/>
+<Ereignis Er="1" Wert="11.1111"/>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.0887">
-<Ereignis Er="1" Wert="13.8889"/>
+<Ereignis Er="1" Wert="11.1111"/>
 </InfoGegenRichtung>
 <NachNorm Nr="568"/>
 <NachGegen Nr="563"/>
@@ -12608,15 +12682,22 @@
 <g X="1770.48" Y="261.9671" Z="362.9734"/>
 <b X="1775.1639" Y="262.6469" Z="362.972"/>
 <InfoNormRichtung vMax="33.3333" km="66.1241"/>
-<InfoGegenRichtung vMax="33.3333" km="66.1194" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="66.1194" pos="1">
+<Ereignis Er="4"/>
+</InfoGegenRichtung>
 <NachNorm Nr="579"/>
 <NachGegen Nr="587"/>
 </StrElement>
 <StrElement Nr="589" spTrass="33.3333" Anschluss="256" Oberbau="B55 SKL-Oberbau">
 <g X="-1984.141" Y="187.368" Z="364.7177"/>
 <b X="-1979.131" Y="187.4844" Z="364.7139"/>
-<InfoNormRichtung vMax="33.3333" km="69.8795"/>
+<InfoNormRichtung vMax="33.3333" km="69.8795">
+<Ereignis Er="6"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="33.3333" km="69.8745" pos="1">
+<Ereignis Er="1000002"/>
+<Ereignis Er="6"/>
+<Ereignis Er="4"/>
 <Signal NameBetriebsstelle="Ingolstadt Hbf" Stellwerk="Ingolstadt Hbf Ihf" Signalname="a" SignalTyp="6" BoundingR="10">
 <p X="-1984.2137" Y="190.4971" Z="364.7177"/>
 <phi Z="-3.118362"/>
@@ -12999,7 +13080,11 @@
 <g X="1913.288" Y="277.9224" Z="362.9293"/>
 <b X="1908.417" Y="277.8092" Z="362.9308"/>
 <InfoNormRichtung vMax="33.3333" km="65.981" pos="1"/>
-<InfoGegenRichtung vMax="33.3333" km="65.9859"/>
+<InfoGegenRichtung vMax="33.3333" km="65.9859">
+<Ereignis Er="1000002"/>
+<Ereignis Er="40"/>
+<Ereignis Er="4"/>
+</InfoGegenRichtung>
 <NachNorm Nr="526"/>
 <NachGegen Nr="524"/>
 </StrElement>
@@ -13013,7 +13098,9 @@
 <StrElement Nr="601" spTrass="33.3333" Anschluss="256" Oberbau="B55 SKL-Oberbau">
 <g X="696.2241" Y="249.6451" Z="363.3044"/>
 <b X="659.3112" Y="248.7875" Z="363.3158"/>
-<InfoNormRichtung vMax="33.3333" km="67.1984" pos="1"/>
+<InfoNormRichtung vMax="33.3333" km="67.1984" pos="1">
+<Ereignis Er="22"/>
+</InfoNormRichtung>
 <NachNorm Nr="225"/>
 <NachGegen Nr="224"/>
 </StrElement>
@@ -13055,7 +13142,12 @@
 <StrElement Nr="604" spTrass="33.3333" Anschluss="256" Oberbau="B55 SKL-Oberbau">
 <g X="2129.2993" Y="282.9415" Z="362.8627"/>
 <b X="2173.429" Y="283.9668" Z="362.8491"/>
-<InfoNormRichtung vMax="33.3333" km="65.7649"/>
+<InfoNormRichtung vMax="33.3333" km="65.7649">
+<Ereignis Er="22"/>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Ereignis Er="3"/>
+</InfoGegenRichtung>
 <NachNorm Nr="356"/>
 <NachGegen Nr="355"/>
 </StrElement>
