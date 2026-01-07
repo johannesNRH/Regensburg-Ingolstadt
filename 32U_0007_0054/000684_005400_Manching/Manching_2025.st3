@@ -1075,7 +1075,7 @@
 <StrElement Nr="77" spTrass="27.7778" Anschluss="256" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1707.219" Y="273.1349" Z="362.9928"/>
 <b X="1782.3199" Y="274.8799" Z="362.9697"/>
-<InfoNormRichtung vMax="27.7778" km="66.1871">
+<InfoNormRichtung vMax="33.3333" km="66.1871">
 <Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="P2" SignalTyp="9" BoundingR="10">
 <p X="1782.3722" Y="272.6305" Z="362.9697"/>
 <phi Z="0.023232"/>
@@ -1169,7 +1169,7 @@
 </Ersatzsignal>
 </Signal>
 </InfoNormRichtung>
-<InfoGegenRichtung vMax="27.7778" km="66.112" pos="1"/>
+<InfoGegenRichtung vMax="33.3333" km="66.112" pos="1"/>
 <NachNorm Nr="353"/>
 <NachGegen Nr="76"/>
 </StrElement>
@@ -4650,7 +4650,7 @@
 <NachGegen Nr="24"/>
 </StrElement>
 <StrElement Nr="273" spTrass="33.3333" Anschluss="1" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="944.386" Y="252.9725" Z="363.228"/>
+<g X="944.4355" Y="252.9695" Z="363.228"/>
 <b X="940.7684" Y="253.1895" Z="363.2291"/>
 <InfoNormRichtung vMax="33.3333" km="66.9502" pos="1"/>
 <InfoGegenRichtung vMax="33.3333" km="66.9538"/>
