@@ -8019,7 +8019,9 @@
 <StrElement Nr="518" spTrass="27.7778" Anschluss="256" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-2614.25" Y="172.7276" Z="365.145"/>
 <b X="-2524.751" Y="174.807" Z="365.0947"/>
-<InfoNormRichtung vMax="27.7778" km="70.5097"/>
+<InfoNormRichtung vMax="27.7778" km="70.5097">
+<Ereignis Er="40" Beschr="5851b"/>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="70.4202" pos="1"/>
 <NachNorm Nr="519"/>
 <NachGegen Nr="523"/>
