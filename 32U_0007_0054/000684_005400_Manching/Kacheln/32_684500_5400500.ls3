@@ -254,6 +254,36 @@
 <phi Z="-3.118367"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Turmmaste\Anbauteile_bis14m\Speiseleitungen\Speiseleitung_Armk-1IsolatorSenkrecht.lod.ls3"/>
+<p X="462.9127" Y="-251.6014" Z="371.9723"/>
+<phi Z="0.023245"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Turmmaste\Anbauteile_bis14m\Leuchten\Lampenaufsatz_Gittermastleuchte.lod.ls3"/>
+<p X="462.9128" Y="-251.6014" Z="371.9723"/>
+<phi Z="3.159046"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Anbauteile\Speiseleitung_Mastschalter.lod.ls3"/>
+<p X="420.94" Y="-236.3817" Z="373.0851"/>
+<phi Z="-3.118363"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Turmmaste\Anbauteile_bis14m\Speiseleitungen\Speiseleitung_Armk-1IsolatorSenkrecht.lod.ls3"/>
+<p X="364.6801" Y="-249.6503" Z="372.5025"/>
+<phi Z="0.023336"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="901" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Turmmaste\Anbauteile_bis14m\Leuchten\Lampenaufsatz_Gittermastleuchte.lod.ls3"/>
+<p X="364.6801" Y="-249.6503" Z="372.5025"/>
+<phi Z="-3.164071"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_684500_5400500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeshV="54" MeshI="114">
 <RenderFlags TexVoreinstellung="3"/>

@@ -1840,7 +1840,7 @@
 <b X="1432.7791" Y="277.4637" Z="363.0773"/>
 <InfoNormRichtung vMax="27.7778" km="66.4667">
 <Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="12I" SignalFlags="4" SignalTyp="5" BoundingR="1">
-<p X="1432.8176" Y="275.2141" Z="364.3773"/>
+<p X="1433.0177" Y="275.2141" Z="364.3773"/>
 <phi Z="0.017158"/>
 <SignalFrame>
 <p/>
