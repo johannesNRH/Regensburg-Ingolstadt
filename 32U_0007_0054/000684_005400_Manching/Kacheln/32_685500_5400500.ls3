@@ -208,7 +208,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast9m.lod.ls3"/>
-<p X="465.557" Y="-224.4189" Z="362.9132"/>
+<p X="465.552" Y="-224.2049" Z="362.9132"/>
 <phi Z="0.023165"/>
 <sk/>
 </Verknuepfte>
@@ -1506,6 +1506,24 @@
 <Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Mehrfachabzug.lod.ls3"/>
 <p X="-455.2271" Y="-256.101" Z="363.1971"/>
 <phi Z="0.023239"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast9m.lod.ls3"/>
+<p X="540.4349" Y="-223.0027" Z="362.9132"/>
+<phi Z="0.023165"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Radspannwerke\RSP-GM_ueber_std.lod.ls3"/>
+<p X="465.359" Y="-224.2093" Z="362.9132"/>
+<phi Z="-3.118428"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_l.lod.ls3"/>
+<p X="465.4748" Y="-220.8708" Z="362.9132"/>
+<phi Z="0.023165"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_685500_5400500.lsb"/>

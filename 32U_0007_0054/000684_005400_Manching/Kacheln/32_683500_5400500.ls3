@@ -40,55 +40,37 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d190-l8m.lod.ls3"/>
-<p X="222.6135" Y="-273.8767" Z="363.5984"/>
+<p X="222.5789" Y="-272.388" Z="363.5984"/>
 <phi Z="0.023231"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d190-l8m.lod.ls3"/>
-<p X="144.5721" Y="-275.69" Z="363.6214"/>
+<p X="144.5376" Y="-274.2076" Z="363.6214"/>
 <phi Z="0.023231"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d190-l8m.lod.ls3"/>
-<p X="69.686" Y="-277.4299" Z="363.6446"/>
+<p X="69.6511" Y="-275.9272" Z="363.6446"/>
 <phi Z="0.02323"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d190-l8m.lod.ls3"/>
-<p X="-5.3312" Y="-279.173" Z="363.6907"/>
+<p X="-82.6038" Y="-279.4991" Z="363.7138"/>
 <phi Z="0.023231"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d190-l8m.lod.ls3"/>
-<p X="-82.5697" Y="-280.9675" Z="363.7138"/>
-<phi Z="0.023231"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d190-l8m.lod.ls3"/>
-<p X="-160.2519" Y="-282.7724" Z="363.7404"/>
+<p X="-160.3054" Y="-281.3436" Z="363.7404"/>
 <phi Z="0.023227"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d190-l8m.lod.ls3"/>
-<p X="-236.2155" Y="-284.5375" Z="363.7905"/>
-<phi Z="0.02323"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d190-l8m.lod.ls3"/>
-<p X="-314.2568" Y="-286.3507" Z="363.8483"/>
-<phi Z="0.023231"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d190-l8m.lod.ls3"/>
-<p X="-392.1734" Y="-288.1611" Z="363.9061"/>
+<p X="-392.2079" Y="-286.6771" Z="363.9061"/>
 <phi Z="0.02323"/>
 <sk/>
 </Verknuepfte>
@@ -134,9 +116,171 @@
 <phi Z="0.02323"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="356" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
-<p X="222.7019" Y="-277.6807" Z="371.5983"/>
+<p X="222.6673" Y="-276.192" Z="371.5983"/>
+<phi Z="0.023231"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_l.lod.ls3"/>
+<p X="-470.2514" Y="-289.0775" Z="363.964"/>
+<phi Z="0.02323"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
+<p X="-470.1766" Y="-292.2946" Z="371.964"/>
+<phi Z="0.02323"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
+<p X="-392.1195" Y="-290.4811" Z="371.9061"/>
+<phi Z="0.02323"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_k.lod.ls3"/>
+<p X="-392.1942" Y="-287.2639" Z="363.9061"/>
+<phi Z="0.02323"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_l.lod.ls3"/>
+<p X="-314.2777" Y="-285.452" Z="363.8483"/>
+<phi Z="0.023231"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d350-l8m0.lod.ls3"/>
+<p X="-314.2913" Y="-284.8651" Z="363.8483"/>
+<phi Z="0.023231"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d350-l8m0.lod.ls3"/>
+<p X="-236.258" Y="-282.973" Z="363.7551"/>
+<phi Z="0.02321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
+<p X="-314.201" Y="-288.7491" Z="371.8483"/>
+<phi Z="0.023231"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
+<p X="-236.1678" Y="-286.857" Z="371.755"/>
+<phi Z="0.02321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_k.lod.ls3"/>
+<p X="-236.2425" Y="-283.6398" Z="363.755"/>
+<phi Z="0.02321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Radspanner2fach-oAbspannung.lod.ls3"/>
+<p X="-236.1353" Y="-286.8562" Z="363.755"/>
+<phi Z="0.02321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="-160.2191" Y="-285.0596" Z="363.7404"/>
+<phi Z="0.023227"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_l.lod.ls3"/>
+<p X="-159.6932" Y="-281.8615" Z="363.7403"/>
+<phi Z="0.023227"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-ausfaedelung.lod.ls3"/>
+<p X="-160.8929" Y="-281.8893" Z="363.7403"/>
+<phi Z="0.023227"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
+<p X="-160.217" Y="-285.1475" Z="371.7404"/>
+<phi Z="0.023227"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
+<p X="-82.5175" Y="-283.2151" Z="363.7138"/>
+<phi Z="0.023231"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-ausfaedelung.lod.ls3"/>
+<p X="-83.1913" Y="-280.0449" Z="363.7137"/>
+<phi Z="0.023231"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_k.lod.ls3"/>
+<p X="-81.9917" Y="-280.017" Z="363.7137"/>
+<phi Z="0.023231"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
+<p X="-82.5154" Y="-283.3031" Z="371.7138"/>
+<phi Z="0.023231"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_l.lod.ls3"/>
+<p X="-5.1629" Y="-278.2905" Z="363.6747"/>
+<phi Z="0.023269"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d350-l8m0.lod.ls3"/>
+<p X="-5.1766" Y="-277.7037" Z="363.6747"/>
+<phi Z="0.023269"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
+<p X="-5.0862" Y="-281.5876" Z="371.6747"/>
+<phi Z="0.023269"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Radspanner2fach-oAbspannung.lod.ls3"/>
+<p X="-5.1187" Y="-281.5884" Z="363.6747"/>
+<phi Z="-3.118323"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_k.lod.ls3"/>
+<p X="69.6647" Y="-276.514" Z="363.6446"/>
+<phi Z="0.02323"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_l.lod.ls3"/>
+<p X="144.5512" Y="-274.7944" Z="363.6214"/>
+<phi Z="0.023231"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
+<p X="144.626" Y="-278.0115" Z="371.6214"/>
+<phi Z="0.023231"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="358" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_k.lod.ls3"/>
+<p X="222.5925" Y="-272.9749" Z="363.5984"/>
 <phi Z="0.023231"/>
 <sk/>
 </Verknuepfte>

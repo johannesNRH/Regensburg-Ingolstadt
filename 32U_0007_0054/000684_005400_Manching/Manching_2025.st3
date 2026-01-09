@@ -5628,19 +5628,11 @@
 </StrElement>
 <StrElement Nr="354" spTrass="33.3333" Anschluss="256" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1999.192" Y="279.9185" Z="362.9028"/>
-<b X="2086.311" Y="281.9427" Z="362.876"/>
-<InfoNormRichtung vMax="33.3333" km="65.8951"/>
-<InfoGegenRichtung vMax="33.3333" km="65.8079" pos="1"/>
-<NachNorm Nr="355"/>
-<NachGegen Nr="67"/>
-</StrElement>
-<StrElement Nr="355" spTrass="33.3333" Anschluss="256" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
-<g X="2086.311" Y="281.9427" Z="362.876"/>
-<b X="2129.2993" Y="282.9415" Z="362.8627"/>
+<b X="2043.6801" Y="280.9521" Z="362.8891"/>
 <InfoNormRichtung vMax="-1">
-<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="Ra10" SignalTyp="5" BoundingR="10">
-<p X="2129.2263" Y="286.0807" Z="362.7127"/>
-<phi Z="0.02323"/>
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="Ra10Ost" SignalTyp="5" BoundingR="10">
+<p X="2043.6072" Y="284.0912" Z="362.7391"/>
+<phi Z="0.023229"/>
 <SignalFrame>
 <p/>
 <phi/>
@@ -5654,9 +5646,17 @@
 <MatrixEintrag Signalbild="1" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
+<InfoGegenRichtung vMax="33.3333" km="65.8505" pos="1"/>
+<NachNorm Nr="630"/>
+<NachGegen Nr="67"/>
+</StrElement>
+<StrElement Nr="355" spTrass="33.3333" Anschluss="256" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="2086.311" Y="281.9427" Z="362.876"/>
+<b X="2129.2993" Y="282.9415" Z="362.8627"/>
+<InfoNormRichtung vMax="-1"/>
 <InfoGegenRichtung vMax="33.3333" km="65.7649" pos="1"/>
 <NachNorm Nr="604"/>
-<NachGegen Nr="354"/>
+<NachGegen Nr="630"/>
 </StrElement>
 <StrElement Nr="356" spTrass="33.3333" Anschluss="256" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2173.429" Y="283.9668" Z="362.8491"/>
@@ -6560,7 +6560,8 @@
 <InfoNormRichtung vMax="33.3333" km="69.8412">
 <Ereignis Er="1000002"/>
 <Ereignis Er="4"/>
-<Ereignis Er="40"/>
+<Ereignis Er="40" Beschr="5851b"/>
+<Ereignis Er="22"/>
 <Signal NameBetriebsstelle="Ingolstadt-Sandrach Abzw" Stellwerk="Ingolstadt Hbf Ihf" SignalTyp="1" BoundingR="1">
 <p X="-1886.33" Y="186.5398" Z="364.7923"/>
 <phi Z="0.023232"/>
@@ -9710,8 +9711,9 @@
 <InfoNormRichtung vMax="33.3333" km="69.8795"/>
 <InfoGegenRichtung vMax="33.3333" km="69.8745" pos="1">
 <Ereignis Er="1000002"/>
-<Ereignis Er="40" Beschr="5851b"/>
+<Ereignis Er="40" Beschr="5851a"/>
 <Ereignis Er="4"/>
+<Ereignis Er="22"/>
 <Signal NameBetriebsstelle="Ingolstadt Hbf" Stellwerk="Ingolstadt Hbf Ihf" Signalname="a" SignalTyp="6" BoundingR="10">
 <p X="-1984.2137" Y="190.4971" Z="364.7177"/>
 <phi Z="-3.118362"/>
@@ -10953,6 +10955,13 @@
 <b X="1063.998" Y="253.1822" Z="363.1911"/>
 <NachNorm Nr="265"/>
 <NachGegen Nr="119"/>
+</StrElement>
+<StrElement Nr="630" spTrass="33.3333" Anschluss="256" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="2043.6801" Y="280.9521" Z="362.8891"/>
+<b X="2086.311" Y="281.9427" Z="362.876"/>
+<InfoNormRichtung vMax="33.3333" km="65.8506"/>
+<NachNorm Nr="355"/>
+<NachGegen Nr="354"/>
 </StrElement>
 </Strecke>
 </Zusi>
