@@ -947,103 +947,9 @@
 </StrElement>
 <StrElement Nr="73" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1098.683" Y="269.308" Z="363.1803"/>
-<b X="1017.599" Y="267.3193" Z="363.2053"/>
-<InfoNormRichtung vMax="27.7778" km="66.7956" pos="1">
-<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="N12" SignalTyp="9" BoundingR="10">
-<p X="1017.5438" Y="269.5686" Z="363.2053"/>
-<phi Z="-3.117071"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Mast51_5m10.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-0.23" Z="6.2"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Asig51.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="2.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-0.23" Z="6.2"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Zs1_8-51.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Mastschild51Hp.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Z="-0.1"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Schaltkasten51-einfach.lod.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
-<HsigBegriff FahrstrTyp="6"/>
-<HsigBegriff HsigGeschw="2.7778" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="5.5556" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="8.3333" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="11.1111" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="13.8889" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="16.6667" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="19.4444" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="22.2222" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="25" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="27.7778" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="30.5556" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="33.3333" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="36.1111" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="38.8889" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="41.6667" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="6.9444" FahrstrTyp="2"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="803">
-<Ereignis Er="2000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="817" MatrixGeschw="6.9444">
-<Ereignis Er="2000"/>
-</MatrixEintrag>
-<Ersatzsignal ErsatzsigBezeichnung="Zs1">
-<MatrixEintrag Signalbild="867" MatrixGeschw="11.1111">
-<Ereignis Er="2000"/>
-</MatrixEintrag>
-</Ersatzsignal>
-<Ersatzsignal ErsatzsigBezeichnung="Zs8" ErsatzsigID="00000001">
-<MatrixEintrag Signalbild="931" MatrixGeschw="11.1111">
-<Ereignis Er="2000"/>
-<Ereignis Er="28" Wert="6"/>
-</MatrixEintrag>
-</Ersatzsignal>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="27.7778" km="66.8767"/>
-<NachNorm Nr="258"/>
+<b X="1048.698" Y="268.0821" Z="363.1957"/>
+<InfoGegenRichtung vMax="27.7778" km="66.8456"/>
+<NachNorm Nr="624"/>
 <NachGegen Nr="72"/>
 </StrElement>
 <StrElement Nr="74" spTrass="27.7778" Anschluss="256" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
@@ -1138,12 +1044,12 @@
 <MatrixEintrag Signalbild="803">
 <Ereignis Er="2000"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="801" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="801" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="801" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="801" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="801" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="801" MatrixGeschw="11.1111"/>
 <MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
 <MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
 <MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
@@ -1752,7 +1658,7 @@
 <g X="1536.021" Y="274.986" Z="363.0456"/>
 <b X="1531.5955" Y="274.883" Z="363.047"/>
 <InfoNormRichtung vMax="-1">
-<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="W5" SignalFlags="4" SignalTyp="5" BoundingR="1">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="5I" SignalFlags="4" SignalTyp="5" BoundingR="1">
 <p X="1531.5547" Y="276.6325" Z="363.047"/>
 <phi Z="-3.118324"/>
 <SignalFrame>
@@ -1932,7 +1838,29 @@
 <StrElement Nr="133" kr="-0.002774" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1427.458" Y="277.3724" Z="363.079"/>
 <b X="1432.7791" Y="277.4637" Z="363.0773"/>
-<InfoNormRichtung vMax="27.7778" km="66.4667"/>
+<InfoNormRichtung vMax="27.7778" km="66.4667">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="12I" SignalFlags="4" SignalTyp="5" BoundingR="1">
+<p X="1432.8176" Y="275.2141" Z="364.3773"/>
+<phi Z="0.017158"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\Lichtgleissperrsignale\GsSElSiemens_Mast-3m6.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.05" Z="3.75"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\Lichtgleissperrsignale\GsSEL_Schirm-h.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="2"/>
+<HsigBegriff FahrstrTyp="2"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="4" MatrixGeschw="6.9444"/>
+<MatrixEintrag Signalbild="2"/>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="66.4614" pos="1"/>
 <NachNorm Nr="341"/>
 <NachGegen Nr="132"/>
@@ -4197,7 +4125,7 @@
 <InfoNormRichtung vMax="27.7778" km="66.8767" pos="1"/>
 <InfoGegenRichtung vMax="27.7778" km="66.8947"/>
 <NachNorm Nr="499"/>
-<NachGegen Nr="73"/>
+<NachGegen Nr="624"/>
 </StrElement>
 <StrElement Nr="259" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1017.717" Y="262.9113" Z="363.2053"/>
@@ -4205,7 +4133,7 @@
 <InfoNormRichtung vMax="27.7778" km="66.8767" pos="1"/>
 <InfoGegenRichtung vMax="27.7778" km="66.9197"/>
 <NachNorm Nr="483"/>
-<NachGegen Nr="340"/>
+<NachGegen Nr="623"/>
 </StrElement>
 <StrElement Nr="260" spTrass="27.7778" Anschluss="256" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1017.849" Y="257.1176" Z="363.2053"/>
@@ -5490,7 +5418,29 @@
 <g X="1432.866" Y="272.5829" Z="363.0774"/>
 <b X="1349.8361" Y="270.6486" Z="363.1029"/>
 <InfoNormRichtung vMax="27.7778" km="66.4614" pos="1"/>
-<InfoGegenRichtung vMax="27.7778" km="66.5444"/>
+<InfoGegenRichtung vMax="27.7778" km="66.5444">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="11I" SignalFlags="4" SignalTyp="5" BoundingR="1">
+<p X="1432.9183" Y="270.5335" Z="364.3773"/>
+<phi Z="0.023291"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\Lichtgleissperrsignale\GsSElSiemens_Mast-3m6.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.05" Z="3.75"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\Lichtgleissperrsignale\GsSEL_Schirm-h_Warnanstrich.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="2"/>
+<HsigBegriff FahrstrTyp="2"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="4" MatrixGeschw="6.9444"/>
+<MatrixEintrag Signalbild="2"/>
+</Signal>
+</InfoGegenRichtung>
 <NachNorm Nr="337"/>
 <NachGegen Nr="121"/>
 </StrElement>
@@ -5524,103 +5474,9 @@
 </StrElement>
 <StrElement Nr="340" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1100.7469" Y="264.8455" Z="363.1797"/>
-<b X="1017.717" Y="262.9112" Z="363.2053"/>
-<InfoNormRichtung vMax="27.7778" km="66.7936" pos="1">
-<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="N11" SignalTyp="9" BoundingR="10">
-<p X="1017.6646" Y="265.1606" Z="363.2053"/>
-<phi Z="-3.1183"/>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Mast51_5m10.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-0.23" Z="6.2"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Asig51.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Y="2.25"/>
-<phi/>
-<sk/>
-<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p X="-0.23" Z="6.2"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Zs1_8-51.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Mastschild51Hp.lod.ls3"/>
-</SignalFrame>
-<SignalFrame>
-<p Z="-0.1"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Schaltkasten51-einfach.lod.ls3"/>
-</SignalFrame>
-<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
-<HsigBegriff FahrstrTyp="6"/>
-<HsigBegriff HsigGeschw="2.7778" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="5.5556" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="8.3333" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="11.1111" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="13.8889" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="16.6667" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="19.4444" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="22.2222" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="25" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="27.7778" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="30.5556" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="33.3333" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="36.1111" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="38.8889" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="41.6667" FahrstrTyp="4"/>
-<HsigBegriff HsigGeschw="6.9444" FahrstrTyp="2"/>
-<VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="803">
-<Ereignis Er="2000"/>
-</MatrixEintrag>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
-<MatrixEintrag Signalbild="817" MatrixGeschw="6.9444">
-<Ereignis Er="2000"/>
-</MatrixEintrag>
-<Ersatzsignal ErsatzsigBezeichnung="Zs1">
-<MatrixEintrag Signalbild="867" MatrixGeschw="11.1111">
-<Ereignis Er="2000"/>
-</MatrixEintrag>
-</Ersatzsignal>
-<Ersatzsignal ErsatzsigBezeichnung="Zs8" ErsatzsigID="00000001">
-<MatrixEintrag Signalbild="931" MatrixGeschw="11.1111">
-<Ereignis Er="2000"/>
-<Ereignis Er="28" Wert="6"/>
-</MatrixEintrag>
-</Ersatzsignal>
-</Signal>
-</InfoNormRichtung>
-<InfoGegenRichtung vMax="27.7778" km="66.8767"/>
-<NachNorm Nr="259"/>
+<b X="1048.7611" Y="263.6344" Z="363.1957"/>
+<InfoGegenRichtung vMax="27.7778" km="66.8456"/>
+<NachNorm Nr="623"/>
 <NachGegen Nr="339"/>
 </StrElement>
 <StrElement Nr="341" kr="-0.002774" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
@@ -5666,8 +5522,7 @@
 <StrElement Nr="346" kr="-0.002774" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1459.583" Y="276.7282" Z="363.0691"/>
 <b X="1464.933" Y="276.342" Z="363.0674"/>
-<InfoNormRichtung vMax="27.7778" km="66.4346"/>
-<InfoGegenRichtung vMax="27.7778" km="66.4292" pos="1"/>
+<InfoGegenRichtung vMax="27.7778" km="66.4319" pos="1"/>
 <NachNorm Nr="347"/>
 <NachGegen Nr="345"/>
 </StrElement>
@@ -10828,6 +10683,248 @@
 <InfoNormRichtung vMax="33.3333" km="68.3723" pos="1"/>
 <NachNorm Nr="245"/>
 <NachGegen Nr="244"/>
+</StrElement>
+<StrElement Nr="623" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="1048.7611" Y="263.6344" Z="363.1957"/>
+<b X="1017.717" Y="262.9112" Z="363.2053"/>
+<InfoNormRichtung vMax="27.7778" km="66.8456" pos="1">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="N11" SignalTyp="9" BoundingR="10">
+<p X="1017.6646" Y="265.1606" Z="363.2053"/>
+<phi Z="-3.118299"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Mast51_5m10.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.23" Z="6.2"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Asig51.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="2.25"/>
+<phi/>
+<sk/>
+<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.23" Z="6.2"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Zs1_8-51.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Mastschild51Hp.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="-0.1"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Schaltkasten51-einfach.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
+<HsigBegriff FahrstrTyp="6"/>
+<HsigBegriff HsigGeschw="2.7778" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="5.5556" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="8.3333" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="11.1111" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="13.8889" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="16.6667" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="19.4444" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="22.2222" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="25" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="27.7778" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="30.5556" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="33.3333" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="36.1111" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="38.8889" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="41.6667" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="6.9444" FahrstrTyp="2"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="803">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="817" MatrixGeschw="6.9444">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<Ersatzsignal ErsatzsigBezeichnung="Zs1">
+<MatrixEintrag Signalbild="867" MatrixGeschw="11.1111">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+</Ersatzsignal>
+<Ersatzsignal ErsatzsigBezeichnung="Zs8" ErsatzsigID="00000001">
+<MatrixEintrag Signalbild="931" MatrixGeschw="11.1111">
+<Ereignis Er="2000"/>
+<Ereignis Er="28" Wert="6"/>
+</MatrixEintrag>
+</Ersatzsignal>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="El6" SignalTyp="1" BoundingR="10">
+<p X="1048.8112" Y="261.485" Z="365.9957"/>
+<phi Z="0.023291"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Elektrischer_Betrieb\El_6.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.4"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="259"/>
+<NachGegen Nr="340"/>
+</StrElement>
+<StrElement Nr="624" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
+<g X="1048.698" Y="268.0821" Z="363.1957"/>
+<b X="1017.599" Y="267.3193" Z="363.2053"/>
+<InfoNormRichtung vMax="27.7778" km="66.8456" pos="1">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="N12" SignalTyp="9" BoundingR="10">
+<p X="1017.5438" Y="269.5686" Z="363.2053"/>
+<phi Z="-3.117071"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Mast51_5m10.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.23" Z="6.2"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Asig51.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="2.25"/>
+<phi/>
+<sk/>
+<Datei Dateiname="signals\Deutschland\Indusi\Indusi-Sie_kl.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.23" Z="6.2"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Zs1_8-51.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Mastschild51Hp.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="-0.1"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Lichtsignale_Einheitsbauform_51\Schaltkasten51-einfach.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="4"/>
+<HsigBegriff FahrstrTyp="6"/>
+<HsigBegriff HsigGeschw="2.7778" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="5.5556" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="8.3333" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="11.1111" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="13.8889" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="16.6667" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="19.4444" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="22.2222" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="25" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="27.7778" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="30.5556" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="33.3333" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="36.1111" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="38.8889" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="41.6667" FahrstrTyp="4"/>
+<HsigBegriff HsigGeschw="6.9444" FahrstrTyp="2"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="803">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="809" MatrixGeschw="11.1111"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="805" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="817" MatrixGeschw="6.9444">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+<Ersatzsignal ErsatzsigBezeichnung="Zs1">
+<MatrixEintrag Signalbild="867" MatrixGeschw="11.1111">
+<Ereignis Er="2000"/>
+</MatrixEintrag>
+</Ersatzsignal>
+<Ersatzsignal ErsatzsigBezeichnung="Zs8" ErsatzsigID="00000001">
+<MatrixEintrag Signalbild="931" MatrixGeschw="11.1111">
+<Ereignis Er="2000"/>
+<Ereignis Er="28" Wert="6"/>
+</MatrixEintrag>
+</Ersatzsignal>
+</Signal>
+</InfoNormRichtung>
+<InfoGegenRichtung vMax="-1">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="El6" SignalTyp="1" BoundingR="10">
+<p X="1048.7507" Y="265.9327" Z="365.9957"/>
+<phi Z="0.024522"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Elektrischer_Betrieb\El_6.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.4"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1935\Kennzeichen\Betonpfosten-oA.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="3" MatrixGeschw="-1"/>
+</Signal>
+</InfoGegenRichtung>
+<NachNorm Nr="258"/>
+<NachGegen Nr="73"/>
 </StrElement>
 </Strecke>
 </Zusi>
