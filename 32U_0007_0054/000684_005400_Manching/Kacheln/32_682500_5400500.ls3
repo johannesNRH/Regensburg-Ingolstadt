@@ -344,6 +344,48 @@
 <phi Z="0.023231"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\prellbock_stahlprofil1_rost.lod.ls3"/>
+<p X="-466.3561" Y="-308.0258" Z="364.7039"/>
+<phi Z="0.018559"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\gleisabschluss.lod.ls3"/>
+<p X="-466.3561" Y="-308.0258" Z="364.7039"/>
+<phi Z="0.018559"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\gleisabschluss.lod.ls3"/>
+<p X="-446.3595" Y="-307.6546" Z="364.6885"/>
+<phi Z="0.018559"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\gleisabschluss.lod.ls3"/>
+<p X="-426.3704" Y="-307.0207" Z="364.6731"/>
+<phi Z="0.075289"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\gleisabschluss.lod.ls3"/>
+<p X="-406.5007" Y="-304.7754" Z="364.6577"/>
+<phi Z="0.129214"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\gleisabschluss.lod.ls3"/>
+<p X="-386.6675" Y="-302.1983" Z="364.6424"/>
+<phi Z="0.129214"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="6" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Prellbock\gleisabschluss.lod.ls3"/>
+<p X="-366.8577" Y="-299.4536" Z="364.6271"/>
+<phi Z="0.153539"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_682500_5400500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="4.8" MeterProTex2="4.8" MeshV="4" MeshI="6">
 <RenderFlags TexVoreinstellung="3"/>
@@ -379,15 +421,6 @@
 </Textur>
 <Textur>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weichenschwellen_Holz.dds"/>
-</Textur>
-</SubSet>
-<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="37" MeshI="99">
-<RenderFlags TexVoreinstellung="3"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-<Textur>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_BetonB55_SKL-Oberbau.dds"/>
 </Textur>
 </SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeshV="74" MeshI="174">
@@ -427,6 +460,24 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="33" MeshI="93">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_BetonB55_SKL-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_BetonB55_SKL-Oberbau.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

@@ -1,0 +1,1335 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Zusi>
+  <Info DateiTyp="Gleisplan" Version="A.1" MinVersion="A.1">
+    <AutorEintrag AutorID="0" AutorName="" AutorEmail="" AutorAufwand="0" AutorBeschreibung="" />
+  </Info>
+  <Gleisplan>
+    <HGBilder>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\Orthobilder\32687_5400_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\Orthobilder\32688_5400_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\Orthobilder\32689_5400_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\Orthobilder\32689_5401_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\Orthobilder\32690_5401__georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\Orthobilder\32690_5401_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\Orthobilder\32690_5402_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\Orthobilder\32690_5403_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\Orthobilder\32691_5401_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\Orthobilder\32692_5401_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\Orthobilder\32692_5402_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\Orthobilder\32693_5402_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\Orthobilder\32694_5402_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\Orthobilder\32695_5402_georef.trf" />
+      </Bild>
+      <Bild Transparenz="255" Sichtbar="1">
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\Orthobilder\32695_5403_georef.trf" />
+      </Bild>
+    </HGBilder>
+    <Lageplan>
+      <UTM UTM_WE="692" UTM_NS="5403" UTM_Zone="32" UTM_Zone2="U" />
+      <Huellkurve>
+        <PunktXYZ X="-3354.58" Y="-5292.543" />
+        <PunktXYZ X="-5054.441" Y="461.627" />
+        <PunktXYZ X="-3247.146" Y="438.424" />
+        <PunktXYZ X="-260.1012" Y="159.92" />
+        <PunktXYZ X="2224.092" Y="2792.701" />
+        <PunktXYZ X="4902.66" Y="-2576.217" />
+      </Huellkurve>
+      <DEM>
+        <Datei Dateiname="X:\SteamLibrary\steamapps\common\ZUSI 3 - Aerosoft Edition\ReIn\Vohburg\DEM\1mGross.dem" />
+      </DEM>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="3563.376" Y="108.2419" W="-2.678824" km="55.8751" />
+        <PunktWinkel X="2830.063" Y="-257.6094" W="0.4627687" km="56.38815" />
+      </Gerade>
+      <Gerade st2Typ="1" ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-4203.924" Y="-2417.37" W="0.2872447" km="64.0578" />
+        <PunktWinkel X="-3221.741" Y="-2127.219" W="3.428837" km="63.03366" />
+      </Gerade>
+      <Gerade st2Typ="1" ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2622.219" Y="-363.5391" W="0.4627697" km="56.9272" />
+        <PunktWinkel X="3600.387" Y="124.472" W="3.604362" km="55.83405" />
+      </Gerade>
+      <Klothoide st2Typ="1" ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" L="64.8" R="1887.376" Versatz="2">
+        <PunktWinkel X="2247.865" Y="-509.3374" W="0.287244" km="57.32979" />
+        <PunktWinkel X="2310.503" Y="-492.5319" W="3.446003" Ueberh="-0.03830877" km="57.26496" />
+      </Klothoide>
+      <Kreisbogen st2Typ="1" ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.0005292753" WinkelAnf="-1.266386" WinkelLauf="0.1411926">
+        <PunktWinkel X="2310.502" Y="-492.5327" W="0.3044103" Ueberh="0.03830877" km="57.26496" />
+        <PunktWinkel X="2558.523" Y="-394.9032" W="-2.69599" Ueberh="-0.03830877" km="56.99819" />
+        <Punkt X="1744.198" Y="1309.977" />
+      </Kreisbogen>
+      <Gerade st2Typ="1" ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3221.737" Y="-2127.219" W="0.287244" km="63.03366" />
+        <PunktWinkel X="2248.432" Y="-511.2555" W="3.428837" km="57.32979" />
+      </Gerade>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Bü 62-5">
+        <PunktWinkel X="-2720.469" Y="-1976.953" />
+      </Punkt>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B70 SKL-Oberbau">
+        <PunktWinkel X="-2712.156" Y="-1967.016" W="0.2849136" />
+        <PunktWinkel X="-2656.031" Y="-1950.578" W="3.426506" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2229.842" Y="-1826.675" W="-2.854096" km="0.3506" />
+        <PunktWinkel X="-2372.749" Y="-1868.931" W="0.2874967" km="0.2203" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="243.3323" Y="-1101.502" W="0.2872437" />
+        <PunktWinkel X="434.2339" Y="-1045.107" W="3.428836" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-465.8976" Y="-1315.96" W="0.2873258" />
+        <PunktWinkel X="150.3031" Y="-1133.871" W="3.428918" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-480.5689" Y="-1307.152" W="0.2873092" />
+        <PunktWinkel X="-245.0474" Y="-1237.559" W="3.428902" />
+      </Gerade>
+      <Kreisbogen ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.001945024" WinkelAnf="-1.28347" WinkelLauf="0.04056076">
+        <PunktWinkel X="150.3032" Y="-1133.871" W="0.2873263" />
+        <PunktWinkel X="170.1766" Y="-1127.557" W="-2.813706" />
+        <Punkt X="4.603623" Y="-640.8154" />
+      </Kreisbogen>
+      <Kreisbogen ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.001696822" WinkelAnf="1.858107" WinkelLauf="-0.08320764">
+        <PunktWinkel X="66.71484" Y="-1145.437" W="6.570496" />
+        <PunktWinkel X="114.2657" Y="-1133.513" W="3.345696" />
+        <Punkt X="233.7177" Y="-1710.617" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="1" ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.0002842429" WinkelAnf="-1.108026" WinkelLauf="-0.01452023">
+        <PunktWinkel X="2604.4" Y="-372.4283" W="3.604363" km="56.94711" />
+        <PunktWinkel X="2558.525" Y="-394.901" W="0.44825" km="56.99819" />
+        <Punkt X="1033.811" Y="2775.651" />
+      </Kreisbogen>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2621.326" Y="-361.7495" W="-2.67882" />
+        <PunktWinkel X="2615.826" Y="-364.4935" W="0.4627728" />
+      </Gerade>
+      <Klothoide ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" L="64.8" R="-1887.387">
+        <PunktWinkel X="2615.826" Y="-364.4934" W="-2.678823" />
+        <PunktWinkel X="2557.678" Y="-393.0893" W="0.4456031" Ueberh="0.03830877" />
+      </Klothoide>
+      <Kreisbogen ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.0005298331" WinkelAnf="-1.125193" WinkelLauf="-0.1411918">
+        <PunktWinkel X="2557.678" Y="-393.0889" W="3.587196" Ueberh="-0.03830877" />
+        <PunktWinkel X="2309.92" Y="-490.6153" W="0.3044116" Ueberh="0.03830877" />
+        <Punkt X="1744.21" Y="1309.996" />
+      </Kreisbogen>
+      <Klothoide ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" L="64.8" R="1887.387">
+        <PunktWinkel X="2247.881" Y="-509.3292" W="0.2872446" />
+        <PunktWinkel X="2309.919" Y="-490.6156" W="3.446004" Ueberh="-0.03830877" />
+      </Klothoide>
+      <Weiche ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" Beschreibung="54-500-1:12L" Signalname="1">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="41.59458" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.002" WinkelAnf="-1.570796" WinkelLauf="0.08314123">
+            <PunktWinkel X="0.0001569582" Y="3.05176E-05" W="3.139165E-07" />
+            <PunktWinkel X="41.52289" Y="1.727164" W="-3.058451" />
+            <Punkt Y="500" />
+          </Kreisbogen>
+        </Elemente>
+        <PunktWinkel X="243.3323" Y="-1101.502" W="-2.854348" />
+        <PunktWinkel X="41.59548" W="3.141593" />
+        <PunktWinkel X="41.52274" Y="1.72712" W="3.224734" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\54_500_1-12_Links_Betonschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="190.7065" Y="-1120.084" W="0.3703848" />
+        <PunktWinkel X="204.0001" Y="-1114.922" W="3.511977" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2554.664" Y="-1928.07" W="0.2872434" />
+        <PunktWinkel X="-2371.277" Y="-1873.895" W="3.428836" />
+      </Gerade>
+      <Weiche ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" Beschreibung="54-500-1:12R" Signalname="2">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="41.59458" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.002" WinkelAnf="1.570796" WinkelLauf="-0.08314123">
+            <PunktWinkel X="0.0001569582" Y="-6.103518E-05" W="6.283185" />
+            <PunktWinkel X="41.52289" Y="-1.727195" W="3.058451" />
+            <Punkt Y="-500" />
+          </Kreisbogen>
+        </Elemente>
+        <PunktWinkel X="203.3999" Y="-1113.298" W="-2.854348" />
+        <PunktWinkel X="41.59548" W="3.141593" />
+        <PunktWinkel X="41.52274" Y="-1.72712" W="3.058451" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\54_500_1-12_Rechts_Betonschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="114.2656" Y="-1133.512" W="0.2040724" />
+        <PunktWinkel X="129.1869" Y="-1130.424" W="3.345665" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-575.4397" Y="-1343.379" W="0.2872823" />
+        <PunktWinkel X="-567.3909" Y="-1341.001" W="3.428875" />
+      </Gerade>
+      <Weiche ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" Beschreibung="54-500-1:12L" Signalname="11">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="41.59458" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.002" WinkelAnf="-1.570796" WinkelLauf="0.08314123">
+            <PunktWinkel X="0.0001569582" Y="3.05176E-05" W="3.139165E-07" />
+            <PunktWinkel X="41.52289" Y="1.727164" W="-3.058451" />
+            <Punkt Y="500" />
+          </Kreisbogen>
+        </Elemente>
+        <PunktWinkel X="-615.3302" Y="-1355.163" W="0.2872445" />
+        <PunktWinkel X="41.59548" W="3.141593" />
+        <PunktWinkel X="41.52274" Y="1.72712" W="3.224734" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\54_500_1-12_Links_Betonschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-575.998" Y="-1341.743" W="0.3703911" />
+        <PunktWinkel X="-562.975" Y="-1336.686" W="3.511984" />
+      </Gerade>
+      <Kreisbogen ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.001501263" WinkelAnf="1.858107" WinkelLauf="0.05951034">
+        <PunktWinkel X="-480.5687" Y="-1307.151" W="3.428903" />
+        <PunktWinkel X="-518.2275" Y="-1319.509" W="0.346821" />
+        <Punkt X="-291.8116" Y="-1945.953" />
+      </Kreisbogen>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-532.9252" Y="-1325.018" W="-2.77122" />
+        <PunktWinkel X="-562.975" Y="-1336.686" W="0.3703724" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-527.5005" Y="-1329.217" W="0.2872383" />
+        <PunktWinkel X="-494.6746" Y="-1319.52" W="3.428831" />
+      </Gerade>
+      <Weiche ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" Beschreibung="54-500-1:12R" Signalname="10">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="41.59458" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.002" WinkelAnf="1.570796" WinkelLauf="-0.08314123">
+            <PunktWinkel X="0.0001569582" Y="-6.103518E-05" W="6.283185" />
+            <PunktWinkel X="41.52289" Y="-1.727195" W="3.058451" />
+            <Punkt Y="-500" />
+          </Kreisbogen>
+        </Elemente>
+        <PunktWinkel X="-567.3909" Y="-1341.001" W="0.2872445" />
+        <PunktWinkel X="41.59548" W="3.141593" />
+        <PunktWinkel X="41.52274" Y="-1.72712" W="3.058451" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\54_500_1-12_Rechts_Betonschw_K-Oberbau.st3" />
+      </Weiche>
+      <Kreisbogen ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.001557159" WinkelAnf="-1.28347" WinkelLauf="-0.03056645">
+        <PunktWinkel X="-465.8974" Y="-1315.96" W="3.428919" />
+        <PunktWinkel X="-484.8044" Y="-1321.235" W="0.2567598" />
+        <Punkt X="-647.8885" Y="-700.0919" />
+      </Kreisbogen>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-517.7225" Y="-1328.957" W="-2.937477" />
+        <PunktWinkel X="-527.0801" Y="-1330.894" W="0.2041158" />
+      </Gerade>
+      <Gerade ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1720.568" Y="-1027.928" W="1.798993" km="1.402917" />
+        <PunktWinkel X="-1734.414" Y="-968.3094" W="4.940586" km="1.455947" />
+      </Gerade>
+      <Klothoide ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" L="23.4" R="-648.2672">
+        <PunktWinkel X="-1720.568" Y="-1027.928" W="-1.342603" km="1.402917" />
+        <PunktWinkel X="-1715.412" Y="-1050.752" W="1.780941" km="1.379517" />
+      </Klothoide>
+      <Kreisbogen ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" kr="0.001627663" WinkelAnf="0.210145" WinkelLauf="-0.4145058">
+        <PunktWinkel X="-1715.412" Y="-1050.753" W="4.922534" km="1.379517" />
+        <PunktWinkel X="-1714.681" Y="-1303.596" W="1.366436" km="1.124854" />
+        <Punkt X="-2316.274" Y="-1178.913" />
+      </Kreisbogen>
+      <Klothoide ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" L="80" R="-879.9443">
+        <PunktWinkel X="-1791.142" Y="-724.0423" W="1.79899" km="1.71489" />
+        <PunktWinkel X="-1808.055" Y="-645.8581" W="4.895125" km="1.79489" />
+      </Klothoide>
+      <Kreisbogen ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" kr="0.001136436" WinkelAnf="-2.958857" WinkelLauf="-0.2302455">
+        <PunktWinkel X="-1808.055" Y="-645.8575" W="1.753532" km="1.79489" />
+        <PunktWinkel X="-1821.713" Y="-444.1635" W="-1.618306" km="1.997493" />
+        <Punkt X="-942.7618" Y="-485.9539" />
+      </Kreisbogen>
+      <Klothoide ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" L="80" R="879.9443">
+        <PunktWinkel X="-1815.495" Y="-364.4135" W="-1.663763" km="2.077493" />
+        <PunktWinkel X="-1821.713" Y="-444.1641" W="1.523287" km="1.997493" />
+      </Klothoide>
+      <Gerade ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1815.495" Y="-364.4135" W="1.477804" km="2.077493" />
+        <PunktWinkel X="-1813.449" Y="-342.4749" W="4.619397" km="2.099527" />
+      </Gerade>
+      <Klothoide st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" L="23.4" R="-648.2672" Versatz="-2">
+        <PunktWinkel X="-1720.568" Y="-1027.928" W="-1.342603" km="1.39991" />
+        <PunktWinkel X="-1717.368" Y="-1051.17" W="1.780941" km="1.376546" />
+      </Klothoide>
+      <Kreisbogen st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" kr="0.001632979" WinkelAnf="0.210145" WinkelLauf="-0.4145058">
+        <PunktWinkel X="-1717.368" Y="-1051.17" W="4.922534" km="1.376546" />
+        <PunktWinkel X="-1716.639" Y="-1303.19" W="1.366436" km="1.122712" />
+        <Punkt X="-2316.274" Y="-1178.913" />
+      </Kreisbogen>
+      <Gerade st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1722.516" Y="-1028.381" W="1.798989" km="1.39991" />
+        <PunktWinkel X="-1793.09" Y="-724.4948" W="4.940582" km="1.711884" />
+      </Gerade>
+      <Klothoide st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" L="80" R="-879.9443" Versatz="2">
+        <PunktWinkel X="-1791.142" Y="-724.0423" W="1.79899" km="1.711884" />
+        <PunktWinkel X="-1810.022" Y="-646.2216" W="4.895125" km="1.791974" />
+      </Klothoide>
+      <Kreisbogen st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" kr="0.001133858" WinkelAnf="-2.958857" WinkelLauf="-0.2302455">
+        <PunktWinkel X="-1810.022" Y="-646.2211" W="1.753532" km="1.791974" />
+        <PunktWinkel X="-1823.711" Y="-444.0686" W="-1.618306" km="1.995038" />
+        <Punkt X="-942.7618" Y="-485.9539" />
+      </Kreisbogen>
+      <Gerade st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1817.486" Y="-364.2278" W="1.477854" km="2.075129" />
+        <PunktWinkel X="-1815.441" Y="-342.2892" W="4.619446" km="2.097163" />
+      </Gerade>
+      <Gerade st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1356.086" Y="1225.594" W="0.2635397" km="3.831569" />
+        <PunktWinkel X="-1227.739" Y="1260.224" W="3.405132" km="3.964506" />
+      </Gerade>
+      <Klothoide st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" L="70" R="-432.4156" Versatz="2">
+        <PunktWinkel X="-1710.146" Y="765.5034" W="1.47783" km="3.209947" />
+        <PunktWinkel X="-1703.742" Y="835.3263" W="4.538482" km="3.280108" />
+      </Klothoide>
+      <Gerade st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1227.739" Y="1260.224" W="0.263541" km="3.964506" />
+        <PunktWinkel X="-1078.608" Y="1300.462" W="3.405134" km="4.11897" />
+      </Gerade>
+      <Kreisbogen st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" kr="0.0004473245" WinkelAnf="-1.307255" WinkelLauf="0.1810768">
+        <PunktWinkel X="-1078.609" Y="1300.462" W="0.2635413" km="4.11897" />
+        <PunktWinkel X="-699.4391" Y="1440.625" W="-2.696975" km="4.52377" />
+        <Punkt X="-1660.963" Y="3458.791" />
+      </Kreisbogen>
+      <Gerade st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-699.4385" Y="1440.626" W="0.444619" km="4.52377" />
+        <PunktWinkel X="-378.7383" Y="1593.419" W="3.586212" km="4.879008" />
+      </Gerade>
+      <Gerade st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-378.7383" Y="1593.419" W="0.4446126" km="4.879008" />
+        <PunktWinkel X="-209.7597" Y="1673.925" W="3.586205" km="5.066185" />
+      </Gerade>
+      <Kreisbogen st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" kr="0.002021741" WinkelAnf="2.342872" WinkelLauf="-0.06787892">
+        <PunktWinkel X="-1561.058" Y="1107.478" W="7.055261" km="3.592408" />
+        <PunktWinkel X="-1536.227" Y="1130.067" W="3.845789" km="3.625982" />
+        <Punkt X="-1215.997" Y="753.0984" />
+      </Kreisbogen>
+      <Gerade st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1500.771" Y="1157.519" W="0.6130977" km="3.670839" />
+        <PunktWinkel X="-1499.833" Y="1158.179" W="3.75469" km="3.671986" />
+      </Gerade>
+      <Klothoide st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" L="80" R="879.9443" Versatz="2">
+        <PunktWinkel X="-1815.495" Y="-364.4135" W="-1.663763" km="2.075129" />
+        <PunktWinkel X="-1823.711" Y="-444.0691" W="1.523287" km="1.995038" />
+      </Klothoide>
+      <Gerade st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1712.138" Y="765.6891" W="-1.663763" km="3.209947" />
+        <PunktWinkel X="-1815.441" Y="-342.2892" W="1.477829" km="2.097163" />
+      </Gerade>
+      <Kreisbogen st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" kr="0.002107349" WinkelAnf="2.72751" WinkelLauf="0.2401753">
+        <PunktWinkel X="-1670.302" Y="946.9556" W="4.298306" km="3.396933" />
+        <PunktWinkel X="-1703.249" Y="838.1373" W="1.396889" km="3.282962" />
+        <Punkt X="-1235.877" Y="756.0284" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" kr="0.002062553" WinkelAnf="2.342872" WinkelLauf="0.3846385">
+        <PunktWinkel X="-1561.058" Y="1107.478" W="3.913668" km="3.592408" />
+        <PunktWinkel X="-1666.686" Y="955.1843" W="1.156714" km="3.405921" />
+        <Punkt X="-1222.825" Y="760.1106" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" kr="0.002192993" WinkelAnf="1.834338" WinkelLauf="0.349966">
+        <PunktWinkel X="-1356.086" Y="1225.594" W="3.405134" km="3.831569" />
+        <PunktWinkel X="-1499.834" Y="1158.179" W="0.6135076" km="3.671986" />
+        <Punkt X="-1237.298" Y="785.3401" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" kr="0.002021741" WinkelAnf="2.274993" WinkelLauf="-0.09068853">
+        <PunktWinkel X="-1536.227" Y="1130.067" W="6.987382" km="3.625982" />
+        <PunktWinkel X="-1500.771" Y="1157.519" W="3.755101" km="3.670839" />
+        <Punkt X="-1215.997" Y="753.0984" />
+      </Kreisbogen>
+      <Gerade st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1666.685" Y="955.1844" W="-1.984925" km="3.405921" />
+        <PunktWinkel X="-1670.302" Y="946.9556" W="1.156667" km="3.396933" />
+      </Gerade>
+      <Gerade st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1703.742" Y="835.3263" W="1.397209" km="3.280108" />
+        <PunktWinkel X="-1703.249" Y="838.1373" W="4.538802" km="3.282962" />
+      </Gerade>
+      <Gerade st2Typ="1" ProfilName="Vohburg" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2622.219" Y="-363.5391" W="-2.678858" km="56.9272" />
+        <PunktWinkel X="2604.4" Y="-372.4283" W="0.4627346" km="56.94711" />
+      </Gerade>
+      <Kreisbogen st2Typ="1" ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.001275436" WinkelAnf="-1.283552" WinkelLauf="-0.04585154">
+        <PunktWinkel X="-4203.923" Y="-2417.37" W="3.428837" />
+        <PunktWinkel X="-4238.622" Y="-2426.761" W="0.2413928" />
+        <Punkt X="-4426.052" Y="-1665.448" />
+      </Kreisbogen>
+      <Klothoide ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" L="1125.497" R="614.3778" KrAnf="0.001461501">
+        <PunktWinkel X="-2505.245" Y="-2045.385" W="0.4504705" />
+        <PunktWinkel X="-1714.681" Y="-1303.596" W="4.508028" />
+      </Klothoide>
+      <Gerade ProfilName="Vohburg" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2229.842" Y="-1826.675" W="0.2874821" />
+        <PunktWinkel X="-2199.528" Y="-1817.712" W="3.429075" />
+      </Gerade>
+      <Klothoide ProfilName="Vohburg" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" L="22.2" R="684.1439">
+        <PunktWinkel X="-2199.528" Y="-1817.712" W="0.2874965" />
+        <PunktWinkel X="-2178.274" Y="-1811.302" W="3.445314" />
+      </Klothoide>
+      <Kreisbogen ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" kr="0.001461681" WinkelAnf="-1.267075" WinkelLauf="0.8852448">
+        <PunktWinkel X="-2178.274" Y="-1811.302" W="0.3037214" />
+        <PunktWinkel X="-1748.008" Y="-1413.396" W="-1.952626" />
+        <Punkt X="-2382.883" Y="-1158.471" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" kr="0.001465966" WinkelAnf="-1.267075" WinkelLauf="0.8852448">
+        <PunktWinkel X="-2178.872" Y="-1809.393" W="0.3037214" km="0.4041369" />
+        <PunktWinkel X="-1749.864" Y="-1412.651" W="-1.952626" km="1.008001" />
+        <Punkt X="-2382.883" Y="-1158.471" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" kr="0.009757706" WinkelAnf="1.874517" WinkelLauf="0.2302806">
+        <PunktWinkel X="-2178.872" Y="-1809.394" W="3.445313" km="0.4041369" />
+        <PunktWinkel X="-2200.384" Y="-1818.971" W="0.5340012" km="0.380537" />
+        <Punkt X="-2148.222" Y="-1907.186" />
+      </Kreisbogen>
+      <Kreisbogen st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" kr="0.003461014" WinkelAnf="-1.036795" WinkelLauf="-0.08406165">
+        <PunktWinkel X="-2200.383" Y="-1818.971" W="3.675594" km="0.380537" />
+        <PunktWinkel X="-2221.785" Y="-1830.44" W="0.4499396" km="0.3562489" />
+        <Punkt X="-2347.445" Y="-1570.264" />
+      </Kreisbogen>
+      <Klothoide st2Typ="1" ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau" L="1125.497" R="614.3778" KrAnf="0.001461501" Versatz="-2">
+        <PunktWinkel X="-2505.245" Y="-2045.385" W="0.4504705" km="1.008001" />
+        <PunktWinkel X="-1716.639" Y="-1303.19" W="4.508028" km="1.122712" />
+      </Klothoide>
+      <Gerade ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1753.624" Y="299.172" W="-1.663764" km="2.377107" />
+        <PunktWinkel X="-1813.449" Y="-342.4749" W="1.477829" km="2.099527" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2587.916" Y="-1937.893" W="0.2872415" />
+        <PunktWinkel X="-2554.664" Y="-1928.07" W="3.428834" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2598.199" Y="-1940.931" W="0.287276" />
+        <PunktWinkel X="-2587.916" Y="-1937.893" W="3.428869" />
+      </Gerade>
+      <Weiche ProfilName="Vohburg" spTrass="16.66667" Oberbau="Holz K-Oberbau" Beschreibung="54-500-1:12L" Signalname="901">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="41.59458" W="3.141593" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.002" WinkelAnf="-1.570796" WinkelLauf="0.08314123">
+            <PunktWinkel X="0.0001569582" Y="3.05176E-05" W="3.139165E-07" />
+            <PunktWinkel X="41.52289" Y="1.727164" W="-3.058451" />
+            <Punkt Y="500" />
+          </Kreisbogen>
+        </Elemente>
+        <PunktWinkel X="-2638.089" Y="-1952.716" W="0.2872512" />
+        <PunktWinkel X="41.59548" W="3.141593" />
+        <PunktWinkel X="41.52274" Y="1.72712" W="3.224734" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\500\54_500_1-12_Links_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Gerade ProfilName="Vohburg" spTrass="16.66667" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2598.757" Y="-1939.295" W="0.3703489" />
+        <PunktWinkel X="-2590.523" Y="-1936.098" W="3.511942" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2507.323" Y="-1908.723" W="-2.854088" />
+        <PunktWinkel X="-2532.477" Y="-1916.161" W="0.2875048" />
+      </Gerade>
+      <Weiche ProfilName="Vohburg" spTrass="16.66667" Oberbau="Holz K-Oberbau" Beschreibung="49 190 1:6,6 rechts" Signalname="900">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="25.86" W="3.141593" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="28.463" Y="-2.1441" W="-0.1526656" />
+            <PunktWinkel X="29.8402" Y="-2.356" W="2.988927" />
+          </Gerade>
+          <Kreisbogen ProfilName="" spTrass="27.77778" Oberbau="" kr="0.005263158" WinkelAnf="1.570796" WinkelLauf="-0.1503715">
+            <PunktWinkel X="5.964413E-05" Y="-3.051759E-05" W="6.283185" />
+            <PunktWinkel X="28.46309" Y="-2.144096" W="2.991221" />
+            <Punkt Y="-190" />
+          </Kreisbogen>
+        </Elemente>
+        <PunktWinkel X="-2566.284" Y="-1927.089" W="-2.803816" />
+        <PunktWinkel X="25.86" W="3.141593" />
+        <PunktWinkel X="29.862" Y="-2.356" W="2.99127" />
+        <Biegung BiegeLaenge="23.05527" BiegeKruemmung="0.001414996" />
+        <Biegung BiegeWinkel="0.03262311" BiegeLaenge="11.83788" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\190\49_190_1-6_6_Rechts_Holzschw_K-Oberbau.st3" />
+      </Weiche>
+      <Kreisbogen ProfilName="Vohburg" spTrass="16.66667" Oberbau="Holz K-Oberbau" kr="0.001759381" WinkelAnf="-1.350719" WinkelLauf="-0.006103482">
+        <PunktWinkel X="-2595.105" Y="-1935.35" W="3.36167" />
+        <PunktWinkel X="-2598.493" Y="-1936.097" W="0.2139739" />
+        <Punkt X="-2719.186" Y="-1380.677" />
+      </Kreisbogen>
+      <Gerade ProfilName="Vohburg" spTrass="16.66667" Oberbau="B70 SKL-Oberbau">
+        <PunktWinkel X="-2656.031" Y="-1950.578" W="0.2849146" />
+        <PunktWinkel X="-2639.236" Y="-1945.659" W="3.426507" />
+      </Gerade>
+      <Kreisbogen ProfilName="Vohburg" spTrass="16.66667" Oberbau="B70 SKL-Oberbau" kr="0.002944714" WinkelAnf="1.85571" WinkelLauf="-0.08533704">
+        <PunktWinkel X="-2639.236" Y="-1945.659" W="6.568099" />
+        <PunktWinkel X="-2611.11" Y="-1938.709" W="3.341169" />
+        <Punkt X="-2543.785" Y="-2271.56" />
+      </Kreisbogen>
+      <Kreisbogen ProfilName="Vohburg" spTrass="16.66667" Oberbau="B70 SKL-Oberbau" kr="0.001759381" WinkelAnf="-1.356823" WinkelLauf="-0.01387307">
+        <PunktWinkel X="-2598.493" Y="-1936.097" W="3.355566" />
+        <PunktWinkel X="-2606.21" Y="-1937.718" W="0.2001003" />
+        <Punkt X="-2719.186" Y="-1380.677" />
+      </Kreisbogen>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1956.387" Y="-1751.33" W="0.2872432" />
+        <PunktWinkel X="-1405.044" Y="-1588.456" W="3.428836" />
+      </Gerade>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-4197.923" Y="-2418.259" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau" Beschreibung="64-0">
+        <PunktWinkel X="-4123.161" Y="-2395.182" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-4048.366" Y="-2373.231" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau" Beschreibung="63-8">
+        <PunktWinkel X="-3973.439" Y="-2351.259" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-3898.579" Y="-2328.803" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-3823.916" Y="-2306.798" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau" Beschreibung="63-6">
+        <PunktWinkel X="-3749.143" Y="-2284.506" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-3674.283" Y="-2262.325" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau" Beschreibung="Mast 63-4">
+        <PunktWinkel X="-3599.599" Y="-2240.649" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau" Beschreibung="F">
+        <PunktWinkel X="-3575.319" Y="-2234.112" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-3524.782" Y="-2218.742" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-3449.922" Y="-2196.374" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau" Beschreibung="63-2">
+        <PunktWinkel X="-3376.094" Y="-2175.061" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau" Beschreibung="ESig">
+        <PunktWinkel X="-3331.115" Y="-2161.79" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-3301.057" Y="-2153.132" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau" Beschreibung="Mast su">
+        <PunktWinkel X="-3230.327" Y="-2130.852" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau" Beschreibung="Bue 63-0">
+        <PunktWinkel X="-3222.263" Y="-2125.315" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau" Beschreibung="63-0">
+        <PunktWinkel X="-3155.796" Y="-2109.407" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-3080.671" Y="-2088.072" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau" Beschreibung="62-8">
+        <PunktWinkel X="-3005.767" Y="-2065.319" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2931.631" Y="-2043.39" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau" Beschreibung="F">
+        <PunktWinkel X="-2916.909" Y="-2039.303" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau" Beschreibung="LW Anfang">
+        <PunktWinkel X="-2876.37" Y="-2028.153" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2864.263" Y="-2024.593" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="62-6">
+        <PunktWinkel X="-2797.158" Y="-2004.312" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="LW Ende">
+        <PunktWinkel X="-2726.715" Y="-1983.076" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Mast su">
+        <PunktWinkel X="-2729" Y="-1983.164" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Mast">
+        <PunktWinkel X="-2672.883" Y="-1966.509" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2617.995" Y="-1949.766" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2561.701" Y="-1920.806" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2567.414" Y="-1935.176" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2492.444" Y="-1913.424" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2494.158" Y="-1900.987" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2417.825" Y="-1891.144" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2419.627" Y="-1878.883" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="ASig">
+        <PunktWinkel X="-2371.639" Y="-1870.841" />
+      </Punkt>
+      <Gerade ProfilName="Vohburg" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2372.749" Y="-1868.931" W="-2.854096" km="0.1877" />
+        <PunktWinkel X="-2507.323" Y="-1908.723" W="0.2874967" km="0.0614" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2371.278" Y="-1873.895" W="0.2872427" />
+        <PunktWinkel X="-1956.387" Y="-1751.331" W="3.428835" />
+      </Gerade>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2357.379" Y="-1860.404" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2343.36" Y="-1869.105" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="LW Anfang">
+        <PunktWinkel X="-2280.255" Y="-1851.615" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Mast su">
+        <PunktWinkel X="-2281.969" Y="-1839.267" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2268.302" Y="-1848.144" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2207.746" Y="-1816.679" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2193.728" Y="-1826.435" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="LW Ende">
+        <PunktWinkel X="-2161.648" Y="-1816.372" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2119.021" Y="-1803.1" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2044.315" Y="-1780.6" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-1972.245" Y="-1760.474" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="VSig">
+        <PunktWinkel X="-1955.106" Y="-1755.464" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Mast su">
+        <PunktWinkel X="-1900.526" Y="-1738.941" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="61-6">
+        <PunktWinkel X="-1833.729" Y="-1718.858" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Mast su">
+        <PunktWinkel X="-1759.77" Y="-1697.742" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-1694.818" Y="-1677.593" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="F">
+        <PunktWinkel X="-1685.634" Y="-1667.75" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="61-4">
+        <PunktWinkel X="-1623.1" Y="-1655.885" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-1551.205" Y="-1634.791" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="61-2">
+        <PunktWinkel X="-1476.894" Y="-1613.39" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-1401.308" Y="-1591.11" />
+      </Punkt>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1405.044" Y="-1588.456" W="0.2872452" />
+        <PunktWinkel X="-995.9753" Y="-1467.611" W="3.428838" />
+      </Gerade>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="VSIg">
+        <PunktWinkel X="-1406.098" Y="-1585.002" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-1326.909" Y="-1568.435" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="61-0">
+        <PunktWinkel X="-1252.026" Y="-1546.814" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-1177.319" Y="-1524.007" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="60-8">
+        <PunktWinkel X="-1101.074" Y="-1502.561" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-1027.466" Y="-1480.545" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="F">
+        <PunktWinkel X="-1023.819" Y="-1480.501" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="ESig">
+        <PunktWinkel X="-994.8585" Y="-1470.746" />
+      </Punkt>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-995.9753" Y="-1467.611" W="0.2872452" />
+        <PunktWinkel X="-789.5031" Y="-1406.616" W="3.428838" />
+      </Gerade>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-953.594" Y="-1458.749" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-891.6752" Y="-1440.6" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-838.7653" Y="-1425.219" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="MAst su">
+        <PunktWinkel X="-795.3911" Y="-1412.255" />
+      </Punkt>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-789.503" Y="-1406.616" W="0.2872455" />
+        <PunktWinkel X="-632.3517" Y="-1360.191" W="3.428838" />
+      </Gerade>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-745.9528" Y="-1397.094" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="60-4">
+        <PunktWinkel X="-694.7128" Y="-1382.197" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-643.912" Y="-1367.212" />
+      </Punkt>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-632.3518" Y="-1360.191" W="0.2872255" />
+        <PunktWinkel X="-615.3302" Y="-1355.163" W="3.428818" />
+      </Gerade>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-555.4506" Y="-1329.726" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-552.9896" Y="-1339.823" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-515.6361" Y="-1322.739" />
+      </Punkt>
+      <Kreisbogen ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.001501263" WinkelAnf="1.917617" WinkelLauf="0.02356441">
+        <PunktWinkel X="-518.2272" Y="-1319.509" W="3.488413" />
+        <PunktWinkel X="-532.9248" Y="-1325.017" W="0.3703851" />
+        <Punkt X="-291.8116" Y="-1945.953" />
+      </Kreisbogen>
+      <Kreisbogen ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.001557159" WinkelAnf="-1.314036" WinkelLauf="-0.05265624">
+        <PunktWinkel X="-484.8041" Y="-1321.234" W="3.398353" />
+        <PunktWinkel X="-517.722" Y="-1328.957" W="0.2041041" />
+        <Punkt X="-647.8885" Y="-700.0919" />
+      </Kreisbogen>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="ASig">
+        <PunktWinkel X="-484.3033" Y="-1318.696" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-477.7115" Y="-1310.259" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Mast su">
+        <PunktWinkel X="-473.4928" Y="-1321.333" />
+      </Punkt>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-494.6743" Y="-1319.52" W="0.2872423" />
+        <PunktWinkel X="-242.7684" Y="-1245.104" W="3.428835" />
+      </Gerade>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-413.5955" Y="-1290.747" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-409.948" Y="-1302.392" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-345.4804" Y="-1270.752" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="60-0">
+        <PunktWinkel X="-342.1846" Y="-1282.749" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-358.1366" Y="-1259.15" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-276.3985" Y="-1236.694" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Leuchte">
+        <PunktWinkel X="-279.6944" Y="-1244.121" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-277.6729" Y="-1250.625" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-273.6299" Y="-1263.633" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-209.2503" Y="-1230.938" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-205.471" Y="-1243.375" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-141.1352" Y="-1211.031" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="59-8">
+        <PunktWinkel X="-137.3999" Y="-1223.38" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-73.63542" Y="-1190.421" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Mast su">
+        <PunktWinkel X="-69.7243" Y="-1204.483" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-5.080902" Y="-1170.953" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-1.257671" Y="-1183.214" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="63.03416" Y="-1150.343" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="59-6">
+        <PunktWinkel X="67.3408" Y="-1162.604" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="135.1922" Y="-1143.048" />
+      </Punkt>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="129.1869" Y="-1130.425" W="0.2041536" />
+        <PunktWinkel X="163.0891" Y="-1123.406" W="3.345746" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="130.3022" Y="-1134.893" W="0.2872427" />
+        <PunktWinkel X="163.5098" Y="-1125.083" W="3.428835" />
+      </Gerade>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="130.5121" Y="-1127.338" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Mast su">
+        <PunktWinkel X="95.8393" Y="-1135.292" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="ASig">
+        <PunktWinkel X="129.721" Y="-1132.655" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="ASig">
+        <PunktWinkel X="171.2053" Y="-1130.106" />
+      </Punkt>
+      <Kreisbogen ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau" kr="0.001945024" WinkelAnf="-1.242909" WinkelLauf="0.04249838">
+        <PunktWinkel X="170.1767" Y="-1127.557" W="0.3278874" />
+        <PunktWinkel X="190.7068" Y="-1120.083" W="-2.771207" />
+        <Punkt X="4.603623" Y="-640.8154" />
+      </Kreisbogen>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="176.7424" Y="-1128.656" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="188.8712" Y="-1113.802" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Leuchte">
+        <PunktWinkel X="220.1163" Y="-1104.398" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="231.6299" Y="-1109.013" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="59-4">
+        <PunktWinkel X="270.3456" Y="-1097.103" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="310.0281" Y="-1085.194" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Mast su">
+        <PunktWinkel X="379.3736" Y="-1065.419" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="MAst su">
+        <PunktWinkel X="442.5667" Y="-1045.996" />
+      </Punkt>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="434.2345" Y="-1045.106" W="0.2872423" />
+        <PunktWinkel X="625.3569" Y="-988.6461" W="3.428835" />
+      </Gerade>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="504.0242" Y="-1027.714" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="565.0201" Y="-1009.917" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="59-0">
+        <PunktWinkel X="625.5765" Y="-991.855" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="ESig">
+        <PunktWinkel X="624.1703" Y="-984.2085" />
+      </Punkt>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="625.3564" Y="-988.6461" W="0.2872436" />
+        <PunktWinkel X="779.6873" Y="-943.0547" W="3.428836" />
+      </Gerade>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="701.0743" Y="-969.1353" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="774.4407" Y="-946.7344" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="58-8">
+        <PunktWinkel X="851.3667" Y="-924.5311" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="928.2708" Y="-901.5366" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Schaltkasten">
+        <PunktWinkel X="946.4201" Y="-886.7601" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="58-6">
+        <PunktWinkel X="1003.329" Y="-879.8387" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="1077.926" Y="-857.9869" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="1152.611" Y="-835.8933" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="58-4">
+        <PunktWinkel X="1227.581" Y="-813.4813" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="1302.508" Y="-791.3768" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="1377.303" Y="-769.8875" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="58-2">
+        <PunktWinkel X="1452.185" Y="-747.4313" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="1526.98" Y="-725.6783" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="58-0">
+        <PunktWinkel X="1601.687" Y="-703.0026" />
+      </Punkt>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="1585.418" Y="-705.03" W="0.2872443" />
+        <PunktWinkel X="2075.51" Y="-560.2499" W="3.428837" />
+      </Gerade>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="1676.306" Y="-680.8981" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="1751.32" Y="-659.6725" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="1901.437" Y="-615.244" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="57-8">
+        <PunktWinkel X="1826.378" Y="-637.2166" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="57-6">
+        <PunktWinkel X="1976.319" Y="-593.0076" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="2050.938" Y="-570.8153" />
+      </Punkt>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2075.51" Y="-560.2501" W="0.2872443" />
+        <PunktWinkel X="2093.8" Y="-554.847" W="3.428837" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2093.8" Y="-554.8471" W="0.2872454" />
+        <PunktWinkel X="2247.881" Y="-509.3292" W="3.428838" />
+      </Gerade>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Bü 57-5">
+        <PunktWinkel X="2085.523" Y="-557.3241" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="2125.645" Y="-548.7108" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="57-4">
+        <PunktWinkel X="2200.351" Y="-526.7821" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="2275.322" Y="-504.3261" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="57-2">
+        <PunktWinkel X="2349.809" Y="-480.9473" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="2423.066" Y="-454.1847" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="2495.268" Y="-423.5988" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="57-0">
+        <PunktWinkel X="2566.767" Y="-391.9363" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="2632.596" Y="-360.1859" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="2702.074" Y="-325.0738" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="56-8">
+        <PunktWinkel X="2771.859" Y="-290.2253" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Bue Einschlaltkontakt">
+        <PunktWinkel X="2831.625" Y="-260.8918" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="2843.489" Y="-254.6735" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="56-6">
+        <PunktWinkel X="2913.275" Y="-220.1105" />
+      </Punkt>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="2830.063" Y="-257.6103" W="-2.678824" km="56.71431" />
+        <PunktWinkel X="2621.326" Y="-361.7495" W="0.4627685" km="56.9279" />
+      </Gerade>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="2983.169" Y="-184.9654" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="3054.558" Y="-149.3369" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="56-4">
+        <PunktWinkel X="3124.563" Y="-114.5323" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="3194.48" Y="-79.92548" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="56-2">
+        <PunktWinkel X="3264.001" Y="-45.055" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="3333.435" Y="-10.73378" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="3403.374" Y="24.56519" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="56-0">
+        <PunktWinkel X="3473.531" Y="59.5346" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="3543.009" Y="94.60284" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Bü 58-8">
+        <PunktWinkel X="785.624" Y="-941.3168" />
+      </Punkt>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="779.6868" Y="-943.0547" W="0.2872446" />
+        <PunktWinkel X="1585.418" Y="-705.03" W="3.428837" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-245.0475" Y="-1237.559" W="0.287312" />
+        <PunktWinkel X="-98.2464" Y="-1194.181" W="3.428905" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-242.7682" Y="-1245.104" W="0.2872432" />
+        <PunktWinkel X="-95.81467" Y="-1201.692" W="3.428836" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-98.24639" Y="-1194.181" W="0.2873121" />
+        <PunktWinkel X="66.71475" Y="-1145.437" W="3.428905" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-95.81467" Y="-1201.692" W="0.2872437" />
+        <PunktWinkel X="130.3022" Y="-1134.894" W="3.428836" />
+      </Gerade>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-593.178" Y="-1352.665" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="Leuchte">
+        <PunktWinkel X="-594.7161" Y="-1344.975" />
+      </Punkt>
+      <Punkt ProfilName="Vohburg" spTrass="27.77778" Oberbau="Holz K-Oberbau" Beschreibung="F">
+        <PunktWinkel X="-2341.495" Y="-1855.926" />
+      </Punkt>
+      <Weiche ProfilName="Vohburg" spTrass="16.66667" Oberbau="Holz K-Oberbau" Beschreibung="DB Gleissperre links auswerfend" Signalname="GSP">
+        <Elemente>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel />
+            <PunktWinkel X="5" W="3.141593" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="1" Y="-1.5" W="0.7853982" />
+            <PunktWinkel X="4" Y="1.5" W="3.926991" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="4" Y="0.5" W="1.570796" />
+            <PunktWinkel X="4" Y="1.6" W="4.712389" />
+          </Gerade>
+          <Gerade ProfilName="" spTrass="27.77778" Oberbau="">
+            <PunktWinkel X="3" Y="1.5" />
+            <PunktWinkel X="4.1" Y="1.5" W="3.141593" />
+          </Gerade>
+        </Elemente>
+        <PunktWinkel X="-2611.111" Y="-1938.709" W="0.1995767" />
+        <PunktWinkel X="5" W="3.141593" />
+        <Biegung BiegeLaenge="-0.005941391" BiegeKruemmung="-0.002944714" />
+        <Biegung BiegeWinkel="1.74957E-05" BiegeLaenge="4.725903" />
+        <Biegung BiegeLaenge="8.364949" BiegeKruemmung="0.001759381" />
+        <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Gleissperren\DB_Gleissperre_li.st3" />
+      </Weiche>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-4204.51" Y="-2415.458" W="0.2872455" km="1.2606" />
+        <PunktWinkel X="-3568.541" Y="-2227.583" W="3.428838" km="0.0052" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3568.541" Y="-2227.583" W="0.2872448" km="0.005195814" />
+        <PunktWinkel X="-3243.303" Y="-2131.503" W="3.428838" km="2.395753E-05" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3243.303" Y="-2131.503" W="0.2872619" km="2.395753E-05" />
+        <PunktWinkel X="-3204.073" Y="-2119.913" W="3.428855" km="1.233513E-08" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-3204.073" Y="-2119.913" W="0.2872551" km="1.233513E-08" />
+        <PunktWinkel X="-2886.721" Y="-2026.159" W="3.428848" km="3.762345E-12" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2886.721" Y="-2026.159" W="0.2872558" km="3.762345E-12" />
+        <PunktWinkel X="-2737.567" Y="-1982.095" W="3.428849" km="1.647982E-16" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2737.567" Y="-1982.095" W="0.2871765" km="1.647982E-16" />
+        <PunktWinkel X="-2735.864" Y="-1981.592" W="3.428769" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2735.864" Y="-1981.592" W="0.2872816" />
+        <PunktWinkel X="-2697.814" Y="-1970.35" W="3.428874" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2697.814" Y="-1970.35" W="0.2869547" />
+        <PunktWinkel X="-2666.733" Y="-1961.178" W="3.428547" />
+      </Gerade>
+      <Gerade ProfilName="Vohburg" spTrass="33.33334" Oberbau="Holz K-Oberbau">
+        <PunktWinkel X="-2638.089" Y="-1952.716" W="-2.85434" />
+        <PunktWinkel X="-2666.733" Y="-1961.178" W="0.2872523" />
+      </Gerade>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1723.886" Y="658.5931" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1729.159" Y="603.2002" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Absp">
+        <PunktWinkel X="-1735.092" Y="537.8976" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1740.849" Y="469.7386" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1747.484" Y="400.8765" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Absp">
+        <PunktWinkel X="-1754.12" Y="332.4977" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1760.492" Y="263.328" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1767.743" Y="192.0489" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1774.994" Y="114.7493" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Sp">
+        <PunktWinkel X="-1781.894" Y="36.0874" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1789.188" Y="-40.94849" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Sp">
+        <PunktWinkel X="-1795.78" Y="-114.1612" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1801.186" Y="-174.1464" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1805.712" Y="-218.6189" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1811.864" Y="-272.2321" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1817.094" Y="-332.1293" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1821.093" Y="-382.4026" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1825.751" Y="-432.9835" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Absp">
+        <PunktWinkel X="-1826.059" Y="-490.9472" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1823.158" Y="-555.6346" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1815.336" Y="-620.8932" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Absp">
+        <PunktWinkel X="-1803.603" Y="-687.0308" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1787.211" Y="-755.4536" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1770.38" Y="-830.4681" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Sp">
+        <PunktWinkel X="-1751.615" Y="-907.5922" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1734.037" Y="-983.5733" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Sp">
+        <PunktWinkel X="-1718.349" Y="-1052.128" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1708.9" Y="-1107.191" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Su">
+        <PunktWinkel X="-1705.121" Y="-1163.177" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1705.78" Y="-1213.934" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1711.449" Y="-1267.107" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Absp">
+        <PunktWinkel X="-1722.699" Y="-1321.643" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1737.641" Y="-1375.08" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1755.395" Y="-1421.617" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Absp">
+        <PunktWinkel X="-1778.598" Y="-1472.374" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1807.25" Y="-1521.285" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1839.77" Y="-1567.998" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1875.541" Y="-1612.031" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1914.609" Y="-1653.076" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="Sp">
+        <PunktWinkel X="-1957.367" Y="-1690.165" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2003.246" Y="-1723.519" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2045.082" Y="-1749.535" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2094.521" Y="-1775.067" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-2145.848" Y="-1796.512" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="VSig">
+        <PunktWinkel X="-1999.114" Y="-1721.278" />
+      </Punkt>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="P">
+        <PunktWinkel X="-1791.121" Y="-1509.287" />
+      </Punkt>
+      <Gerade ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1734.414" Y="-968.3099" W="1.798988" km="1.563962" />
+        <PunktWinkel X="-1762.778" Y="-846.1761" W="4.940581" km="1.639426" />
+      </Gerade>
+      <Punkt ProfilName="Abzw. Ernsgaden" spTrass="27.77778" Oberbau="B55 SKL-Oberbau" Beschreibung="P">
+        <PunktWinkel X="-1737.552" Y="-968.8507" />
+      </Punkt>
+      <Gerade ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1762.778" Y="-846.1761" W="1.798992" km="1.639426" />
+        <PunktWinkel X="-1787.665" Y="-739.0155" W="4.940585" km="1.675808" />
+      </Gerade>
+      <Gerade ProfilName="Abzw. Ernsgaden" spTrass="16.66667" Oberbau="B55 SKL-Oberbau">
+        <PunktWinkel X="-1787.665" Y="-739.0155" W="1.798963" km="1.707186" />
+        <PunktWinkel X="-1791.142" Y="-724.0423" W="4.940556" km="1.71489" />
+      </Gerade>
+      <Kreisbogen ProfilName="Vohburg" spTrass="1.666667" Oberbau="B55 SKL-Oberbau" kr="0.001415072" WinkelAnf="1.858301" WinkelLauf="0.04615665">
+        <PunktWinkel X="-2532.477" Y="-1916.161" W="3.429097" />
+        <PunktWinkel X="-2563.531" Y="-1926.129" W="0.3336615" />
+        <Punkt X="-2332.091" Y="-2593.833" />
+      </Kreisbogen>
+      <Kreisbogen ProfilName="Vohburg" spTrass="1.666667" Oberbau="Holz K-Oberbau" kr="0.001415072" WinkelAnf="1.904458" WinkelLauf="0.004125086">
+        <PunktWinkel X="-2563.531" Y="-1926.129" W="3.475254" />
+        <PunktWinkel X="-2566.284" Y="-1927.089" W="0.3377867" />
+        <Punkt X="-2332.091" Y="-2593.833" />
+      </Kreisbogen>
+    </Lageplan>
+    <HoehenProfil ProfilName="Vohburg" ProfilFarbe="FF0080FF" ProfilAbstandHorizontKm="2" ProfilNeigungPromille="1" ProfilGleisElementeZeichnen="1">
+      <StuetzPkt X="0.0002212524" Y="361.7154" Radius="5000" />
+      <StuetzPkt X="715.2928" Y="360.9531" Kategorie="1" />
+      <StuetzPkt X="717.32" Y="360.9512" Kategorie="2" />
+      <StuetzPkt X="718.4554" Y="360.9499" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="719.3473" Y="360.9507" Kategorie="2" />
+      <StuetzPkt X="721.3745" Y="360.9502" Kategorie="1" />
+      <StuetzPkt X="5225.805" Y="361.6299" Kategorie="1" />
+      <StuetzPkt X="5227.652" Y="361.6299" Kategorie="2" />
+      <StuetzPkt X="5228.388" Y="361.6303" Kategorie="3" Radius="5000" />
+      <StuetzPkt X="5229.499" Y="361.6289" Kategorie="2" />
+      <StuetzPkt X="5231.346" Y="361.6274" Kategorie="1" />
+      <StuetzPkt X="8248.238" Y="358.7397" Radius="5000" />
+    </HoehenProfil>
+    <HoehenProfil ProfilName="Abzw. Ernsgaden" ProfilFarbe="FF0000FF" ProfilAbstandHorizontKm="2" ProfilGleisElementeZeichnen="1">
+      <StuetzPkt X="14.47861" Y="356.8431" Radius="5000" />
+      <StuetzPkt X="1408.152" Y="357.5732" Radius="5000" />
+      <StuetzPkt X="4709.936" Y="361.1587" Radius="5000" />
+    </HoehenProfil>
+  </Gleisplan>
+</Zusi>

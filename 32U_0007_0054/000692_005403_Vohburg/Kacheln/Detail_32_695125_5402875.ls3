@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="Detail_32_695125_5402875.lsb"/>
+<SubSet Cd="00FFFFFF" TypLs3="8" MeterProTex="50" MeshV="64" MeshI="180">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\rail.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

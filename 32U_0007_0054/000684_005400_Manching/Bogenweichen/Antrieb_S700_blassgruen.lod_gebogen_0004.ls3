@@ -6,13 +6,13 @@
 </Info>
 <Landschaft>
 <Verknuepfte BoundingR="5" SichtbarBis="150" Vorlade="1" LODbit="4">
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_S700_blassgruen.lod1.ls3"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_L700H_rechts.lod1.ls3"/>
 <p X="0" Y="0.003"/>
 <phi Z="0.003566"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte BoundingR="5" SichtbarAb="150" SichtbarBis="450" Vorlade="1" LODbit="2">
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_S700_blassgruen.lod2.ls3"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_L700H_rechts.lod2.ls3"/>
 <p X="0" Y="0.003"/>
 <phi Z="0.003566"/>
 <sk/>

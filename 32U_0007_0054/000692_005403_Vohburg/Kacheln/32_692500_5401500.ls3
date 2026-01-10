@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="32" BoundingR="137" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_692125_5401875.ls3"/>
+<p X="-375" Y="375"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="161" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_692375_5401875.ls3"/>
+<p X="-125" Y="375"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_692625_5401875.ls3"/>
+<p X="125" Y="375"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<lsb Dateiname="32_692500_5401500.lsb"/>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeshV="54" MeshI="114">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weichenschwellen_Beton.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeshV="16" MeshI="24">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Texturen\Weiche_Holzschwellen_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="72" MeshI="192">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_BetonB55_SKL-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeshV="69" MeshI="171">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="176" MeshI="636">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="116" MeshI="318">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\cess.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="7" TypGF="3" MeterProTex="5" MeshV="34" MeshI="90">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

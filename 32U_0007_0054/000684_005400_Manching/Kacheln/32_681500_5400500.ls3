@@ -273,15 +273,6 @@
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_681500_5400500.lsb"/>
-<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="29" MeshI="81">
-<RenderFlags TexVoreinstellung="3"/>
-<Textur>
-<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
-</Textur>
-<Textur>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_BetonB55_SKL-Oberbau.dds"/>
-</Textur>
-</SubSet>
 <SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="88" MeshI="324">
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
@@ -292,6 +283,15 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="PermanentWay\Default\cess.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="29" MeshI="81">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_BetonB55_SKL-Oberbau.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

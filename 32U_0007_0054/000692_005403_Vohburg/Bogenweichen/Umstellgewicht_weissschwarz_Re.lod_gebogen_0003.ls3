@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1" Beschreibung="	  l=-0,00594139099121094  kr=-0,00294471392408013  ue=0	  l=4,7259030342102  kr=0  ue=0	  l=8,36494922637939  kr=0,00175938103348017  ue=0	">
+<AutorEintrag AutorID="8" AutorName="Joerg Sanftleben" AutorEmail="joergsanftleben@aol.com"/>
+<AutorEintrag AutorID="36" AutorName="Johannes Jung" AutorBeschreibung="Normalenkorrektur"/>
+</Info>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="500" Vorlade="1" LODbit="14">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Manuell\lod\Umstellgewicht_weissschwarz.lod1.ls3"/>
+<p X="0.3119" Y="0" Z="0"/>
+<phi Z="0.000017"/>
+<sk/>
+</Verknuepfte>
+<Ankerpunkt Farbe="00FFFF00">
+<p X="0.3"/>
+<phi/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3" NurInfo="1"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3" NurInfo="1"/>
+</Ankerpunkt>
+<Animation AniBeschreibung="Grundstellung"/>
+<Animation AniBeschreibung="Umgestellt">
+<AniNrs AniNr="1"/>
+</Animation>
+<VerknAnimation AniNr="1" AniGeschw="1">
+<AniPunkt>
+<p/>
+<q W="1"/>
+</AniPunkt>
+<AniPunkt AniZeit="1">
+<p/>
+<q X="0.866025" W="0.5"/>
+</AniPunkt>
+</VerknAnimation>
+</Landschaft>
+</Zusi>

@@ -20,6 +20,10 @@
 <MondTex Dateiname="_Setup\sky\moon.dds"/>
 <SternTex Dateiname="_Setup\sky\star.dds"/>
 </SkyDome>
+<ModulDateien>
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000692_005403_Vohburg\Vohburg_2025.st3" NurInfo="1"/>
+</ModulDateien>
+<ReferenzElemente ReferenzNr="1" StrElement="174" RefTyp="1" Info="Modulgrenze nach Routes\Deutschland\32U_0007_0054\000692_005403_Vohburg\Vohburg_2025.st3"/>
 <StrElement Nr="1" spTrass="33.3333" Anschluss="256" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="-2332.8369" Y="179.266" Z="364.9867"/>
 <b X="-2324.9141" Y="179.4501" Z="364.9806"/>
@@ -57,7 +61,7 @@
 <p X="1.17"/>
 <phi Z="3.1415"/>
 <sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_rechts.lod.ls3"/>
 </SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="5.45"/>
@@ -228,7 +232,7 @@
 <p X="1.17"/>
 <phi/>
 <sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_rechts.lod.ls3"/>
 </SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeNr="1" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="5.45"/>
@@ -399,7 +403,7 @@
 <p X="1.68"/>
 <phi Z="3.1415"/>
 <sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_rechts.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
@@ -550,7 +554,7 @@
 <p X="1.17"/>
 <phi/>
 <sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_rechts.lod.ls3"/>
 </SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="1" WeichenbaugruppeBeschreibung="Weichensignal reflektierend rechts" WeichenbaugruppePos0="1">
 <p X="1.6" Y="-2.07"/>
@@ -1160,7 +1164,7 @@
 <p X="1.17"/>
 <phi/>
 <sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen_rechts.lod.ls3"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_rechts.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
@@ -1730,7 +1734,7 @@
 <p X="1.17"/>
 <phi/>
 <sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_links.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
@@ -1895,7 +1899,7 @@
 <p X="1.17"/>
 <phi/>
 <sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_rechts.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
@@ -2068,7 +2072,7 @@
 <p X="1.17"/>
 <phi Z="3.1415"/>
 <sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_rechts.lod.ls3"/>
 </SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeNr="2" WeichenbaugruppeBeschreibung="Weichensignal reflektierend links" WeichenbaugruppePos0="1">
 <p X="1.6" Y="2.07"/>
@@ -2300,6 +2304,9 @@
 <InfoNormRichtung vMax="33.3333" km="64.0597" pos="1"/>
 <InfoGegenRichtung vMax="33.3333" km="64.1488"/>
 <NachNorm Nr="363"/>
+<NachGegenModul Nr="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000692_005403_Vohburg\Vohburg_2025.st3" NurInfo="1"/>
+</NachGegenModul>
 </StrElement>
 <StrElement Nr="175" spTrass="33.3333" Anschluss="256" Oberbau="B55 SKL-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="2540.1721" Y="292.488" Z="362.7361"/>
@@ -5358,7 +5365,35 @@
 <StrElement Nr="332" kr="-0.003586" spTrass="27.7778" Anschluss="256" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="1115.325" Y="240.0421" Z="363.1754"/>
 <b X="1110.49" Y="240.5065" Z="363.1769"/>
-<InfoNormRichtung vMax="27.7778" km="66.7796" pos="1"/>
+<InfoNormRichtung vMax="27.7778" km="66.7796" pos="1">
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="6I" SignalFlags="4" SignalTyp="5" BoundingR="1">
+<p X="1110.6573" Y="242.2485" Z="363.1769"/>
+<phi Z="3.045836"/>
+<SignalFrame>
+<p/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\Lichtgleissperrsignale\GsSELSiemens_Sockel1958-n.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Z="0.24"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\Lichtgleissperrsignale\GsSEL_Schirm-n.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="-0.05" Y="-0.25" Z="0.05"/>
+<phi/>
+<sk/>
+<Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\Lichtgleissperrsignale\Gs_Schild_wrw-n.lod.ls3"/>
+</SignalFrame>
+<HsigBegriff HsigGeschw="-1" FahrstrTyp="2"/>
+<HsigBegriff FahrstrTyp="2"/>
+<VsigBegriff VsigGeschw="-1"/>
+<MatrixEintrag Signalbild="13" MatrixGeschw="6.9444"/>
+<MatrixEintrag Signalbild="11"/>
+</Signal>
+</InfoNormRichtung>
 <InfoGegenRichtung vMax="27.7778" km="66.7845"/>
 <NachNorm Nr="334"/>
 <NachGegen Nr="331"/>
@@ -6795,7 +6830,7 @@
 <p X="1.17"/>
 <phi Z="3.1415"/>
 <sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_rechts.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
@@ -7631,7 +7666,7 @@
 </StrElement>
 <StrElement Nr="482" kr="-0.000535" spTrass="33.3333" Oberbau="Holz K-Oberbau" Volt="2" Drahthoehe="5.5">
 <g X="928.7913" Y="259.506" Z="363.2327"/>
-<b X="931.7244" Y="259.7779" Z="363.2318"/>
+<b X="931.7877" Y="259.7829" Z="363.2318"/>
 <InfoNormRichtung vMax="33.3333" km="66.9656"/>
 <InfoGegenRichtung vMax="33.3333" km="66.9627" pos="1"/>
 <NachNorm Nr="485"/>
@@ -9027,7 +9062,7 @@
 <p X="1.17"/>
 <phi/>
 <sk/>
-<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_L700H_rechts.lod.ls3"/>
 </SignalFrame>
 <SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
 <p X="5.45"/>

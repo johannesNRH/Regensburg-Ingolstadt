@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="32" BoundingR="145" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_693125_5402125.ls3"/>
+<p X="-375" Y="-375"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_693375_5402125.ls3"/>
+<p X="-125" Y="-375"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_693375_5402375.ls3"/>
+<p X="-125" Y="-125"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="164" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_693625_5402375.ls3"/>
+<p X="125" Y="-125"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="32" BoundingR="133" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_693875_5402375.ls3"/>
+<p X="375" Y="-125"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<lsb Dateiname="32_693500_5402500.lsb"/>
+<SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="30" MeshI="84">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_BetonB55_SKL-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="92" MeshI="336">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\ballast.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="6" TypGF="3" MeterProTex="0.733" MeshV="60" MeshI="168">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="PermanentWay\Default\cess.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

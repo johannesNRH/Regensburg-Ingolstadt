@@ -2,13 +2,13 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<Verknuepfte Flags="16" BoundingR="1934" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
 <p X="-49.2206" Y="65.8328" Z="364.6715"/>
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1967" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
 <p X="-82.4869" Y="65.4678" Z="364.6972"/>
 <phi/>
