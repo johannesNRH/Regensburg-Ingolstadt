@@ -1303,12 +1303,12 @@
       </Gerade>
       <Kreisbogen ProfilName="Vohburg" spTrass="1.666667" Oberbau="B55 SKL-Oberbau" kr="0.001415072" WinkelAnf="1.858301" WinkelLauf="0.04615665">
         <PunktWinkel X="-2532.477" Y="-1916.161" W="3.429097" />
-        <PunktWinkel X="-2563.531" Y="-1926.129" W="0.3336615" />
+        <PunktWinkel X="-2563.531" Y="-1926.129" W="0.3336614" />
         <Punkt X="-2332.091" Y="-2593.833" />
       </Kreisbogen>
       <Kreisbogen ProfilName="Vohburg" spTrass="1.666667" Oberbau="Holz K-Oberbau" kr="0.001415072" WinkelAnf="1.904458" WinkelLauf="0.004125086">
         <PunktWinkel X="-2563.531" Y="-1926.129" W="3.475254" />
-        <PunktWinkel X="-2566.284" Y="-1927.089" W="0.3377867" />
+        <PunktWinkel X="-2566.284" Y="-1927.089" W="0.3377868" />
         <Punkt X="-2332.091" Y="-2593.833" />
       </Kreisbogen>
     </Lageplan>
