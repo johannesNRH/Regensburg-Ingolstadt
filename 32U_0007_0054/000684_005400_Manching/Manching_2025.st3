@@ -770,7 +770,7 @@
 <g X="-2060.7161" Y="185.5889" Z="364.7768"/>
 <b X="-1995.1639" Y="187.1119" Z="364.7262"/>
 <InfoNormRichtung vMax="27.7778" km="69.9561">
-<Signal NameBetriebsstelle="Ingolstadt-Sandrach Abzw" Stellwerk="Ingolstadt Hbf Ihf" Signalname="El6" SignalTyp="1" BoundingR="10">
+<Signal NameBetriebsstelle="Abzw I-Sandrach" Stellwerk="Ingolstadt Hbf Ihf" Signalname="El6" SignalTyp="1" BoundingR="10">
 <p X="-1995.0919" Y="184.0127" Z="366.5762"/>
 <phi Z="0.023229"/>
 <SignalFrame>
@@ -3024,7 +3024,7 @@
 <g X="-1640.933" Y="195.342" Z="364.453"/>
 <b X="-1724.0291" Y="193.4113" Z="364.5171"/>
 <InfoNormRichtung vMax="33.3333" km="69.5362" pos="1">
-<Signal NameBetriebsstelle="Ingolstadt-Sandrach Abzw" Stellwerk="Ingolstadt Hbf Ihf" Signalname="V" SignalTyp="7" BoundingR="10">
+<Signal NameBetriebsstelle="Abzw I-Sandrach" Stellwerk="Ingolstadt Hbf Ihf" Signalname="V" SignalTyp="7" BoundingR="10">
 <p X="-1724.1019" Y="196.5505" Z="363.9171"/>
 <phi Z="-3.118362"/>
 <SignalFrame>
@@ -5409,34 +5409,46 @@
 <g X="1110.489" Y="240.5065" Z="363.1769"/>
 <b X="1108.004" Y="240.7783" Z="363.1776"/>
 <InfoNormRichtung vMax="-1" km="66.7844" pos="1">
-<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="III" SignalFlags="3" SignalTyp="3" BoundingR="10">
-<p X="1108.0031" Y="240.7671" Z="363.1776"/>
-<phi Y="-0.000305" Z="3.037152"/>
-<SignalFrame WeichenbaugruppeIndex="1" WeichenbaugruppeBeschreibung="Elektrischer Antrieb S700 (blaßgrün) rechts" WeichenbaugruppePos0="1" WeichenbaugruppePos1="1">
-<p/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\Antrieb_S700_blassgruen.lod_gebogen_0005.ls3"/>
-</SignalFrame>
-<SignalFrame WeichenbaugruppeIndex="2" WeichenbaugruppeBeschreibung="Gleissperrensignal für Schutzrichtung" WeichenbaugruppePos0="1">
-<p X="0.25" Y="-2.07"/>
-<phi/>
-<sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\DB_Gleissperrensignal.lod_gebogen_0001.ls3"/>
-</SignalFrame>
+<Signal NameBetriebsstelle="Manching" Stellwerk="Manching Mnf" Signalname="III" SignalFlags="1" SignalTyp="3" BoundingR="10">
+<p X="1108.004" Y="240.7783" Z="363.1776"/>
+<phi Z="3.032647"/>
 <SignalFrame>
-<p Y="0.82" Z="-0.1406"/>
+<p Y="0.82" Z="-0.14"/>
 <phi Z="-3.141592"/>
 <sk/>
-<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Bogenweichen\DB_Gleissperre_li.lod_gebogen_0001.ls3"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Gleissperren\DB_Gleissperre_li.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="0.4" Y="-2.1"/>
+<phi/>
+<sk/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Gleissperren\DB_Gleissperrensignal.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p X="0.4" Y="2.1"/>
+<phi Z="-3.141592"/>
+<sk/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Gleissperren\DB_Gleissperrensignal_li.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p Y="-0.6" Z="-0.05"/>
+<phi/>
+<sk/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Gleissperren\DB_Auflaufklotz.lod.ls3"/>
+</SignalFrame>
+<SignalFrame>
+<p/>
+<phi Z="3.14"/>
+<sk/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\Antrieb_S700_blassgruen.lod.ls3"/>
 </SignalFrame>
 <HsigBegriff FahrstrTyp="1"/>
 <HsigBegriff HsigGeschw="-1" FahrstrTyp="1"/>
 <VsigBegriff VsigGeschw="-1"/>
-<MatrixEintrag Signalbild="11">
+<MatrixEintrag Signalbild="213">
 <Ereignis Er="52"/>
 </MatrixEintrag>
-<MatrixEintrag Signalbild="21" MatrixGeschw="-1"/>
+<MatrixEintrag Signalbild="234" MatrixGeschw="-1"/>
 </Signal>
 </InfoNormRichtung>
 <InfoGegenRichtung vMax="-1" km="66.7869"/>
@@ -6594,7 +6606,7 @@
 <Ereignis Er="4"/>
 <Ereignis Er="40" Beschr="5851b"/>
 <Ereignis Er="22"/>
-<Signal NameBetriebsstelle="Ingolstadt-Sandrach Abzw" Stellwerk="Ingolstadt Hbf Ihf" SignalTyp="1" BoundingR="1">
+<Signal NameBetriebsstelle="Abzw I-Sandrach" Stellwerk="Ingolstadt Hbf Ihf" SignalTyp="1" BoundingR="1">
 <p X="-1886.33" Y="186.5398" Z="364.7923"/>
 <phi Z="0.023232"/>
 <SignalFrame>
@@ -6629,7 +6641,7 @@
 <b X="-1977.3311" Y="187.5262" Z="364.7125"/>
 <InfoNormRichtung vMax="-1" km="69.8745" pos="1">
 <Ereignis Er="6"/>
-<Signal NameBetriebsstelle="Ingolstadt-Sandrach Abzw" Stellwerk="Ingolstadt Hbf Ihf" Signalname="101" SignalFlags="3" SignalTyp="2" BoundingR="34">
+<Signal NameBetriebsstelle="Abzw I-Sandrach" Stellwerk="Ingolstadt Hbf Ihf" Signalname="101" SignalFlags="3" SignalTyp="2" BoundingR="34">
 <p X="-1979.131" Y="187.4844" Z="364.7139"/>
 <phi Y="0.000771" Z="0.02323"/>
 <SignalFrame>
@@ -6772,7 +6784,7 @@
 <g X="-1915.271" Y="194.0849" Z="364.6645"/>
 <b X="-1914.2793" Y="194.2138" Z="364.6637"/>
 <InfoNormRichtung vMax="-1">
-<Signal NameBetriebsstelle="Ingolstadt-Sandrach Abzw" Stellwerk="Ingolstadt Hbf Ihf" Signalname="Sh Tafel" SignalTyp="1" BoundingR="10">
+<Signal NameBetriebsstelle="Abzw I-Sandrach" Stellwerk="Ingolstadt Hbf Ihf" Signalname="Sh Tafel" SignalTyp="1" BoundingR="10">
 <p X="-1914.2793" Y="194.2138" Z="364.6637"/>
 <phi Z="0.129215"/>
 <SignalFrame>
@@ -6802,7 +6814,7 @@
 <g X="-1915.271" Y="194.0849" Z="364.6645"/>
 <b X="-1916.4611" Y="193.9303" Z="364.6654"/>
 <InfoNormRichtung vMax="-1" km="69.8105" pos="1">
-<Signal NameBetriebsstelle="Ernsgaden Abzw" Stellwerk="Ingolstadt Hbf Ihf" Signalname="102" SignalFlags="3" SignalTyp="2" BoundingR="28">
+<Signal NameBetriebsstelle="Abzw I-Sandrach" Stellwerk="Ingolstadt Hbf Ihf" Signalname="102" SignalFlags="3" SignalTyp="2" BoundingR="28">
 <p X="-1915.271" Y="194.0849" Z="364.6645"/>
 <phi Y="-0.000766" Z="-3.012377"/>
 <SignalFrame>
@@ -8892,7 +8904,7 @@
 <g X="-2697.7471" Y="170.7876" Z="365.192"/>
 <b X="-2614.25" Y="172.7276" Z="365.145"/>
 <InfoNormRichtung vMax="27.7778" km="70.5933">
-<Signal NameBetriebsstelle="Ingolstadt-Sandrach Abzw" Stellwerk="Ingolstadt Hbf Ihf" Signalname="W" SignalTyp="7" BoundingR="10">
+<Signal NameBetriebsstelle="Abzw I-Sandrach" Stellwerk="Ingolstadt Hbf Ihf" Signalname="W" SignalTyp="7" BoundingR="10">
 <p X="-2614.177" Y="169.5884" Z="364.545"/>
 <phi Z="0.02323"/>
 <SignalFrame>
@@ -10279,9 +10291,9 @@
 <g X="-705.9297" Y="217.0665" Z="363.7399"/>
 <b X="-727.3831" Y="216.5681" Z="363.7483"/>
 <InfoNormRichtung vMax="33.3333" km="68.6009" pos="1">
-<Signal NameBetriebsstelle="Ingolstadt-Sandrach Abzw" Stellwerk="Ingolstadt Hbf Ihf" Signalname="v" SignalTyp="6" BoundingR="10">
+<Signal NameBetriebsstelle="Abzw I-Sandrach" Stellwerk="Ingolstadt Hbf Ihf" Signalname="v" SignalTyp="6" BoundingR="10">
 <p X="-727.4558" Y="219.6973" Z="363.7483"/>
-<phi Z="-3.118363"/>
+<phi Z="-3.118362"/>
 <SignalFrame>
 <p Z="-0.6"/>
 <phi/>
@@ -10996,6 +11008,482 @@
 <InfoNormRichtung vMax="33.3333" km="65.8506"/>
 <NachNorm Nr="355"/>
 <NachGegen Nr="354"/>
+</StrElement>
+<StrElement Nr="633" spTrass="27.7778" Fkt="2">
+<g X="2319.6809" Y="1084.687" Z="361.1373"/>
+<b X="2246.7781" Y="1009.3259" Z="361.1657"/>
+</StrElement>
+<StrElement Nr="634" spTrass="27.7778" Fkt="2">
+<g X="2246.7781" Y="1009.3259" Z="361.1657"/>
+<b X="2211.3054" Y="975.2335" Z="361.1477"/>
+</StrElement>
+<StrElement Nr="635" spTrass="27.7778" Fkt="2">
+<g X="2211.3054" Y="975.2335" Z="361.1477"/>
+<b X="2174.2939" Y="941.8235" Z="361.0034"/>
+</StrElement>
+<StrElement Nr="636" spTrass="27.7778" Fkt="2">
+<g X="2174.2939" Y="941.8235" Z="361.0034"/>
+<b X="2133.3618" Y="907.6143" Z="361.1558"/>
+</StrElement>
+<StrElement Nr="637" spTrass="27.7778" Fkt="2">
+<g X="2133.3618" Y="907.6143" Z="361.1558"/>
+<b X="2101.6951" Y="885.1064" Z="361.0868"/>
+</StrElement>
+<StrElement Nr="638" spTrass="27.7778" Fkt="2">
+<g X="2101.6951" Y="885.1064" Z="361.0868"/>
+<b X="2086.3162" Y="875.9665" Z="361.0994"/>
+</StrElement>
+<StrElement Nr="639" spTrass="27.7778" Fkt="2">
+<g X="2086.3162" Y="875.9665" Z="361.0994"/>
+<b X="2071.1858" Y="868.5986" Z="361.2447"/>
+</StrElement>
+<StrElement Nr="640" spTrass="27.7778" Fkt="2">
+<g X="2071.1858" Y="868.5986" Z="361.2447"/>
+<b X="2054.5889" Y="860.7439" Z="361.5058"/>
+</StrElement>
+<StrElement Nr="641" spTrass="27.7778" Fkt="2">
+<g X="2054.5889" Y="860.7439" Z="361.5058"/>
+<b X="2026.392" Y="850.6185" Z="361.4775"/>
+</StrElement>
+<StrElement Nr="642" spTrass="27.7778" Fkt="2">
+<g X="2026.392" Y="850.6185" Z="361.4775"/>
+<b X="1974.0573" Y="834.6908" Z="361.6374"/>
+</StrElement>
+<StrElement Nr="643" spTrass="27.7778" Fkt="2">
+<g X="1974.0573" Y="834.6908" Z="361.6374"/>
+<b X="1923.4346" Y="820.1978" Z="362.1403"/>
+</StrElement>
+<StrElement Nr="644" spTrass="27.7778" Fkt="2">
+<g X="1923.4346" Y="820.1978" Z="362.1403"/>
+<b X="1899.8792" Y="812.643" Z="361.752"/>
+</StrElement>
+<StrElement Nr="645" spTrass="27.7778" Fkt="2">
+<g X="1899.8792" Y="812.643" Z="361.752"/>
+<b X="1882.1425" Y="805.4701" Z="361.9079"/>
+</StrElement>
+<StrElement Nr="646" spTrass="27.7778" Fkt="2">
+<g X="1882.1425" Y="805.4701" Z="361.9079"/>
+<b X="1871.4202" Y="799.624" Z="362.1675"/>
+</StrElement>
+<StrElement Nr="647" spTrass="27.7778" Fkt="2">
+<g X="1871.4202" Y="799.624" Z="362.1675"/>
+<b X="1860.6688" Y="792.8449" Z="362.022"/>
+</StrElement>
+<StrElement Nr="648" spTrass="27.7778" Fkt="2">
+<g X="1860.6688" Y="792.8449" Z="362.022"/>
+<b X="1852.0338" Y="786.4077" Z="362.092"/>
+</StrElement>
+<StrElement Nr="649" spTrass="27.7778" Fkt="2">
+<g X="1852.0338" Y="786.4077" Z="362.092"/>
+<b X="1841.7544" Y="777.5605" Z="362.1381"/>
+</StrElement>
+<StrElement Nr="650" spTrass="27.7778" Fkt="2">
+<g X="1841.7544" Y="777.5605" Z="362.1381"/>
+<b X="1836.5822" Y="772.1722" Z="362.0978"/>
+</StrElement>
+<StrElement Nr="651" spTrass="27.7778" Fkt="2">
+<g X="1836.5822" Y="772.1722" Z="362.0978"/>
+<b X="1831.4883" Y="766.5205" Z="362.045"/>
+</StrElement>
+<StrElement Nr="652" spTrass="27.7778" Fkt="2">
+<g X="1831.4883" Y="766.5205" Z="362.045"/>
+<b X="1827.4053" Y="761.9066" Z="361.9993"/>
+</StrElement>
+<StrElement Nr="653" spTrass="27.7778" Fkt="2">
+<g X="1827.4053" Y="761.9066" Z="361.9993"/>
+<b X="1823.6169" Y="756.8279" Z="361.9811"/>
+</StrElement>
+<StrElement Nr="654" spTrass="27.7778" Fkt="2">
+<g X="1823.6169" Y="756.8279" Z="361.9811"/>
+<b X="1819.2844" Y="750.7722" Z="361.9744"/>
+</StrElement>
+<StrElement Nr="655" spTrass="27.7778" Fkt="2">
+<g X="1819.2844" Y="750.7722" Z="361.9744"/>
+<b X="1813.1964" Y="741.3691" Z="361.8074"/>
+</StrElement>
+<StrElement Nr="656" spTrass="27.7778" Fkt="2">
+<g X="1813.1964" Y="741.3691" Z="361.8074"/>
+<b X="1808.1697" Y="731.983" Z="361.9677"/>
+</StrElement>
+<StrElement Nr="657" spTrass="27.7778" Fkt="2">
+<g X="1808.1697" Y="731.983" Z="361.9677"/>
+<b X="1803.9558" Y="722.6747" Z="362.1149"/>
+</StrElement>
+<StrElement Nr="658" spTrass="27.7778" Fkt="2">
+<g X="1803.9558" Y="722.6747" Z="362.1149"/>
+<b X="1799.8672" Y="712.7404" Z="362.1092"/>
+</StrElement>
+<StrElement Nr="659" spTrass="27.7778" Fkt="2">
+<g X="1799.8672" Y="712.7404" Z="362.1092"/>
+<b X="1797.6429" Y="704.9407" Z="361.8562"/>
+</StrElement>
+<StrElement Nr="660" spTrass="27.7778" Fkt="2">
+<g X="1797.6429" Y="704.9407" Z="361.8562"/>
+<b X="1795.2993" Y="696.1155" Z="361.659"/>
+</StrElement>
+<StrElement Nr="661" spTrass="27.7778" Fkt="2">
+<g X="1795.2993" Y="696.1155" Z="361.659"/>
+<b X="1793.9092" Y="688.1953" Z="361.5183"/>
+</StrElement>
+<StrElement Nr="662" spTrass="27.7778" Fkt="2">
+<g X="1793.9092" Y="688.1953" Z="361.5183"/>
+<b X="1792.5604" Y="679.0602" Z="361.3748"/>
+</StrElement>
+<StrElement Nr="663" spTrass="27.7778" Fkt="2">
+<g X="1792.5604" Y="679.0602" Z="361.3748"/>
+<b X="1791.9507" Y="671.2421" Z="361.4489"/>
+</StrElement>
+<StrElement Nr="664" spTrass="27.7778" Fkt="2">
+<g X="1791.9507" Y="671.2421" Z="361.4489"/>
+<b X="1792.2695" Y="658.6252" Z="361.4296"/>
+</StrElement>
+<StrElement Nr="665" spTrass="27.7778" Fkt="2">
+<g X="1792.2695" Y="658.6252" Z="361.4296"/>
+<b X="1793.022" Y="647.3091" Z="361.6376"/>
+</StrElement>
+<StrElement Nr="666" spTrass="27.7778" Fkt="2">
+<g X="1793.022" Y="647.3091" Z="361.6376"/>
+<b X="1794.2019" Y="634.824" Z="361.4383"/>
+</StrElement>
+<StrElement Nr="667" spTrass="27.7778" Fkt="2">
+<g X="1794.2019" Y="634.824" Z="361.4383"/>
+<b X="1796.5835" Y="615.1923" Z="361.5347"/>
+</StrElement>
+<StrElement Nr="668" spTrass="27.7778" Fkt="2">
+<g X="1796.5835" Y="615.1923" Z="361.5347"/>
+<b X="1797.5344" Y="599.9038" Z="361.5091"/>
+</StrElement>
+<StrElement Nr="669" spTrass="27.7778" Fkt="2">
+<g X="1797.5344" Y="599.9038" Z="361.5091"/>
+<b X="1797.5723" Y="583.4745" Z="361.47"/>
+</StrElement>
+<StrElement Nr="670" spTrass="27.7778" Fkt="2">
+<g X="1797.5723" Y="583.4745" Z="361.47"/>
+<b X="1796.5734" Y="566.8893" Z="361.3639"/>
+</StrElement>
+<StrElement Nr="671" spTrass="27.7778" Fkt="2">
+<g X="1796.5734" Y="566.8893" Z="361.3639"/>
+<b X="1794.6396" Y="555.1209" Z="361.2669"/>
+</StrElement>
+<StrElement Nr="672" spTrass="27.7778" Fkt="2">
+<g X="1794.6396" Y="555.1209" Z="361.2669"/>
+<b X="1792.8715" Y="546.8597" Z="361.1947"/>
+</StrElement>
+<StrElement Nr="673" spTrass="27.7778" Fkt="2">
+<g X="1792.8715" Y="546.8597" Z="361.1947"/>
+<b X="1788.9042" Y="536.1998" Z="361.073"/>
+</StrElement>
+<StrElement Nr="674" spTrass="27.7778" Fkt="2">
+<g X="1788.9042" Y="536.1998" Z="361.073"/>
+<b X="1783.8368" Y="524.7654" Z="361.0116"/>
+</StrElement>
+<StrElement Nr="675" spTrass="27.7778" Fkt="2">
+<g X="1783.8368" Y="524.7654" Z="361.0116"/>
+<b X="1778.7592" Y="513.6839" Z="360.9394"/>
+</StrElement>
+<StrElement Nr="676" spTrass="27.7778" Fkt="2">
+<g X="1778.7592" Y="513.6839" Z="360.9394"/>
+<b X="1773.924" Y="504.4189" Z="360.9019"/>
+</StrElement>
+<StrElement Nr="677" spTrass="27.7778" Fkt="2">
+<g X="1773.924" Y="504.4189" Z="360.9019"/>
+<b X="1770.4742" Y="498.3515" Z="360.8878"/>
+</StrElement>
+<StrElement Nr="678" spTrass="27.7778" Fkt="2">
+<g X="1770.4742" Y="498.3515" Z="360.8878"/>
+<b X="1765.6841" Y="490.9667" Z="360.9148"/>
+</StrElement>
+<StrElement Nr="679" spTrass="27.7778" Fkt="2">
+<g X="1765.6841" Y="490.9667" Z="360.9148"/>
+<b X="1761.1349" Y="484.9221" Z="360.9179"/>
+</StrElement>
+<StrElement Nr="680" spTrass="27.7778" Fkt="2">
+<g X="1761.1349" Y="484.9221" Z="360.9179"/>
+<b X="1757.5625" Y="480.6929" Z="360.9565"/>
+</StrElement>
+<StrElement Nr="681" spTrass="27.7778" Fkt="2">
+<g X="1757.5625" Y="480.6929" Z="360.9565"/>
+<b X="1753.4509" Y="476.1034" Z="360.9725"/>
+</StrElement>
+<StrElement Nr="682" spTrass="27.7778" Fkt="2">
+<g X="1753.4509" Y="476.1034" Z="360.9725"/>
+<b X="1747.4298" Y="469.528" Z="360.9817"/>
+</StrElement>
+<StrElement Nr="683" spTrass="27.7778" Fkt="2">
+<g X="1747.4298" Y="469.528" Z="360.9817"/>
+<b X="1740.4113" Y="462.5901" Z="360.9844"/>
+</StrElement>
+<StrElement Nr="684" spTrass="27.7778" Fkt="2">
+<g X="1740.4113" Y="462.5901" Z="360.9844"/>
+<b X="1733.7802" Y="456.3432" Z="360.9677"/>
+</StrElement>
+<StrElement Nr="685" spTrass="27.7778" Fkt="2">
+<g X="1733.7802" Y="456.3432" Z="360.9677"/>
+<b X="1728.3691" Y="451.8271" Z="360.9615"/>
+</StrElement>
+<StrElement Nr="686" spTrass="27.7778" Fkt="2">
+<g X="1728.3691" Y="451.8271" Z="360.9615"/>
+<b X="1721.5288" Y="446.3301" Z="360.9491"/>
+</StrElement>
+<StrElement Nr="687" spTrass="27.7778" Fkt="2">
+<g X="1721.5288" Y="446.3301" Z="360.9491"/>
+<b X="1718.4135" Y="444.4565" Z="360.9654"/>
+</StrElement>
+<StrElement Nr="688" spTrass="27.7778" Fkt="2">
+<g X="1718.4135" Y="444.4565" Z="360.9654"/>
+<b X="1710.6326" Y="439.4489" Z="361.0836"/>
+</StrElement>
+<StrElement Nr="689" spTrass="27.7778" Fkt="2">
+<g X="1710.6326" Y="439.4489" Z="361.0836"/>
+<b X="1699.2019" Y="433.0057" Z="361.0801"/>
+</StrElement>
+<StrElement Nr="690" spTrass="27.7778" Fkt="2">
+<g X="1699.2019" Y="433.0057" Z="361.0801"/>
+<b X="1689.7935" Y="428.2493" Z="361.2141"/>
+</StrElement>
+<StrElement Nr="691" spTrass="27.7778" Fkt="2">
+<g X="1689.7935" Y="428.2493" Z="361.2141"/>
+<b X="1677.0228" Y="421.7224" Z="361.3138"/>
+</StrElement>
+<StrElement Nr="692" spTrass="27.7778" Fkt="2">
+<g X="1677.0228" Y="421.7224" Z="361.3138"/>
+<b X="1659.2515" Y="412.6042" Z="361.3526"/>
+</StrElement>
+<StrElement Nr="693" spTrass="27.7778" Fkt="2">
+<g X="1659.2515" Y="412.6042" Z="361.3526"/>
+<b X="1635.5752" Y="401.663" Z="361.399"/>
+</StrElement>
+<StrElement Nr="694" spTrass="27.7778" Fkt="2">
+<g X="1635.5752" Y="401.663" Z="361.399"/>
+<b X="1595.9485" Y="383.6874" Z="361.1519"/>
+</StrElement>
+<StrElement Nr="695" spTrass="27.7778" Fkt="2">
+<g X="1595.9485" Y="383.6874" Z="361.1519"/>
+<b X="1555.6815" Y="367.0439" Z="361.3152"/>
+</StrElement>
+<StrElement Nr="696" spTrass="27.7778" Fkt="2">
+<g X="1555.6815" Y="367.0439" Z="361.3152"/>
+<b X="1519.3098" Y="352.2052" Z="361.3962"/>
+</StrElement>
+<StrElement Nr="697" spTrass="27.7778" Fkt="2">
+<g X="1519.3098" Y="352.2052" Z="361.3962"/>
+<b X="1496.8152" Y="344.6203" Z="361.6596"/>
+</StrElement>
+<StrElement Nr="698" spTrass="27.7778" Fkt="2">
+<g X="1496.8152" Y="344.6203" Z="361.6596"/>
+<b X="1479.1786" Y="339.4474" Z="361.9596"/>
+</StrElement>
+<StrElement Nr="699" spTrass="27.7778" Fkt="2">
+<g X="1479.1786" Y="339.4474" Z="361.9596"/>
+<b X="1455.8986" Y="334.0426" Z="361.8033"/>
+</StrElement>
+<StrElement Nr="700" spTrass="27.7778" Fkt="2">
+<g X="1455.8986" Y="334.0426" Z="361.8033"/>
+<b X="1437.7814" Y="330.9847" Z="361.5731"/>
+</StrElement>
+<StrElement Nr="701" spTrass="27.7778" Fkt="2">
+<g X="1437.7814" Y="330.9847" Z="361.5731"/>
+<b X="1421.5002" Y="329.5457" Z="361.52"/>
+</StrElement>
+<StrElement Nr="702" spTrass="27.7778" Fkt="2">
+<g X="1421.5002" Y="329.5457" Z="361.52"/>
+<b X="1394.8326" Y="328.1938" Z="361.5031"/>
+</StrElement>
+<StrElement Nr="703" spTrass="27.7778" Fkt="2">
+<g X="1394.8326" Y="328.1938" Z="361.5031"/>
+<b X="1370.113" Y="327.3139" Z="361.4768"/>
+</StrElement>
+<StrElement Nr="704" spTrass="27.7778" Fkt="2">
+<g X="1370.113" Y="327.3139" Z="361.4768"/>
+<b X="1341.3152" Y="326.4098" Z="361.2793"/>
+</StrElement>
+<StrElement Nr="705" spTrass="27.7778" Fkt="2">
+<g X="1341.3152" Y="326.4098" Z="361.2793"/>
+<b X="1270.3668" Y="325.2281" Z="361.3349"/>
+</StrElement>
+<StrElement Nr="706" spTrass="27.7778" Fkt="2">
+<g X="1270.3668" Y="325.2281" Z="361.3349"/>
+<b X="1114.1294" Y="324.4704" Z="362.121"/>
+</StrElement>
+<StrElement Nr="707" spTrass="27.7778" Fkt="2">
+<g X="1114.1294" Y="324.4704" Z="362.121"/>
+<b X="1031.1001" Y="323.973" Z="362.3884"/>
+</StrElement>
+<StrElement Nr="708" spTrass="27.7778" Fkt="2">
+<g X="1031.1001" Y="323.973" Z="362.3884"/>
+<b X="990.1017" Y="325.4629" Z="362.5232"/>
+</StrElement>
+<StrElement Nr="709" spTrass="27.7778" Fkt="2">
+<g X="990.1017" Y="325.4629" Z="362.5232"/>
+<b X="976.6503" Y="327.2068" Z="362.4986"/>
+</StrElement>
+<StrElement Nr="710" spTrass="27.7778" Fkt="2">
+<g X="976.6503" Y="327.2068" Z="362.4986"/>
+<b X="966.7713" Y="328.8667" Z="362.4807"/>
+</StrElement>
+<StrElement Nr="711" spTrass="27.7778" Fkt="2">
+<g X="966.7713" Y="328.8667" Z="362.4807"/>
+<b X="952.5006" Y="331.8378" Z="362.3846"/>
+</StrElement>
+<StrElement Nr="712" spTrass="27.7778" Fkt="2">
+<g X="952.5006" Y="331.8378" Z="362.3846"/>
+<b X="934.8235" Y="337.0392" Z="362.3664"/>
+</StrElement>
+<StrElement Nr="713" spTrass="27.7778" Fkt="2">
+<g X="934.8235" Y="337.0392" Z="362.3664"/>
+<b X="925.6167" Y="340.5087" Z="362.4732"/>
+</StrElement>
+<StrElement Nr="714" spTrass="27.7778" Fkt="2">
+<g X="925.6167" Y="340.5087" Z="362.4732"/>
+<b X="913.4167" Y="345.0767" Z="362.4985"/>
+</StrElement>
+<StrElement Nr="715" spTrass="27.7778" Fkt="2">
+<g X="913.4167" Y="345.0767" Z="362.4985"/>
+<b X="899.8901" Y="350.2995" Z="362.5025"/>
+</StrElement>
+<StrElement Nr="716" spTrass="27.7778" Fkt="2">
+<g X="899.8901" Y="350.2995" Z="362.5025"/>
+<b X="883.1603" Y="357.4831" Z="362.7408"/>
+</StrElement>
+<StrElement Nr="717" spTrass="27.7778" Fkt="2">
+<g X="883.1603" Y="357.4831" Z="362.7408"/>
+<b X="867.8289" Y="365.5974" Z="362.5579"/>
+</StrElement>
+<StrElement Nr="718" spTrass="27.7778" Fkt="2">
+<g X="867.8289" Y="365.5974" Z="362.5579"/>
+<b X="845.1339" Y="378.7112" Z="363.0954"/>
+</StrElement>
+<StrElement Nr="719" spTrass="27.7778" Fkt="2">
+<g X="845.1339" Y="378.7112" Z="363.0954"/>
+<b X="824.4781" Y="390.5897" Z="362.8442"/>
+</StrElement>
+<StrElement Nr="720" spTrass="27.7778" Fkt="2">
+<g X="824.4781" Y="390.5897" Z="362.8442"/>
+<b X="805.2807" Y="402.9125" Z="365.2114"/>
+</StrElement>
+<StrElement Nr="721" spTrass="27.7778" Fkt="2">
+<g X="805.2807" Y="402.9125" Z="365.2114"/>
+<b X="790.1998" Y="412.3229" Z="365.8295"/>
+</StrElement>
+<StrElement Nr="722" spTrass="27.7778" Fkt="2">
+<g X="790.1998" Y="412.3229" Z="365.8295"/>
+<b X="776.1879" Y="419.8374" Z="366.3636"/>
+</StrElement>
+<StrElement Nr="723" spTrass="27.7778" Fkt="2">
+<g X="776.1879" Y="419.8374" Z="366.3636"/>
+<b X="761.987" Y="426.4096" Z="366.9054"/>
+</StrElement>
+<StrElement Nr="724" spTrass="27.7778" Fkt="2">
+<g X="761.987" Y="426.4096" Z="366.9054"/>
+<b X="750.0413" Y="430.8711" Z="367.3548"/>
+</StrElement>
+<StrElement Nr="725" spTrass="27.7778" Fkt="2">
+<g X="750.0413" Y="430.8711" Z="367.3548"/>
+<b X="738.7937" Y="434.2332" Z="367.7868"/>
+</StrElement>
+<StrElement Nr="726" spTrass="27.7778" Fkt="2">
+<g X="738.7937" Y="434.2332" Z="367.7868"/>
+<b X="728.0352" Y="435.9934" Z="368.1313"/>
+</StrElement>
+<StrElement Nr="727" spTrass="27.7778" Fkt="2">
+<g X="728.0352" Y="435.9934" Z="368.1313"/>
+<b X="710.2341" Y="437.2941" Z="368.7404"/>
+</StrElement>
+<StrElement Nr="728" spTrass="27.7778" Fkt="2">
+<g X="710.2341" Y="437.2941" Z="368.7404"/>
+<b X="696.2981" Y="437.4789" Z="369.1877"/>
+</StrElement>
+<StrElement Nr="729" spTrass="27.7778" Fkt="2">
+<g X="696.2981" Y="437.4789" Z="369.1877"/>
+<b X="680.6752" Y="435.9031" Z="369.6154"/>
+</StrElement>
+<StrElement Nr="730" spTrass="27.7778" Fkt="2">
+<g X="680.6752" Y="435.9031" Z="369.6154"/>
+<b X="661.9833" Y="430.6903" Z="369.9721"/>
+</StrElement>
+<StrElement Nr="731" spTrass="27.7778" Fkt="2">
+<g X="661.9833" Y="430.6903" Z="369.9721"/>
+<b X="649.2725" Y="426.2582" Z="370.2472"/>
+</StrElement>
+<StrElement Nr="732" spTrass="27.7778" Fkt="2">
+<g X="649.2725" Y="426.2582" Z="370.2472"/>
+<b X="637.6225" Y="421.4984" Z="370.457"/>
+</StrElement>
+<StrElement Nr="733" spTrass="27.7778" Fkt="2">
+<g X="637.6225" Y="421.4984" Z="370.457"/>
+<b X="625.4841" Y="415.5473" Z="370.6561"/>
+</StrElement>
+<StrElement Nr="734" spTrass="27.7778" Fkt="2">
+<g X="625.4841" Y="415.5473" Z="370.6561"/>
+<b X="618.0751" Y="411.9565" Z="370.7911"/>
+</StrElement>
+<StrElement Nr="735" spTrass="27.7778" Fkt="2">
+<g X="618.0751" Y="411.9565" Z="370.7911"/>
+<b X="610.1685" Y="406.265" Z="370.8336"/>
+</StrElement>
+<StrElement Nr="740" spTrass="27.7778" Fkt="2">
+<g X="21.1966" Y="761.3292" Z="361.6438"/>
+<b X="56.8821" Y="743.7819" Z="361.5868"/>
+</StrElement>
+<StrElement Nr="741" spTrass="27.7778" Fkt="2">
+<g X="56.8821" Y="743.7819" Z="361.5868"/>
+<b X="97.489" Y="724.2225" Z="361.6551"/>
+</StrElement>
+<StrElement Nr="742" spTrass="27.7778" Fkt="2">
+<g X="97.489" Y="724.2225" Z="361.6551"/>
+<b X="140.0972" Y="701.0432" Z="361.866"/>
+</StrElement>
+<StrElement Nr="743" spTrass="27.7778" Fkt="2">
+<g X="140.0972" Y="701.0432" Z="361.866"/>
+<b X="174.0029" Y="681.4443" Z="362.101"/>
+</StrElement>
+<StrElement Nr="744" spTrass="27.7778" Fkt="2">
+<g X="174.0029" Y="681.4443" Z="362.101"/>
+<b X="229.3665" Y="646.8782" Z="362.4351"/>
+</StrElement>
+<StrElement Nr="745" spTrass="27.7778" Fkt="2">
+<g X="229.3665" Y="646.8782" Z="362.4351"/>
+<b X="330.1464" Y="584.2885" Z="363.9522"/>
+</StrElement>
+<StrElement Nr="746" spTrass="27.7778" Fkt="2">
+<g X="330.1464" Y="584.2885" Z="363.9522"/>
+<b X="395.071" Y="544.6782" Z="365.5799"/>
+</StrElement>
+<StrElement Nr="747" spTrass="27.7778" Fkt="2">
+<g X="395.071" Y="544.6782" Z="365.5799"/>
+<b X="436.0474" Y="518.5106" Z="366.6045"/>
+</StrElement>
+<StrElement Nr="748" spTrass="27.7778" Fkt="2">
+<g X="436.0474" Y="518.5106" Z="366.6045"/>
+<b X="464.4875" Y="499.5846" Z="367.3225"/>
+</StrElement>
+<StrElement Nr="749" spTrass="27.7778" Fkt="2">
+<g X="464.4875" Y="499.5846" Z="367.3225"/>
+<b X="476.5235" Y="491.0744" Z="367.614"/>
+</StrElement>
+<StrElement Nr="752" spTrass="27.7778" Fkt="2">
+<g X="476.5" Y="493.1067" Z="367.6626"/>
+<b X="541.3755" Y="437.9677" Z="369.4494"/>
+</StrElement>
+<StrElement Nr="753" spTrass="27.7778" Fkt="2">
+<g X="541.3755" Y="437.9677" Z="369.4494"/>
+<b X="551.7457" Y="426.7571" Z="369.7934"/>
+</StrElement>
+<StrElement Nr="754" spTrass="27.7778" Fkt="2">
+<g X="551.7457" Y="426.7571" Z="369.7934"/>
+<b X="567.6306" Y="409.4237" Z="370.2251"/>
+</StrElement>
+<StrElement Nr="755" spTrass="27.7778" Fkt="2">
+<g X="567.6306" Y="409.4237" Z="370.2251"/>
+<b X="592.9849" Y="381.4908" Z="370.8343"/>
+</StrElement>
+<StrElement Nr="756" spTrass="27.7778" Fkt="2">
+<g X="592.9849" Y="381.4908" Z="370.8343"/>
+<b X="609.7292" Y="360.5296" Z="371.1833"/>
+</StrElement>
+<StrElement Nr="759" spTrass="27.7778" Fkt="2">
+<g X="721.2983" Y="62.6366" Z="369.9371"/>
+<b X="721.45" Y="55.7859" Z="369.8313"/>
 </StrElement>
 </Strecke>
 </Zusi>

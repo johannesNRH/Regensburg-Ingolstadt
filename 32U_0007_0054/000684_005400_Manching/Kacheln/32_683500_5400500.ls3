@@ -195,12 +195,6 @@
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_l.lod.ls3"/>
-<p X="-159.6932" Y="-281.8615" Z="363.7403"/>
-<phi Z="0.023227"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-ausfaedelung.lod.ls3"/>
 <p X="-160.8929" Y="-281.8893" Z="363.7403"/>
 <phi Z="0.023227"/>
@@ -221,12 +215,6 @@
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-ausfaedelung.lod.ls3"/>
 <p X="-83.1913" Y="-280.0449" Z="363.7137"/>
-<phi Z="0.023231"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_k.lod.ls3"/>
-<p X="-81.9917" Y="-280.017" Z="363.7137"/>
 <phi Z="0.023231"/>
 <sk/>
 </Verknuepfte>
@@ -282,6 +270,108 @@
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-standard_k.lod.ls3"/>
 <p X="222.5925" Y="-272.9749" Z="363.5984"/>
 <phi Z="0.023231"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_68_8.ls3"/>
+<p X="-392.2594" Y="-290.4843" Z="366.4061"/>
+<phi Z="0.02323"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_68_4.ls3"/>
+<p X="-5.3116" Y="-281.5757" Z="366.1747"/>
+<phi Z="0.023269"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_68_8.ls3"/>
+<p X="-391.9796" Y="-290.4778" Z="366.4061"/>
+<phi Z="-3.118362"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_68_6.ls3"/>
+<p X="-236.4026" Y="-286.4403" Z="366.2551"/>
+<phi Z="0.02321"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_68_6.ls3"/>
+<p X="-235.9527" Y="-286.4299" Z="366.2551"/>
+<phi Z="-3.118382"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_68_4.ls3"/>
+<p X="-4.8617" Y="-281.5652" Z="366.1747"/>
+<phi Z="-3.118323"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_68_2.ls3"/>
+<p X="222.8073" Y="-276.1887" Z="366.0984"/>
+<phi Z="-3.118361"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_68_2.ls3"/>
+<p X="222.5273" Y="-276.1952" Z="366.0984"/>
+<phi Z="0.023231"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_68_0.ls3"/>
+<p X="378.4381" Y="-272.5617" Z="366.0522"/>
+<phi Z="0.02323"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_68_0.ls3"/>
+<p X="378.718" Y="-272.5552" Z="366.0522"/>
+<phi Z="-3.118362"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
+<p X="69.7395" Y="-279.7311" Z="371.6446"/>
+<phi Z="0.02323"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Kurve_k.lod.ls3"/>
+<p X="-81.9917" Y="-280.017" Z="363.7138"/>
+<phi Z="0.023231"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Kurve_l.lod.ls3"/>
+<p X="-159.6933" Y="-281.8615" Z="363.7404"/>
+<phi Z="0.023227"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-7.7606" Y="-281.3562" Z="369.9434"/>
+<phi X="-0.009364" Z="4.701334"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-7.7498" Y="-281.7821" Z="369.9218"/>
+<phi X="0.001433" Z="4.689365"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-233.499" Y="-286.916" Z="370.0232"/>
+<phi X="-0.0091" Z="1.646059"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-233.5077" Y="-286.49" Z="370.0006"/>
+<phi X="0.002203" Z="1.634069"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_683500_5400500.lsb"/>

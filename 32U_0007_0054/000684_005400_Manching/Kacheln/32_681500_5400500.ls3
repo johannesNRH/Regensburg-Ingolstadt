@@ -272,6 +272,96 @@
 <phi Z="-0.021817"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_70_8.ls3"/>
+<p X="-389.3239" Y="-336.4926" Z="368.4496"/>
+<phi Z="0.017454"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_70_6.ls3"/>
+<p X="-238.8596" Y="-333.3585" Z="367.7151"/>
+<phi Z="0.023166"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_70_8.ls3"/>
+<p X="-388.744" Y="-336.4825" Z="368.4496"/>
+<phi Z="-3.12414"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_70_6.ls3"/>
+<p X="-238.5801" Y="-333.352" Z="367.7151"/>
+<phi Z="-3.118426"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_70_4.ls3"/>
+<p X="-4.9417" Y="-327.9546" Z="367.5835"/>
+<phi Z="0.023272"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_70_4.ls3"/>
+<p X="-4.6616" Y="-327.9481" Z="367.5835"/>
+<phi Z="-3.11832"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_70_2.ls3"/>
+<p X="216.7107" Y="-323.3722" Z="367.4485"/>
+<phi Z="0.023203"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_70_2.ls3"/>
+<p X="216.9907" Y="-323.3657" Z="367.4485"/>
+<phi Z="-3.118389"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_70_0.ls3"/>
+<p X="366.386" Y="-319.924" Z="367.333"/>
+<phi Z="0.023286"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_70_0.ls3"/>
+<p X="366.6658" Y="-319.9175" Z="367.333"/>
+<phi Z="-3.118306"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
+<p X="288.562" Y="-321.7381" Z="373.8931"/>
+<phi Z="0.023213"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
+<p X="366.5261" Y="-319.9207" Z="373.833"/>
+<phi Z="0.023286"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Rueckleitungsaufhaengung_GM_einfach_0m60.lod.ls3"/>
+<p X="426.6172" Y="-318.2391" Z="372.6866"/>
+<phi Z="3.141593"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Rueckleitungsaufhaengung_GM_einfach_0m60.lod.ls3"/>
+<p X="480.277" Y="-316.9787" Z="372.6453"/>
+<phi Z="3.141593"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Absenkung_l.lod.ls3"/>
+<p X="426.5354" Y="-314.7025" Z="364.7866"/>
+<phi Z="0.023211"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_681500_5400500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="88" MeshI="324">
 <RenderFlags TexVoreinstellung="1"/>

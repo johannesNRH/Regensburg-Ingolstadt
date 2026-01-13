@@ -398,6 +398,66 @@
 <phi X="-0.004961" Z="4.688862"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_65_8.ls3"/>
+<p X="-384.1599" Y="-220.2922" Z="365.2669"/>
+<phi Z="0.023363"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_65_6.ls3"/>
+<p X="-171.896" Y="-216.233" Z="365.3014"/>
+<phi Z="0.023143"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Hektometertafeln" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_65_4.ls3"/>
+<p X="-23.4497" Y="-212.8141" Z="365.2557"/>
+<phi Z="0.023322"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_65_8.ls3"/>
+<p X="-384.0296" Y="-220.286" Z="365.2669"/>
+<phi Z="-3.118229"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_65_6.ls3"/>
+<p X="-171.6157" Y="-216.2265" Z="365.3014"/>
+<phi Z="-3.118449"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_65_4.ls3"/>
+<p X="-23.0596" Y="-212.805" Z="365.2557"/>
+<phi Z="-3.11827"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_65_2.ls3"/>
+<p X="191.3203" Y="-204.594" Z="365.156"/>
+<phi Z="0.083694"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_65_2.ls3"/>
+<p X="191.709" Y="-204.5614" Z="365.156"/>
+<phi Z="-3.057899"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_65_0.ls3"/>
+<p X="423.3662" Y="-170.7903" Z="364.9661"/>
+<phi Z="-2.93573"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_65_0.ls3"/>
+<p X="423.092" Y="-170.8475" Z="364.9661"/>
+<phi Z="0.205862"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_686500_5400500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="98" MeshI="288">
 <RenderFlags TexVoreinstellung="3"/>
