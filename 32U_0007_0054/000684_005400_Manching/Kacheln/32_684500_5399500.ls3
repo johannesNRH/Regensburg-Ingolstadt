@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="32" BoundingR="177" SichtbarBis="140" Vorlade="1">
+<Datei Dateiname="Detail_32_684125_5399875.ls3"/>
+<p X="-375" Y="375"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>

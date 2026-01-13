@@ -15,5 +15,23 @@
 <Datei Dateiname="PermanentWay\Default\rail.dds"/>
 </Textur>
 </SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="20" MeshI="54">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="11" MeshI="27">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="86" MeshI="315">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="109" MeshI="396">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="109" MeshI="396">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="62" MeshI="216">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
 </Landschaft>
 </Zusi>

@@ -2,19 +2,19 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<Verknuepfte Flags="16" BoundingR="1128" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
 <p X="-23.7" Y="118.1175" Z="363.1796"/>
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1050" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
 <p X="-105.6009" Y="124.9487" Z="363.2046"/>
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1070" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Signals\Deutschland\Signalordnung_1959_DB\Rangierdienst\DB_Ra12.lod.ls3"/>
 <p X="-84.0936" Y="120.9862" Z="363.1984"/>
 <phi/>
@@ -32,6 +32,9 @@
 <Textur>
 <Datei Dateiname="PermanentWay\Default\rail.dds"/>
 </Textur>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="24" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 </Landschaft>
 </Zusi>

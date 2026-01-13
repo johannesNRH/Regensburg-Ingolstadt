@@ -2,7 +2,7 @@
 <Zusi>
 <Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
 <Landschaft>
-<Verknuepfte Flags="32" BoundingR="158" SichtbarBis="140" Vorlade="1">
+<Verknuepfte Flags="32" BoundingR="160" SichtbarBis="140" Vorlade="1">
 <Datei Dateiname="Detail_32_686125_5400375.ls3"/>
 <p X="-375" Y="-125"/>
 <phi/>
@@ -14,7 +14,7 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="32" BoundingR="151" SichtbarBis="140" Vorlade="1">
+<Verknuepfte Flags="32" BoundingR="152" SichtbarBis="140" Vorlade="1">
 <Datei Dateiname="Detail_32_686625_5400375.ls3"/>
 <p X="125" Y="-125"/>
 <phi/>
@@ -48,12 +48,6 @@
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d190-l9m.lod.ls3"/>
 <p X="345.979" Y="-181.4234" Z="362.5293"/>
 <phi Z="0.16526"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d190-l9m.lod.ls3"/>
-<p X="191.1964" Y="-200.786" Z="362.656"/>
-<phi Z="0.083694"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
@@ -174,12 +168,6 @@
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
 <p X="46.6843" Y="-211.1736" Z="371.734"/>
 <phi Z="-0.016373"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
-<p X="191.5145" Y="-204.5777" Z="371.6559"/>
-<phi Z="0.083694"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
@@ -342,6 +330,72 @@
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
 <p X="-459.4249" Y="-222.9995" Z="371.7632"/>
 <phi Z="0.023165"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-20.6206" Y="-212.8425" Z="369.0258"/>
+<phi X="-0.010118" Z="1.659446"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-20.6289" Y="-212.4167" Z="369.0006"/>
+<phi X="0.002488" Z="1.647399"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Betonmast_d310-l9m.lod.ls3"/>
+<p X="191.1964" Y="-200.786" Z="362.656"/>
+<phi Z="0.083694"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
+<p X="191.5144" Y="-204.5777" Z="371.656"/>
+<phi Z="0.083694"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Radspanner2fach-oAbspannung.lod.ls3"/>
+<p X="191.5144" Y="-204.5777" Z="362.656"/>
+<phi Z="-3.057899"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="188.8611" Y="-204.437" Z="368.9253"/>
+<phi X="-0.009675" Z="-1.555673"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="188.8984" Y="-204.8615" Z="368.9035"/>
+<phi X="0.001202" Z="-1.567627"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-456.9915" Y="-223.0108" Z="369.5946"/>
+<phi X="0.009235" Z="1.653185"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-456.9984" Y="-222.6596" Z="368.7198"/>
+<phi X="-0.003409" Z="1.6433"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-252.3054" Y="-217.7321" Z="369.5123"/>
+<phi X="0.006535" Z="4.678922"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="-252.3149" Y="-217.381" Z="368.6353"/>
+<phi X="-0.004961" Z="4.688862"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_686500_5400500.lsb"/>

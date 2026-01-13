@@ -6629,9 +6629,9 @@
 <b X="-1977.3311" Y="187.5262" Z="364.7125"/>
 <InfoNormRichtung vMax="-1" km="69.8745" pos="1">
 <Ereignis Er="6"/>
-<Signal NameBetriebsstelle="Ernsgaden Abzw" Stellwerk="Ingolstadt Hbf Ihf" Signalname="101" SignalFlags="3" SignalTyp="2" BoundingR="34">
+<Signal NameBetriebsstelle="Ingolstadt-Sandrach Abzw" Stellwerk="Ingolstadt Hbf Ihf" Signalname="101" SignalFlags="3" SignalTyp="2" BoundingR="34">
 <p X="-1979.131" Y="187.4844" Z="364.7139"/>
-<phi Y="0.000772" Z="0.023231"/>
+<phi Y="0.000771" Z="0.02323"/>
 <SignalFrame>
 <p/>
 <phi/>

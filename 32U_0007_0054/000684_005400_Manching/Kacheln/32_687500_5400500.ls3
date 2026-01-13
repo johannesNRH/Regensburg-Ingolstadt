@@ -242,6 +242,18 @@
 <phi Z="0.287241"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="80.823" Y="16.3123" Z="368.1794"/>
+<phi X="-0.007903" Z="1.930897"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
+<p X="80.7039" Y="16.7215" Z="368.1576"/>
+<phi X="0.002994" Z="1.918951"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_687500_5400500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="43" MeshI="123">
 <RenderFlags TexVoreinstellung="3"/>
