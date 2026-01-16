@@ -374,6 +374,12 @@
 <phi X="0.002203" Z="1.634069"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\bue_550cm_eingleisig.ls3"/>
+<p X="-216.3861" Y="-283.1764" Z="363.744"/>
+<phi Z="0.023227"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_683500_5400500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="5" TypGF="3" MeterProTex="5" MeshV="104" MeshI="384">
 <RenderFlags TexVoreinstellung="1"/>

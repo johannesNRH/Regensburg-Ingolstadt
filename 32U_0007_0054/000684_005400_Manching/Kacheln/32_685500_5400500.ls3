@@ -1700,7 +1700,7 @@
 <phi X="-0.009317" Z="4.641009"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1571" SichtbarBis="3000" Vorlade="1">
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Ebs\Re200\Keramik\2m60\Re200_Keramik_2m60_Bogen_umgelenkt_A70_oW.lod.ls3"/>
 <p X="46.6542" Y="-224.6907" Z="363.0923"/>
 <phi Z="0.023231"/>

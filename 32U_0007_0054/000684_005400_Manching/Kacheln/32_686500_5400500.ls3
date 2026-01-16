@@ -8,13 +8,13 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="32" BoundingR="155" SichtbarBis="140" Vorlade="1">
+<Verknuepfte Flags="32" BoundingR="156" SichtbarBis="140" Vorlade="1">
 <Datei Dateiname="Detail_32_686375_5400375.ls3"/>
 <p X="-125" Y="-125"/>
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="32" BoundingR="152" SichtbarBis="140" Vorlade="1">
+<Verknuepfte Flags="32" BoundingR="153" SichtbarBis="140" Vorlade="1">
 <Datei Dateiname="Detail_32_686625_5400375.ls3"/>
 <p X="125" Y="-125"/>
 <phi/>
@@ -32,7 +32,7 @@
 <phi Z="0.246894"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="32" BoundingR="144" SichtbarBis="140" Vorlade="1">
+<Verknuepfte Flags="32" BoundingR="145" SichtbarBis="140" Vorlade="1">
 <Datei Dateiname="Detail_32_686875_5400375.ls3"/>
 <p X="375" Y="-125"/>
 <phi/>
@@ -456,6 +456,12 @@
 <Datei Dateiname="Routes\Deutschland\32U_0007_0054\000684_005400_Manching\Hektometertafeln\Hekto_65_0.ls3"/>
 <p X="423.092" Y="-170.8475" Z="364.9661"/>
 <phi Z="0.205862"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Terrain\Deutschland\Bahnuebergang\bue_300cm_eingleisig.ls3"/>
+<p X="124.7532" Y="-204.8212" Z="362.71"/>
+<phi Z="-3.092812"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_686500_5400500.lsb"/>
