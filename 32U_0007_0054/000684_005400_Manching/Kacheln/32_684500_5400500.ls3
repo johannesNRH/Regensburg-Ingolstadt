@@ -519,12 +519,6 @@
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Ebs\Re200\Keramik\4m40\Re200_Keramik_4m40_Gerade_umgelenkt.lod.ls3"/>
-<p X="420.4485" Y="-241.0573" Z="363.2851"/>
-<phi Z="-3.118363"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Ebs\Re200\Keramik\4m60\Re200_Keramik_4m60_Gerade_angelenkt.lod.ls3"/>
 <p X="421.6528" Y="-241.2294" Z="363.2851"/>
 <phi Z="-3.118363"/>
@@ -534,18 +528,6 @@
 <Datei Dateiname="Catenary\Deutschland\Ebs\Maste\Aufsetz-Rahmenflachmaste\Befestigungsteile\Mah_U_U12_BH18_Sba2390.lod.ls3"/>
 <p X="420.9428" Y="-236.5016" Z="363.2351"/>
 <phi Z="-3.118363"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="367.2928" Y="-240.9497" Z="369.9357"/>
-<phi X="0.00835" Z="1.562582"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="367.3014" Y="-241.3097" Z="369.0427"/>
-<phi X="0.004847" Z="1.568022"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
@@ -631,6 +613,12 @@
 <p X="364.0197" Y="-247.0833" Z="361.6055"/>
 <phi Z="0.023337"/>
 <sk Z="1.25"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Re200\Keramik\4m20\Nsp\Re200_Keramik_4m20_Bogen_Nsp3f.lod.ls3"/>
+<p X="420.4442" Y="-240.8773" Z="363.2351"/>
+<phi Z="-3.118363"/>
+<sk/>
 </Verknuepfte>
 <lsb Dateiname="32_684500_5400500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeshV="54" MeshI="114">
