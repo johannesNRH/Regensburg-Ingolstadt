@@ -36,5 +36,8 @@
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="54" MeshI="198">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="12" MeshI="36">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
 </Landschaft>
 </Zusi>

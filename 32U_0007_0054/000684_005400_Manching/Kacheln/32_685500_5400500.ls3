@@ -220,7 +220,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast_8m5.lod.ls3"/>
-<p X="297.8588" Y="-233.4798" Z="362.9648"/>
+<p X="297.8461" Y="-233.4091" Z="362.9648"/>
 <phi Z="0.144372"/>
 <sk/>
 </Verknuepfte>
@@ -244,7 +244,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Flachmast_8m.lod.ls3"/>
-<p X="-497.8098" Y="-251.5694" Z="363.2102"/>
+<p X="-497.8153" Y="-251.3351" Z="363.2102"/>
 <phi Z="0.023244"/>
 <sk/>
 </Verknuepfte>
@@ -286,7 +286,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Mehrgleisausleger\Rohrausleger\Rohrausleger11m_6m5Ausleger.lod.ls3"/>
-<p X="78.0166" Y="-230.2164" Z="363.0327"/>
+<p X="78.0188" Y="-230.3101" Z="363.0327"/>
 <phi Z="-3.118387"/>
 <sk/>
 </Verknuepfte>
@@ -470,12 +470,6 @@
 <phi Z="0.023248"/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m6\Ausleger_3m6-Kurve_s.lod.ls3"/>
-<p X="343.9407" Y="-227.3344" Z="362.9508"/>
-<phi Z="0.023248"/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
 <p X="153.0579" Y="-225.3687" Z="363.0095"/>
@@ -490,7 +484,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
-<p X="77.9446" Y="-227.1122" Z="363.0327"/>
+<p X="77.9468" Y="-227.2059" Z="363.0327"/>
 <phi Z="-3.118387"/>
 <sk/>
 </Verknuepfte>
@@ -562,13 +556,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Mehrgleisausleger\Rohrausleger\Haengesaeule2m95.lod.ls3"/>
-<p X="288.3505" Y="-228.0276" Z="371.0978"/>
-<phi Z="-3.118375"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_2m5\Ausleger_2m5-Kurve_s.lod.ls3"/>
-<p X="288.4133" Y="-230.7269" Z="362.9678"/>
+<p X="288.3447" Y="-227.7761" Z="371.0978"/>
 <phi Z="-3.118375"/>
 <sk/>
 </Verknuepfte>
@@ -593,12 +581,6 @@
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
 <p X="-485.4944" Y="-256.7424" Z="363.2065"/>
-<phi Z="-0.110938"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m6\Ausleger_3m6-Kurve_s.lod.ls3"/>
-<p X="-484.479" Y="-253.0471" Z="363.2065"/>
 <phi Z="-0.110938"/>
 <sk/>
 </Verknuepfte>
@@ -706,13 +688,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Mehrfachabzug.lod.ls3"/>
-<p X="262.8593" Y="-235.4051" Z="362.9756"/>
+<p X="263.2524" Y="-235.2319" Z="362.9756"/>
 <phi Z="0.023243"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Mehrfachabzug.lod.ls3"/>
-<p X="263.2553" Y="-238.9298" Z="362.9756"/>
+<p X="263.3178" Y="-238.9283" Z="362.9756"/>
 <phi Z="0.023243"/>
 <sk/>
 </Verknuepfte>
@@ -724,19 +706,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
-<p X="298.3092" Y="-236.5772" Z="362.9648"/>
-<phi Z="0.144372"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m6\Ausleger_3m6-Kurve_s.lod.ls3"/>
-<p X="297.1709" Y="-232.9179" Z="362.9648"/>
-<phi Z="0.144372"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Kurve_s.lod.ls3"/>
-<p X="298.4447" Y="-233.339" Z="362.9648"/>
+<p X="298.2965" Y="-236.5065" Z="362.9648"/>
 <phi Z="0.144372"/>
 <sk/>
 </Verknuepfte>
@@ -814,31 +784,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Spannpunkt-Festpunkt.lod.ls3"/>
-<p X="-36.564" Y="-229.3271" Z="363.068"/>
-<phi Z="0.023182"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Spannpunkt-Festpunkt.lod.ls3"/>
 <p X="-311.287" Y="-235.3269" Z="363.1527"/>
 <phi Z="0.02321"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
-<p X="-497.737" Y="-254.6986" Z="363.2102"/>
-<phi Z="0.023244"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m\Ausleger_3m-Kurve_s.lod.ls3"/>
-<p X="-498.4109" Y="-251.5284" Z="363.2101"/>
-<phi Z="0.023244"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m6\Ausleger_3m6-Kurve_s.lod.ls3"/>
-<p X="-497.2251" Y="-250.9006" Z="363.2101"/>
+<p X="-497.7425" Y="-254.4642" Z="363.2102"/>
 <phi Z="0.023244"/>
 <sk/>
 </Verknuepfte>
@@ -892,7 +844,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re250-330\Speiseleitungen\Speiseleitung_Isolator-senkrecht.lod.ls3"/>
-<p X="298.3263" Y="-236.696" Z="371.3148"/>
+<p X="298.3136" Y="-236.6253" Z="371.3148"/>
 <phi Z="0.144372"/>
 <sk/>
 </Verknuepfte>
@@ -964,7 +916,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Turmmaste\Anbauteile_bis14m\Mastschalter\Mastschalter.lod.ls3"/>
-<p X="77.9377" Y="-226.8173" Z="373.9077"/>
+<p X="77.9399" Y="-226.911" Z="373.9077"/>
 <phi Z="-3.118387"/>
 <sk/>
 </Verknuepfte>
@@ -988,7 +940,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re75\Bogenabzug\Mehrfachabzug.lod.ls3"/>
-<p X="-455.0541" Y="-252.0516" Z="363.1971"/>
+<p X="-455.3259" Y="-252.0579" Z="363.1971"/>
 <phi Z="0.023239"/>
 <sk/>
 </Verknuepfte>
@@ -1044,12 +996,6 @@
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_2m\Ausleger_2m-Kurve_k.lod.ls3"/>
 <p X="216.0072" Y="-231.6775" Z="362.9901"/>
 <phi Z="-3.118327"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m6\Ausleger_3m6-Kurve_l.lod.ls3"/>
-<p X="342.741" Y="-227.3623" Z="362.9508"/>
-<phi Z="0.023248"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="5" SichtbarBis="3000" Vorlade="1">
@@ -1186,7 +1132,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Ebs\Re200\Keramik\2m50\Re200_Keramik_2m50_Gerade_angelenkt.lod.ls3"/>
-<p X="77.8707" Y="-223.9351" Z="363.0827"/>
+<p X="77.8729" Y="-224.0288" Z="363.0827"/>
 <phi Z="0.023206"/>
 <sk/>
 </Verknuepfte>
@@ -1215,14 +1161,8 @@
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_2m5\Ausleger_2m5-Kurve_l.lod.ls3"/>
-<p X="78.6068" Y="-229.7825" Z="363.0327"/>
-<phi Z="-3.118387"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_2m5\Ausleger_2m5-ausfaedelung.lod.ls3"/>
-<p X="77.4071" Y="-229.8104" Z="363.0327"/>
+<p X="77.4093" Y="-229.9041" Z="363.0327"/>
 <phi Z="-3.118387"/>
 <sk/>
 </Verknuepfte>
@@ -1242,18 +1182,6 @@
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Spannpunkt-doppelt.lod.ls3"/>
 <p X="45.9727" Y="-227.6523" Z="363.2596"/>
 <phi Z="-3.118362"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="47.918" Y="-227.7901" Z="370.2215"/>
-<phi X="-0.005931" Z="1.502393"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Isolator.lod.ls3"/>
-<p X="47.908" Y="-227.7903" Z="369.2984"/>
-<phi X="0.005604" Z="1.502424"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
@@ -1706,6 +1634,108 @@
 <phi Z="0.023231"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_2m5\Ausleger_2m5-Kurve_k.lod.ls3"/>
+<p X="78.609" Y="-229.8763" Z="363.0327"/>
+<phi Z="-3.118387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="47.9176" Y="-227.7961" Z="370.2214"/>
+<phi X="-0.005923" Z="1.499436"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="47.9076" Y="-227.7962" Z="369.2984"/>
+<phi X="0.005602" Z="1.499468"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH14\Re75_Ausleger_2m00_SH14_Standard_l.lod.ls3"/>
+<p X="288.3958" Y="-229.9755" Z="362.7162"/>
+<phi Z="-3.118375"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH14\Re75_Ausleger_3m00_SH14_Standard_l.lod.ls3"/>
+<p X="343.9546" Y="-227.9343" Z="361.2617"/>
+<phi Z="0.023248"/>
+<sk Z="1.25"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="390.6957" Y="-227.0555" Z="369.6233"/>
+<phi X="0.006066" Z="-1.557447"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="390.6871" Y="-226.6939" Z="368.7237"/>
+<phi X="0.005872" Z="-1.552817"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH14\Re75_Ausleger_3m00_SH14_Standard_k.lod.ls3"/>
+<p X="-498.4163" Y="-251.2941" Z="361.554"/>
+<phi Z="0.023244"/>
+<sk Z="1.25"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH14\Re75_Ausleger_2m70_SH14_Standard_l.lod.ls3"/>
+<p X="-497.2097" Y="-251.5661" Z="361.5383"/>
+<phi Z="0.023244"/>
+<sk Z="1.25"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH14\Re75_Ausleger_3m00_SH14_Standard_l.lod.ls3"/>
+<p X="-484.5454" Y="-253.6434" Z="361.5237"/>
+<phi Z="-0.110938"/>
+<sk Z="1.25"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Spannpunkt-doppelt-horizontal.lod.ls3"/>
+<p X="-36.564" Y="-229.3271" Z="363.068"/>
+<phi Z="0.023182"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH14\Re75_Ausleger_2m70_SH14_Standard_l.lod.ls3"/>
+<p X="297.2877" Y="-233.7378" Z="361.3086"/>
+<phi Z="0.144372"/>
+<sk Z="1.25"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH14\Re75_Ausleger_2m20_SH14_Standard_l.lod.ls3"/>
+<p X="298.525" Y="-233.9369" Z="361.3101"/>
+<phi Z="0.144372"/>
+<sk Y="1.05" Z="1.25"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m4\Ausleger_3m4-Kurve_l.lod.ls3"/>
+<p X="342.7456" Y="-227.5623" Z="362.9509"/>
+<phi Z="0.023248"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="340.8645" Y="-231.6353" Z="369.6457"/>
+<phi X="0.002574" Z="-1.521448"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="340.8562" Y="-231.2717" Z="368.7395"/>
+<phi X="0.005698" Z="-1.51778"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Gleisschaltmittel\Achszaehler_einfach.lod.ls3"/>
+<p X="499.1921" Y="-220.0816" Z="362.9028"/>
+<phi Z="-3.118364"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_685500_5400500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeshV="16" MeshI="24">
 <RenderFlags TexVoreinstellung="3"/>
@@ -1906,6 +1936,18 @@
 </Textur>
 <Textur>
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Schwellen_Holz_K-Oberbau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeterProTex="1.3" MeterProTex2="10" MeshV="30" MeshI="72">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\ASPHALT-mittelgrau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeterProTex="1" MeterProTex2="10" MeshV="56" MeshI="144">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bahnhof\Bahnsteig\38cm\Kassettenstein_01.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>

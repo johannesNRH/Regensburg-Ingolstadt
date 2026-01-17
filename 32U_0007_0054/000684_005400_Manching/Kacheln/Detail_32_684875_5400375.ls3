@@ -90,5 +90,32 @@
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="51" MeshI="189">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="57" MeshI="216">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="52" MeshI="192">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="48" MeshI="180">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="39" MeshI="144">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="39" MeshI="144">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="51" MeshI="189">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="48" MeshI="180">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="57" MeshI="216">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="35" MeshI="123">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
 </Landschaft>
 </Zusi>

@@ -82,7 +82,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Gittermast9m.lod.ls3"/>
-<p X="462.9034" Y="-251.726" Z="363.2223"/>
+<p X="462.9114" Y="-252.0697" Z="363.2223"/>
 <phi Z="0.023245"/>
 <sk/>
 </Verknuepfte>
@@ -148,13 +148,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Doppelauslegerhalterung.lod.ls3"/>
-<p X="462.8986" Y="-251.5211" Z="363.2223"/>
-<phi Z="0.023245"/>
-<sk/>
-</Verknuepfte>
-<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m6\Ausleger_3m6-Kurve_s.lod.ls3"/>
-<p X="462.2108" Y="-247.7511" Z="363.2222"/>
+<p X="462.9066" Y="-251.8648" Z="363.2223"/>
 <phi Z="0.023245"/>
 <sk/>
 </Verknuepfte>
@@ -166,13 +160,13 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Turmmaste\Anbauteile_bis14m\Speiseleitungen\Speiseleitung_Armk-1IsolatorSenkrecht.lod.ls3"/>
-<p X="462.9034" Y="-251.726" Z="371.9723"/>
+<p X="462.9114" Y="-252.0697" Z="371.9723"/>
 <phi Z="0.023245"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Turmmaste\Anbauteile_bis14m\Leuchten\Lampenaufsatz_Gittermastleuchte.lod.ls3"/>
-<p X="462.9035" Y="-251.726" Z="371.9723"/>
+<p X="462.9115" Y="-252.0697" Z="371.9723"/>
 <phi Z="3.159046"/>
 <sk/>
 </Verknuepfte>
@@ -448,7 +442,7 @@
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Catenary\Deutschland\Re160-200\Ausleger_3m4\Ausleger_3m4-Kurve_l.lod.ls3"/>
-<p X="463.415" Y="-247.9232" Z="363.2223"/>
+<p X="463.423" Y="-248.2669" Z="363.2223"/>
 <phi Z="0.023245"/>
 <sk/>
 </Verknuepfte>
@@ -618,6 +612,84 @@
 <Datei Dateiname="Catenary\Deutschland\Ebs\Re200\Keramik\4m20\Nsp\Re200_Keramik_4m20_Bogen_Nsp3f.lod.ls3"/>
 <p X="420.4442" Y="-240.8773" Z="363.2351"/>
 <phi Z="-3.118363"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="290.4345" Y="-252.1883" Z="369.9319"/>
+<phi X="0.014546" Z="1.642801"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="290.4278" Y="-251.843" Z="369.0539"/>
+<phi X="0.003539" Z="1.629964"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="367.2927" Y="-240.9597" Z="369.952"/>
+<phi X="0.000187" Z="1.55755"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="367.3015" Y="-241.3105" Z="369.059"/>
+<phi X="-0.003313" Z="1.56766"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="4" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Re75\Re75_Ausleger_SH14\Re75_Ausleger_3m00_SH14_Standard_l.lod.ls3"/>
+<p X="462.2326" Y="-248.6946" Z="361.566"/>
+<phi Z="0.023244"/>
+<sk Z="1.25"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Radspannwerke\RSP-GM_ueber_ged.lod.ls3"/>
+<p X="414.715" Y="-249.5716" Z="363.2372"/>
+<phi Z="0.023281"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="417.3013" Y="-249.6893" Z="369.9273"/>
+<phi X="0.004915" Z="1.598134"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="417.2929" Y="-249.3271" Z="369.0251"/>
+<phi X="0.006042" Z="1.593771"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="367.2865" Y="-249.6152" Z="369.9375"/>
+<phi X="0.007436" Z="1.674325"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="367.2799" Y="-249.2648" Z="369.0395"/>
+<phi X="0.006445" Z="1.664072"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Einzelteile_Re75-200\Radspannwerke\RSP-GM_ueber_ged.lod.ls3"/>
+<p X="462.9043" Y="-252.0698" Z="363.2223"/>
+<phi Z="0.023245"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="465.491" Y="-252.2003" Z="369.9234"/>
+<phi X="-0.000574" Z="1.59176"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" GruppenName="Kettenwerk Re 160" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Catenary\Deutschland\Ebs\Isolatoren\Mehrgliedisolatoren\Mehrgliedisolator_1967_Ekl.lod.ls3"/>
+<p X="465.4825" Y="-251.8354" Z="369.0071"/>
+<phi X="0.007541" Z="1.588737"/>
 <sk/>
 </Verknuepfte>
 <lsb Dateiname="32_684500_5400500.lsb"/>

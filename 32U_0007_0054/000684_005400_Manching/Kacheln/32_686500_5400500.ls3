@@ -464,6 +464,30 @@
 <phi Z="-3.092812"/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Gleisschaltmittel\Achszaehler_einfach.lod.ls3"/>
+<p X="262.6333" Y="-193.0506" Z="362.5976"/>
+<phi Z="-3.023696"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Gleisschaltmittel\Achszaehler_einfach.lod.ls3"/>
+<p X="262.6333" Y="-193.0506" Z="362.5976"/>
+<phi Z="0.12469"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Gleisschaltmittel\Achszaehler_einfach.lod.ls3"/>
+<p X="120.1501" Y="-205.0416" Z="362.7114"/>
+<phi Z="-3.098371"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Signals\Deutschland\Gleisschaltmittel\Achszaehler_einfach.lod.ls3"/>
+<p X="120.1501" Y="-205.0416" Z="362.7114"/>
+<phi Z="0.047493"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_686500_5400500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" MeterProTex="5" MeterProTex2="1" MeshV="98" MeshI="288">
 <RenderFlags TexVoreinstellung="3"/>

@@ -21,10 +21,16 @@
 <SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="39" MeshI="216">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
-<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="39" MeshI="216">
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="33" MeshI="93">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
-<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenlinien" MeterProTex="10" MeterProTex2="10" MeshV="33" MeshI="171">
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="33" MeshI="117">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="38" MeshI="132">
+<RenderFlags TexVoreinstellung="1"/>
+</SubSet>
+<SubSet Ca="00FCFCFC" TypLs3="14" GruppenName="Kettenwerk Re 160" MeterProTex="10" MeterProTex2="10" MeshV="12" MeshI="36">
 <RenderFlags TexVoreinstellung="1"/>
 </SubSet>
 </Landschaft>
